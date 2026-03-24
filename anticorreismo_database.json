@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "titulo": "Base de Datos de la Red Anticorreísmo en Ecuador",
+    "creado": "2025-03-23",
+    "ultima_actualizacion": "2025-03-23",
+    "version": "1.0.0",
+    "descripcion": "Investigación estructurada sobre enemigos, adversarios y opositores a Rafael Correa Delgado y la Revolución Ciudadana",
+    "total_enemigos_principales": 0,
+    "total_enemigos_secundarios": 0,
+    "total_redes_conexiones": 0,
+    "total_casos_corrupcion": 0,
+    "total_medios_comunicacion": 0
+  },
+  "enemigos_principales": [],
+  "enemigos_secundarios": [],
+  "redes_conexiones": [],
+  "casos_corrupcion": [],
+  "medios_comunicacion": [],
+  "organizaciones_politicas": [],
+  "empresas_empresarios": [],
+  "funcionarios_judiciales": [],
+  "instituciones_involucradas": [],
+  "linea_temporal": [],
+  "documentos_referencia": []
+}
