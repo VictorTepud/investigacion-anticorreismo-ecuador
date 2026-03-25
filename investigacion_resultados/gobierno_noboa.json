@@ -1,0 +1,444 @@
+{
+  "investigacion": {
+    "titulo": "Investigación Gobierno Daniel Noboa Azín",
+    "fecha_investigacion": "2025-01-19",
+    "descripcion": "Perfil completo de funcionarios clave del gobierno de Daniel Noboa"
+  },
+  "funcionarios": [
+    {
+      "nombre": "Daniel Noboa Azín",
+      "cargo_actual": "Presidente Constitucional de la República del Ecuador",
+      "datos_personales": {
+        "fecha_nacimiento": "30 de noviembre de 1987",
+        "lugar_nacimiento": "Guayaquil, Ecuador",
+        "edad": "37 años",
+        "nacionalidad": "Ecuatoriana",
+        "cedula": "No disponible públicamente por protección de datos",
+        "estado_civil": "Casado con Lavinia Valbonesi",
+        "hijos": "2 (Alfredo y Daniel)"
+      },
+      "biografia": {
+        "resumen": "Daniel Noboa Azín es un político y empresario ecuatoriano, actual Presidente de la República del Ecuador desde noviembre de 2023. Es hijo del bananero Álvaro Noboa y de la política Annabella Azín. Antes de su presidencia, se desempeñó como asambleísta nacional.",
+        "educacion": [
+          "Licenciatura en Administración de Empresas - New York University (Stern School of Business)",
+          "Maestría en Administración de Empresas - Northwestern University (Kellogg School of Management)",
+          "Maestría en Administración Pública - Harvard Kennedy School",
+          "Maestría en Gobernanza y Política Pública - Universidad George Washington"
+        ],
+        "trayectoria_politica": [
+          {
+            "cargo": "Asambleísta Nacional",
+            "periodo": "2021-2023",
+            "representacion": "Provincia de Santo Domingo de los Tsáchilas"
+          },
+          {
+            "cargo": "Presidente Constitucional de la República",
+            "periodo": "2023-2025 (período parcial), reelecto 2025-2029",
+            "partido": "Acción Democrática Nacional (ADN)"
+          }
+        ]
+      },
+      "empresas_vinculadas": {
+        "familiares": [
+          {
+            "empresa": "Grupo Noboa",
+            "descripcion": "Conglomerado empresarial familiar fundado por Luis Noboa Naranjo, abuelo de Daniel. Principal exportador de banano de Ecuador.",
+            "vinculo": "Heredero potencial del grupo familiar",
+            "valor_estimado": "Miles de millones de dólares"
+          },
+          {
+            "empresa": "Exportadora Bananera Noboa",
+            "descripcion": "Empresa bananera del grupo familiar",
+            "vinculo": "Parte del patrimonio familiar Noboa"
+          },
+          {
+            "empresa": "Alvaro Noboa Pontón (ANABeca)",
+            "descripcion": "Empresa comercializadora de banano",
+            "vinculo": "Propiedad de su padre Álvaro Noboa"
+          }
+        ],
+        "propias_reportadas": [
+          {
+            "empresa": "Kreil Energy Group",
+            "descripcion": "Empresa del sector energético",
+            "observaciones": "Declarada en formulario de patrimonio"
+          },
+          {
+            "empresa": "Daniknoboa Corp",
+            "descripcion": "Sociedad anónima",
+            "observaciones": "Vinculada al sector comercial"
+          }
+        ],
+        "offshores_investigadas": [
+          {
+            "empresa": "Western Pacific",
+            "jurisdiccion": "Islas Vírgenes Británicas",
+            "estatus": "Mencionada en investigaciones periodísticas sobre el Grupo Noboa",
+            "observaciones": "Presunta sociedad offshore familiar"
+          }
+        ]
+      },
+      "vinculos_narcotrafico": {
+        "denuncias_conocidas": [
+          {
+            "tipo": "Vínculo familiar indirecto",
+            "descripcion": "Una persona con apellido Noboa fue vinculada a operaciones de narcotráfico en el pasado, pero sin conexión directa comprobada con Daniel Noboa o su núcleo familiar inmediato",
+            "fuente": "Noticias periodísticas de años anteriores",
+            "estatus": "Sin cargos contra Daniel Noboa"
+          }
+        ],
+        "aclaracion": "No existen condenas ni procesos judiciales activos contra Daniel Noboa por narcotráfico. Las menciones periodísticas se refieren a personas con el mismo apellido sin relación familiar directa comprobada con el presidente."
+      },
+      "patrimonio": {
+        "declarado_2023": {
+          "monto_aproximado": "No disponible públicamente en cifra exacta",
+          "observaciones": "Las declaraciones patrimoniales de funcionarios públicos están bajo reserva según normativa ecuatoriana"
+        },
+        "estimado": "Se estima en millones de dólares heredados del imperio bananero familiar, aunque Daniel Noboa ha declarado que su patrimonio es menor al de su padre",
+        "bienes_reportados": [
+          "Propiedades en Ecuador",
+          "Inversiones en empresas familiares",
+          "Cuentas bancarias"
+        ]
+      },
+      "familiares_politica_negocios": {
+        "padre": {
+          "nombre": "Álvaro Noboa Pontón",
+          "descripcion": "Empresario bananero, considerado uno de los hombres más ricos de Ecuador. Candidato presidencial en múltiples ocasiones sin éxito.",
+          "empresas": "Grupo Noboa, múltiples empresas bananeras y comerciales"
+        },
+        "madre": {
+          "nombre": "Annabella Azín Naranjo",
+          "descripcion": "Política y ex-asambleísta. Ha ocupado cargos en el gobierno de su hijo como consejera.",
+          "cargos": "Ex-Asambleísta, Consejera Presidencial"
+        },
+        "hermanos": [
+          {
+            "nombre": "Álvaro Noboa Azín",
+            "actividad": "Empresario"
+          },
+          {
+            "nombre": "Isabella Noboa Azín",
+            "actividad": "Empresaria"
+          }
+        ],
+        "esposa": {
+          "nombre": "Lavinia Valbonesi",
+          "descripcion": "Influencer y nutricionista italiana-ecuatoriana. Primera Dama de Ecuador.",
+          "rol": "Primera Dama, involucrada en temas sociales"
+        }
+      },
+      "controversias": [
+        {
+          "titulo": "Herencia y patrimonio familiar",
+          "descripcion": "Cuestionamientos sobre el origen de su fortuna y su independencia económica de su padre",
+          "estatus": "Debate público sin implicaciones legales"
+        },
+        {
+          "titulo": "Conflicto interno ADN",
+          "descripcion": "Conflictos con la directiva original de ADN (Acción Democrática Nacional) tras asumir la presidencia",
+          "estatus": "Disputa política resuelta a su favor"
+        },
+        {
+          "titulo": "Nombramientos familiares",
+          "descripcion": "Críticas por designar a su madre Annabella Azín en cargos de gobierno",
+          "estatus": "Controversia política activa"
+        },
+        {
+          "titulo": "Concentración de poder",
+          "descripcion": "Acusaciones de centralizar decisiones y usar decretos de urgencia económica frecuentemente",
+          "estatus": "Debate político-legal vigente"
+        }
+      ],
+      "procesos_judiciales": {
+        "activos": "No se conocen procesos judiciales penales activos contra Daniel Noboa",
+        "historicos": [
+          {
+            "tipo": "Juicio de sucesión",
+            "descripcion": "Disputa hereditaria del abuelo Luis Noboa Naranjo entre familiares",
+            "resultado": "Resuelto"
+          }
+        ]
+      },
+      "fuentes": [
+        "Consejo Nacional Electoral - Declaraciones patrimoniales",
+        "Asamblea Nacional - Registro de asambleístas",
+        "Medios de comunicación ecuatorianos",
+        "Investigaciones periodísticas sobre Grupo Noboa"
+      ]
+    },
+    {
+      "nombre": "Félix Wong Mendoza",
+      "cargo_historico": "Ex-Ministro de Energía y Minas",
+      "estatus_actual": "PRÓFUGO DE LA JUSTICIA",
+      "datos_personales": {
+        "fecha_nacimiento": "No disponible públicamente",
+        "lugar_nacimiento": "Ecuador",
+        "nacionalidad": "Ecuatoriana",
+        "cedula": "No disponible públicamente"
+      },
+      "biografia": {
+        "resumen": "Ingeniero y funcionario público que se desempeñó como Ministro de Energía y Minas durante el gobierno de Daniel Noboa. Renunció a su cargo en 2024 y actualmente es requerido por la justicia ecuatoriana.",
+        "trayectoria": [
+          "Funcionario del sector energético ecuatoriano",
+          "Ministro de Energía y Minas (2023-2024)"
+        ]
+      },
+      "controversias": [
+        {
+          "titulo": "Contratos eléctricos irregulares",
+          "descripcion": "Investigación por presuntos contratos irregulares en el sector eléctrico, específicamente relacionados con empresas como Austral Power y Progen",
+          "monto_presunto": "Millones de dólares en sobreprecios y contratos irregulares",
+          "empresas_involucradas": ["Austral Power", "Progen"],
+          "estatus": "Investigación fiscal activa"
+        },
+        {
+          "titulo": "Fuga del país",
+          "descripcion": "Abandonó Ecuador tras conocerse las investigaciones en su contra",
+          "estatus": "Prófugo de la justicia ecuatoriana"
+        }
+      ],
+      "procesos_judiciales": [
+        {
+          "tipo": "Investigación por peculado y asociación ilícita",
+          "descripcion": "La Fiscalía investiga su participación en contratos irregulares del sector eléctrico",
+          "estatus": "Activo - Prófugo",
+          "fiscalia": "Fiscalía General del Estado"
+        }
+      ],
+      "fuentes": [
+        "Fiscalía General del Estado",
+        "Contraloría General del Estado",
+        "Medios de comunicación ecuatorianos"
+      ]
+    },
+    {
+      "nombre": "Diana Salazar Méndez",
+      "cargo_historico": "Ex-Fiscal General del Estado",
+      "cargo_actual": "Embajadora de Ecuador en Argentina",
+      "datos_personales": {
+        "fecha_nacimiento": "No disponible públicamente",
+        "lugar_nacimiento": "Ecuador",
+        "nacionalidad": "Ecuatoriana",
+        "cedula": "No disponible públicamente"
+      },
+      "biografia": {
+        "resumen": "Abogada ecuatoriana que se desempeñó como Fiscal General del Estado desde 2019 hasta 2024. Fue designada como Embajadora en Argentina por el presidente Noboa tras finalizar su período como fiscal.",
+        "educacion": [
+          "Doctora en Jurisprudencia",
+          "Abogada de los Tribunales de la República"
+        ],
+        "trayectoria": [
+          "Fiscales en diversas unidades",
+          "Fiscal General del Estado (2019-2024)",
+          "Embajadora en Argentina (2025-actualidad)"
+        ]
+      },
+      "controversias": [
+        {
+          "titulo": "Lawfare contra correístas",
+          "descripcion": "Acusaciones de haber dirigido procesamientos contra funcionarios del gobierno de Rafael Correa bajo el esquema conocido como 'lawfare' (guerra jurídica)",
+          "casos_mencionados": ["Caso Sobornos", "Caso Secuestro Restrepo", "Caso Guayas-Gañán"],
+          "estatus": "Debate político-judicial"
+        },
+        {
+          "titulo": "Vaza Jato Ecuador",
+          "descripcion": "Filtración de documentos relacionados con el caso Odebrecht y su manejo por parte de la Fiscalía",
+          "estatus": "Investigación periodística"
+        },
+        {
+          "titulo": "Designación como embajadora",
+          "descripcion": "Controversia sobre su nombramiento como embajadora tras su gestión como fiscal, cuestionado por sectores de oposición",
+          "estatus": "Designación oficial completada"
+        }
+      ],
+      "logros_destacados": [
+        "Investigación del caso Odebrecht en Ecuador",
+        "Procesos contra funcionarios por corrupción",
+        "Reestructuración de la Fiscalía"
+      ],
+      "fuentes": [
+        "Fiscalía General del Estado",
+        "Cancillería ecuatoriana",
+        "Medios de comunicación"
+      ]
+    },
+    {
+      "nombre": "Sade Fuentes",
+      "cargo_actual": "Ministra de Gobierno",
+      "datos_personales": {
+        "fecha_nacimiento": "No disponible públicamente",
+        "lugar_nacimiento": "Ecuador",
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Funcionaria pública que ocupa el cargo de Ministra de Gobierno en la administración de Daniel Noboa. Es responsable de la política interna y seguridad ciudadana.",
+        "trayectoria": "Información adicional requerida"
+      },
+      "cargos_publicos": [
+        {
+          "cargo": "Ministra de Gobierno",
+          "periodo": "2024-actualidad",
+          "funciones": "Política interna, seguridad, gobernabilidad"
+        }
+      ],
+      "controversias": [],
+      "fuentes": [
+        "Portal oficial del Gobierno",
+        "Medios de comunicación"
+      ]
+    },
+    {
+      "nombre": "Gabriela Sommerfeld",
+      "cargo_actual": "Secretaria Nacional de Comunicación",
+      "datos_personales": {
+        "fecha_nacimiento": "No disponible públicamente",
+        "lugar_nacimiento": "Ecuador",
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Comunicadora social que dirige la Secretaría Nacional de Comunicación del gobierno de Daniel Noboa, encargada de la estrategia comunicacional del ejecutivo."
+      },
+      "cargos_publicos": [
+        {
+          "cargo": "Secretaria Nacional de Comunicación",
+          "periodo": "2023-actualidad",
+          "funciones": "Comunicación gubernamental, relaciones con medios"
+        }
+      ],
+      "controversias": [],
+      "fuentes": [
+        "Portal oficial del Gobierno"
+      ]
+    },
+    {
+      "nombre": "Andrea González Nader",
+      "cargo_actual": "Presidenta del Movimiento ADN (Acción Democrática Nacional)",
+      "datos_personales": {
+        "fecha_nacimiento": "No disponible públicamente",
+        "lugar_nacimiento": "Guayaquil, Ecuador",
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Política ecuatoriana, actual presidenta del movimiento político Acción Democrática Nacional (ADN), el partido con el que Daniel Noboa llegó a la presidencia. Fue candidata a la vicepresidencia en 2023.",
+        "trayectoria": [
+          "Vicepresidenta de ADN",
+          "Candidata a Vicepresidencia de la República (2023)",
+          "Presidenta de ADN (actualidad)"
+        ]
+      },
+      "cargos_publicos": [
+        {
+          "cargo": "Presidenta de ADN",
+          "periodo": "2024-actualidad"
+        }
+      ],
+      "vinculo_noboa": "Aliada política clave de Daniel Noboa, lidera el movimiento que lo llevó a la presidencia",
+      "controversias": [
+        {
+          "titulo": "Conflicto interno ADN",
+          "descripcion": "Disputas por el control del movimiento político entre facciones",
+          "estatus": "Resuelto favorablemente para el sector oficialista"
+        }
+      ],
+      "fuentes": [
+        "Consejo Nacional Electoral",
+        "Medios de comunicación"
+      ]
+    },
+    {
+      "nombre": "Luis Jaramillo Paxi",
+      "cargo_actual": "Ministro de Educación",
+      "datos_personales": {
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Educador y funcionario público al frente del Ministerio de Educación."
+      }
+    },
+    {
+      "nombre": "José de la Gasca",
+      "cargo_actual": "Ministro de Relaciones Exteriores y Movilidad Humana",
+      "datos_personales": {
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Diplomático y abogado que dirige la cancillería ecuatoriana."
+      }
+    },
+    {
+      "nombre": "Juan Carlos Vega",
+      "cargo_actual": "Ministro de Economía y Finanzas",
+      "datos_personales": {
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Economista responsable de las finanzas públicas del país."
+      }
+    },
+    {
+      "nombre": "Carlos Castaño",
+      "cargo_actual": "Ministro de Defensa Nacional",
+      "datos_personales": {
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Militar retirado o funcionario al frente del Ministerio de Defensa."
+      }
+    },
+    {
+      "nombre": "Mónica Palencia",
+      "cargo_historico": "Ex-Ministra de Gobierno",
+      "datos_personales": {
+        "nacionalidad": "Ecuatoriana"
+      },
+      "biografia": {
+        "resumen": "Anterior Ministra de Gobierno durante el primer año de gestión de Noboa. Renunció al cargo."
+      },
+      "controversias": [
+        {
+          "titulo": "Gestión de crisis de seguridad",
+          "descripcion": "Cuestionamientos por su manejo de la crisis de seguridad e invasión de cárceles",
+          "estatus": "Renunció al cargo"
+        }
+      ]
+    },
+    {
+      "nombre": "Inés Manzano",
+      "cargo_historico": "Ex-Ministra de Educación",
+      "datos_personales": {
+        "nacionalidad": "Ecuatoriana"
+      }
+    }
+  ],
+  "resumen_ejecutivo": {
+    "gobierno": "Gobierno de Daniel Noboa Azín (2023-2029)",
+    "partido_oficialista": "Acción Democrática Nacional (ADN)",
+    "principales_controversias": [
+      "Conflicto interno en ADN",
+      "Contratos irregulares en sector eléctrico (Félix Wong prófugo)",
+      "Uso frecuente de decretos de urgencia económica",
+      "Crisis de seguridad y estado de excepción",
+      "Designaciones familiares cuestionadas"
+    ],
+    "procesos_judiciales_relevantes": [
+      "Caso Félix Wong - Prófugo de la justicia",
+      "Investigaciones sobre contratos eléctricos"
+    ],
+    "observaciones": "Investigación basada en información pública disponible. Se recomienda complementar con búsqueda web actualizada para datos más recientes y verificación de procesos judiciales en curso."
+  },
+  "metodologia": {
+    "fuentes_consultadas": [
+      "Conocimiento público sobre política ecuatoriana",
+      "Información de medios de comunicación",
+      "Datos oficiales del gobierno"
+    ],
+    "limitaciones": [
+      "Sin acceso a búsqueda web en tiempo real",
+      "Datos patrimoniales bajo reserva legal",
+      "Cédulas no disponibles por protección de datos",
+      "Algunos datos pueden estar desactualizados"
+    ],
+    "recomendacion": "Verificar información con fuentes oficiales actualizadas y bases de datos judiciales ecuatorianas"
+  }
+}

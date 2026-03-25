@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "titulo": "Investigación LAWFARE en Ecuador contra el Correísmo",
+    "creado": "2025-01-15",
+    "version": "1.0.0",
+    "descripcion": "Documentación exhaustiva sobre la persecución judicial sistemática contra Rafael Correa y el movimiento Revolución Ciudadana",
+    "categorias": [
+      "Diana Salazar - Fiscalía",
+      "Jueces involucrados",
+      "Caso Sobornos 2012-2016",
+      "Persecución a Rafael Correa",
+      "Tribunal Constitucional"
+    ]
+  },
+  "diana_salazar": {
+    "perfil": {
+      "nombre_completo": "Diana Carolina Salazar Méndez",
+      "alias": ["La dama de hierro", "La pesadilla de Correa", "La fiscal del lawfare"],
+      "nacimiento": {
+        "fecha": "5 de junio de 1981",
+        "lugar": "Ibarra, Ecuador"
+      },
+      "profesion": "Abogada, Fiscal",
+      "cargos": [
+        "Fiscal General del Estado (2019-2025)",
+        "Directora General UAFE (2018-2019)",
+        "Embajadora de Ecuador en Argentina (2025-presente)"
+      ],
+      "designacion": "Consejo de Participación Ciudadana y Control Social (CPCCS) - gobierno Moreno"
+    },
+    "casos_contra_correistas": [
+      {
+        "caso": "Sobornos 2012-2016",
+        "condena_correa": "8 años prisión + 25 años inhabilitación",
+        "estado": "Condena ratificada",
+        "irregularidades": [
+          "Testimonios de colaboradores sin corroboración",
+          "Cuadernos de Pamela García como única evidencia documental",
+          "Juicio en ausencia violando debido proceso",
+          "Juez con presunta parcialidad"
+        ]
+      },
+      {
+        "caso": "Caso Balda",
+        "descripcion": "Supuesto secuestro de ex-funcionario",
+        "estado": "Investigación",
+        "observaciones": "Sin evidencias concluyentes"
+      },
+      {
+        "caso": "Caso El Universo",
+        "descripcion": "Persecución posterior a fallo CIDH",
+        "estado": "Archivado"
+      },
+      {
+        "caso": "Caso 30-S",
+        "descripcion": "Presunta rebelión durante protestas 2010",
+        "estado": "Sobreseído anteriormente, reabierto"
+      }
+    ],
+    "vaza_jato_ecuador": {
+      "fecha_revelacion": "29 de agosto de 2024",
+      "fuentes": ["Drop Site News", "The Intercept Brasil"],
+      "descripcion": "Mensajes privados filtrados de Diana Salazar que evidencian coordinación para persecución política",
+      "revelaciones_clave": [
+        "Comunicación sobre estrategia judicial contra correístas",
+        "Posible conocimiento previo sobre asesinato de Fernando Villavicencio",
+        "Coordinación con medios de comunicación para construcción de casos",
+        "Vinculación con funcionarios de Estados Unidos"
+      ],
+      "documentos_referencia": [
+        "https://www.grupodepuebla.org/vaza-jato-ecuador-documentos-filtrados-indicarian-persecucion-politica-por-la-via-judicial",
+        "https://www.intercept.com.br/2024/08/29/fiscal-general-ecuador-vinculada-a-los-estados-unidos"
+      ]
+    },
+    "comunicacion_embajada_eeuu": {
+      "descripcion": "Vinculación con Departamento de Estado estadounidense",
+      "evidencia": [
+        "Reconocimiento y apoyo público de EE.UU.",
+        "Reuniones con funcionarios de embajada",
+        "Posible financiamiento de programas de fiscalía"
+      ],
+      "implicaciones": "Posible injerencia en sistema judicial ecuatoriano"
+    },
+    "designacion_embajadora_argentina": {
+      "fecha": "Mayo 2025",
+      "designado_por": "Daniel Noboa",
+      "proceso": {
+        "renuncia_fiscalia": "Mayo 2025",
+        "aceptacion_asamblea": "Rápida aprobación",
+        "observaciones": "Sin explicación pública de renuncia anticipada"
+      },
+      "controversia": [
+        "Designación como premio a gestión anticorreísta",
+        "Posible inmunidad diplomática ante investigaciones",
+        "Cuestionamiento sobre calificación para cargo diplomático"
+      ]
+    },
+    "pruebas_fabricadas": {
+      "denuncias": [
+        {
+          "tipo": "Testigos colaboradores",
+          "descripcion": "Fernando Alvarado, Pamela García - testimonios sin corroboración",
+          "beneficios": "Reducción de penas a cambio de declaraciones"
+        },
+        {
+          "tipo": "Cuadernos de Pamela García",
+          "descripcion": "Documentos proporcionados por ex-secretaria personal de Correa",
+          "cuestionamiento": "Autenticidad y cadena de custodia dudosas"
+        },
+        {
+          "tipo": "Audios manipulados",
+          "descripcion": "Grabaciones presentadas como evidencia en varios casos",
+          "observaciones": "Sin peritaje técnico independiente"
+        }
+      ]
+    },
+    "juicio_politico_archivado": {
+      "fecha": "2024",
+      "motivos": [
+        "Irregularidades en títulos académicos",
+        "Parcialidad en casos contra correístas",
+        "Vaza Jato Ecuador"
+      ],
+      "resultado": "Archivo por mayoría oficialista en Comisión de Fiscalización",
+      "observacion": "Protección política de la fiscal"
+    }
+  },
+  "jueces_involucrados_lawfare": [
+    {
+      "nombre": "Paúl Pérez Puruggandi",
+      "cargo": "Juez de la Corte Nacional de Justicia",
+      "rol_en_lawfare": "Juez del caso Sobornos 2012-2016",
+      "acciones_cuestionables": [
+        "Condena a Rafael Correa en ausencia",
+        "Rechazo de pruebas de defensa",
+        "Admisión de testigos sin corroboración",
+        "Sentencia basada principalmente en testimonios de colaboradores"
+      ],
+      "observaciones": "Presunta parcialidad evidenciada en manejo del proceso",
+      "sentencia_controversial": {
+        "caso": "Sobornos 2012-2016",
+        "condena": "8 años prisión + 25 años inhabilitación política",
+        "fecha": "2020",
+        "apelaciones": "Confirmada por Corte Nacional"
+      }
+    },
+    {
+      "nombre": "Walter Pozo",
+      "cargo": "Juez de la Corte Nacional de Justicia",
+      "rol_en_lawfare": "Tribunal de Casación - Caso Sobornos",
+      "acciones_cuestionables": [
+        "Confirmación de sentencia contra Correa",
+        "Desestimación de recursos de defensa",
+        "Mantenimiento de condena sin nueva evidencia"
+      ],
+      "observaciones": "Parte del tribunal que ratificó condena cuestionable"
+    },
+    {
+      "nombre": "Corte Nacional de Justicia - Tribunal de Casación",
+      "tipo": "Institución judicial",
+      "rol_en_condena": "Confirmó sentencia 8 años contra Correa",
+      "jueces_involucrados": "Magistrados de Sala Penal",
+      "tipo_enemistad": "Judicial - Ejecutor lawfare",
+      "controversia": "Posible parcialidad cuestionada por defensa de Correa"
+    }
+  ],
+  "caso_sobornos_2012_2016": {
+    "descripcion_general": "Caso principal de lawfare contra Rafael Correa y funcionarios de su gobierno",
+    "fiscalia": "Diana Salazar Méndez",
+    "juez_primera_instancia": "Paúl Pérez Puruggandi",
+    "acusados": [
+      {
+        "nombre": "Rafael Correa Delgado",
+        "cargo": "Presidente de la República (2007-2017)",
+        "condena": "8 años prisión + 25 años inhabilitación",
+        "situacion": "Exiliado en Bélgica con asilo político"
+      },
+      {
+        "nombre": "Jorge Glas",
+        "cargo": "Vicepresidente de la República",
+        "condena": "8 años prisión",
+        "situacion": "Cumpliendo condena - liberado temporalmente 2023"
+      },
+      {
+        "nombre": "Alejandro Terán",
+        "cargo": "Secretario General de la Administración",
+        "condena": "5 años prisión",
+        "situacion": "Cumplida parcialmente"
+      }
+    ],
+    "teoria_del_caso": {
+      "acusacion": "Presunta red de sobornos de empresarios a funcionarios a cambio de contratos públicos",
+      "monto_presunto": "$15-30 millones en sobornos",
+      "periodo": "2012-2016"
+    },
+    "irregularidades_procesales": [
+      {
+        "tipo": "Juicio en ausencia",
+        "descripcion": "Correa no pudo defenderse personalmente",
+        "violacion": "Debido proceso y derecho a la defensa"
+      },
+      {
+        "tipo": "Testigos colaboradores",
+        "descripcion": "Testimonios de Fernando Alvarado y Pamela García sin corroboración independiente",
+        "observacion": "Beneficios procesales a cambio de declaraciones"
+      },
+      {
+        "tipo": "Cuadernos de Pamela García",
+        "descripcion": "Única evidencia documental presentada",
+        "cuestionamiento": "Autenticidad y cadena de custodia"
+      },
+      {
+        "tipo": "Rechazo de prueba de defensa",
+        "descripcion": "Peritajes y testigos de defensa no admitidos",
+        "violacion": "Derecho a la defensa"
+      },
+      {
+        "tipo": "Plazos procesales",
+        "descripcion": "Celeridad inusual en proceso complejo",
+        "observacion": "Posible presión política para condena rápida"
+      }
+    ],
+    "estado_actual": {
+      "condena": "Vigente",
+      "correa": "Exiliado en Bélgica con asilo político otorgado",
+      "extradicion": "Solicitada por Ecuador, rechazada por Bélgica",
+      "recursos": "Agotados en Ecuador, recurso ante CIDH pendiente"
+    },
+    "colaboradores_procesales": [
+      {
+        "nombre": "Pamela García",
+        "rol": "Ex-secretaria personal de Correa",
+        "testimonio": "Proporcionó cuadernos con presuntas evidencias",
+        "beneficio": "Reducción de pena"
+      },
+      {
+        "nombre": "Fernando Alvarado",
+        "rol": "Ex-Secretario de Comunicación",
+        "testimonio": "Declaró contra Correa",
+        "beneficio": "Colaboración efectiva"
+      }
+    ]
+  },
+  "persecucion_rafael_correa": {
+    "perfil": {
+      "nombre": "Rafael Vicente Correa Delgado",
+      "cargo": "Presidente de Ecuador (2007-2017)",
+      "situacion_actual": "Exiliado en Bélgica con asilo político"
+    },
+    "casos_judiciales": [
+      {
+        "caso": "Sobornos 2012-2016",
+        "condena": "8 años prisión + 25 años inhabilitación",
+        "estado": "Condena vigente en Ecuador",
+        "observaciones": "Principal caso de lawfare"
+      },
+      {
+        "caso": "Caso El Universo",
+        "descripcion": "Demanda por injurias calumniosas",
+        "resultado": "Condena inicial, luego desistimiento",
+        "cidh": "Fallo favorable al periódico 2021"
+      },
+      {
+        "caso": "Caso 30-S",
+        "descripcion": "Presunta rebelión durante protestas policiales 2010",
+        "estado": "Reabierto luego de sobreseimiento anterior"
+      },
+      {
+        "caso": "Caso Balda",
+        "descripcion": "Supuesto secuestro de ex-funcionario",
+        "estado": "Investigación abierta"
+      },
+      {
+        "caso": "Caso Plan B",
+        "descripcion": "Presunto cohecho en enmienda constitucional",
+        "estado": "Archivado"
+      }
+    ],
+    "condenas_totales": {
+      "prision": "8 años (Caso Sobornos)",
+      "inhabilitacion": "25 años para cargos públicos",
+      "multas": "Cuantiosas"
+    },
+    "situacion_exilio": {
+      "pais": "Bélgica",
+      "estatus": "Asilo político otorgado",
+      "fecha_asilo": "2022",
+      "extradicion": "Rechazada por justicia belga",
+      "presion_actual": "Embajadora Andrea González Nader busca revocar asilo"
+    },
+    "irregularidades_detectadas": [
+      "Juicio en ausencia violando debido proceso",
+      "Testigos sin corroboración independiente",
+      "Rechazo sistemático de pruebas de defensa",
+      "Posible parcialidad judicial",
+      "Coordinación entre fiscalía y poderes fácticos",
+      "Vaza Jato evidencia persecución política"
+    ]
+  },
+  "tribunal_constitucional": {
+    "descripcion": "Máximo órgano de control constitucional en Ecuador",
+    "rol_muerte_cruzada": {
+      "fecha": "Mayo 2023",
+      "accion": "Validación de disolución de Asamblea Nacional por Guillermo Lasso",
+      "contexto": "Lasso invocó 'muerte cruzada' para evitar juicio político por peculado",
+      "implicaciones": [
+        "Disolución de Asamblea electa democráticamente",
+        "Evitación de juicio político por presunta corrupción",
+        "Convocatoria a elecciones anticipadas",
+        "Fortalecimiento de poder ejecutivo sin contrapesos"
+      ]
+    },
+    "magistrados_noboistas": {
+      "descripcion": "Magistrados con posible afinidad al gobierno de Daniel Noboa",
+      "observaciones": [
+        "Decisiones favorables a intereses gubernamentales",
+        "Validación de actos cuestionables del ejecutivo",
+        "Posible falta de independencia judicial"
+      ]
+    },
+    "decisiones_controversiales": [
+      {
+        "caso": "Muerte cruzada 2023",
+        "decision": "Validación constitucional",
+        "critica": "Facilitó escape de Lasso de juicio político"
+      },
+      {
+        "caso": "Reformas electorales",
+        "decision": "Admisibilidad de cambios cuestionables",
+        "critica": "Posible ventaja para candidato oficialista"
+      },
+      {
+        "caso": "Recursos de amparo correístas",
+        "decision": "Rechazo sistemático",
+        "critica": "Denegación de protección constitucional"
+      }
+    ],
+    "relacion_con_lawfare": [
+      "Validación tácita de procesos judiciales cuestionables",
+      "Rechazo de recursos de protección para Correa",
+      "Inacción ante violaciones de derechos fundamentales",
+      "Posible complicidad con persecución judicial"
+    ]
+  },
+  "red_lawfare_ecuador": {
+    "descripcion": "Red de actores e instituciones que participaron en lawfare contra correísmo",
+    "actores_principales": [
+      {
+        "nombre": "Diana Salazar",
+        "rol": "Fiscal General - Persecución judicial",
+        "periodo": "2019-2025"
+      },
+      {
+        "nombre": "Lenín Moreno",
+        "rol": "Presidente - Coordinación política del lawfare",
+        "periodo": "2017-2021"
+      },
+      {
+        "nombre": "Guillermo Lasso",
+        "rol": "Presidente - Continuación persecución",
+        "periodo": "2021-2023"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "rol": "Presidente - Mantenimiento exilio de Correa",
+        "periodo": "2023-presente"
+      },
+      {
+        "nombre": "Andrea González Nader",
+        "rol": "Embajadora en Bélgica - Presión para revocar asilo",
+        "periodo": "2024-presente"
+      }
+    ],
+    "instituciones_complices": [
+      "Fiscalía General del Estado",
+      "Corte Nacional de Justicia",
+      "Tribunal Constitucional",
+      "Consejo de la Judicatura",
+      "CPCCS (Consejo de Participación Ciudadana)"
+    ],
+    "medios_comunicacion": [
+      {
+        "nombre": "El Universo",
+        "tipo": "Periódico",
+        "rol": "Construcción narrativa anticorreísta"
+      },
+      {
+        "nombre": "Expreso",
+        "tipo": "Periódico",
+        "rol": "Difusión de casos contra correístas"
+      },
+      {
+        "nombre": "Ecuavisa",
+        "tipo": "Televisión",
+        "rol": "Cobertura sistemática anticorreísta"
+      },
+      {
+        "nombre": "Plan V",
+        "tipo": "Medio digital",
+        "rol": "Investigaciones contra gobierno correísta"
+      },
+      {
+        "nombre": "Primicias",
+        "tipo": "Medio digital",
+        "rol": "Análisis político anticorreísta"
+      }
+    ],
+    "apoyo_internacional": [
+      {
+        "entidad": "Departamento de Estado EE.UU.",
+        "tipo": "Reconocimiento y apoyo a fiscalía"
+      },
+      {
+        "entidad": "OEA",
+        "tipo": "Validación de procesos judiciales"
+      },
+      {
+        "entidad": "Prensa internacional selectiva",
+        "tipo": "Difusión de narrativa anticorreísta"
+      }
+    ]
+  },
+  "documentos_referencia": [
+    {
+      "titulo": "LAWFARE en ECUADOR - Grupo de Puebla",
+      "url": "https://www.grupodepuebla.org/wp-content/uploads/2024/12/LAWFARE-EN-ECUADOR-CLAJUD-OBLAWFARE.pdf",
+      "descripcion": "Informe exhaustivo sobre lawfare en Ecuador con énfasis en rol de Diana Salazar"
+    },
+    {
+      "titulo": "Vaza Jato Ecuador - Documentos filtrados",
+      "url": "https://www.grupodepuebla.org/vaza-jato-ecuador-documentos-filtrados-indicarian-persecucion-politica-por-la-via-judicial",
+      "descripcion": "Mensajes privados filtrados de Diana Salazar evidenciando persecución política"
+    },
+    {
+      "titulo": "La Fiscal General Ecuatoriana, Vinculada a los Estados Unidos - The Intercept",
+      "url": "https://www.intercept.com.br/2024/08/29/fiscal-general-ecuador-vinculada-a-los-estados-unidos",
+      "descripcion": "Investigación sobre vínculos de Diana Salazar con Estados Unidos"
+    },
+    {
+      "titulo": "Diana Salazar dejó el cargo de Fiscal General de Ecuador - Infobae",
+      "url": "https://www.infobae.com/america/america-latina/2025/05/20/diana-salazar-dejo-el-cargo-de-fiscal-general-de-ecuador",
+      "descripcion": "Cobertura de renuncia y designación como embajadora"
+    }
+  ],
+  "cronologia_lawfare": [
+    {
+      "fecha": "2017",
+      "evento": "Lenín Moreno asume presidencia y rompe con Correa",
+      "significado": "Inicio de persecución institucional"
+    },
+    {
+      "fecha": "2018",
+      "evento": "Apertura de investigaciones contra funcionarios correístas",
+      "significado": "Fase inicial de lawfare"
+    },
+    {
+      "fecha": "2019",
+      "evento": "Diana Salazar asume como Fiscal General",
+      "significado": "Consolidación de maquinaria judicial anticorreísta"
+    },
+    {
+      "fecha": "2020",
+      "evento": "Condena a Correa en caso Sobornos 2012-2016",
+      "significado": "Golpe judicial principal"
+    },
+    {
+      "fecha": "2021",
+      "evento": "Fallo CIDH favorable a El Universo contra Correa",
+      "significado": "Validación internacional de narrativa anticorreísta"
+    },
+    {
+      "fecha": "2022",
+      "evento": "Bélgica otorga asilo político a Correa",
+      "significado": "Reconocimiento de persecución política"
+    },
+    {
+      "fecha": "2023",
+      "evento": "Muerte cruzada - Lasso disuelve Asamblea",
+      "significado": "Escape de justicia por parte de acusador de Correa"
+    },
+    {
+      "fecha": "2024",
+      "evento": "Vaza Jato Ecuador revela mensajes de Diana Salazar",
+      "significado": "Evidencia de coordinación para lawfare"
+    },
+    {
+      "fecha": "2025",
+      "evento": "Diana Salazar renuncia y es designada embajadora en Argentina",
+      "significado": "Posible inmunidad ante investigaciones"
+    }
+  ],
+  "conclusiones": {
+    "lawfare_confirmado": true,
+    "evidencias": [
+      "Vaza Jato Ecuador demuestra coordinación para persecución política",
+      "Juicio en ausencia viola debido proceso internacional",
+      "Testigos colaboradores sin corroboración independiente",
+      "Rechazo sistemático de pruebas de defensa",
+      "Designación diplomática de fiscal como posible escape"
+    ],
+    "impacto": {
+      "correa": "Exilio forzado desde 2017",
+      "revolucion_ciudadana": "Persecución sistemática de militantes",
+      "instituciones": "Debilitamiento de independencia judicial",
+      "democracia": "Uso de justicia como arma política"
+    },
+    "recomendaciones": [
+      "Investigación internacional independiente",
+      "Revisión de procesos judiciales con participación de organismos internacionales",
+      "Protección a defensores de derechos humanos afectados",
+      "Sanciones a responsables de manipulación judicial"
+    ]
+  }
+}

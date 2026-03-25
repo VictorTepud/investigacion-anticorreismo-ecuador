@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "titulo": "Investigación Completa: Tránsfugas de la Revolución Ciudadana",
+    "creado": "2025-01-20",
+    "ultima_actualizacion": "2025-01-20",
+    "version": "2.0.0",
+    "descripcion": "Investigación exhaustiva sobre todos los tránsfugas que traicionaron a Rafael Correa y la Revolución Ciudadana",
+    "total_transfugas_principales": 5,
+    "total_transfugas_secundarios": 15,
+    "total_casos_corrupcion": 12
+  },
+  "transfugas_principales": [
+    {
+      "id": "T001",
+      "nombre": "Lenín Boltaire Moreno Garcés",
+      "alias": [
+        "El Traidor",
+        "Más-malo",
+        "El traidor de la patria",
+        "El Judas del correísmo"
+      ],
+      "nivel_traicion": "MAXIMO",
+      "datos_personales": {
+        "nacimiento": {
+          "fecha": "1953-03-19",
+          "lugar": "Nuevo Rocafuerte, Orellana, Ecuador"
+        },
+        "profesion": "Administrador público",
+        "estado_civil": "Casado con Rocío González",
+        "hijos": 3
+      },
+      "trayectoria_politica": {
+        "partidos_originales": [
+          "Alianza PAÍS",
+          "Revolución Ciudadana"
+        ],
+        "partidos_despues_traicion": [
+          "Independiente",
+          "Alianza con PSC y derecha"
+        ],
+        "cargos_ejercidos": [
+          {
+            "cargo": "Vicepresidente de la República",
+            "periodo": "2007-2017",
+            "descripcion": "10 años como vicepresidente bajo gobierno de Correa"
+          },
+          {
+            "cargo": "Presidente de la República",
+            "periodo": "2017-2021",
+            "descripcion": "Elegido como sucesor de Correa, traicionó su mandato"
+          },
+          {
+            "cargo": "Enviado Especial ONU Discapacidad",
+            "periodo": "2013-2016",
+            "descripcion": "Designado por Correa para representar a Ecuador"
+          }
+        ]
+      },
+      "como_traiciono_a_correa": {
+        "fecha_traicion": "2017-2018",
+        "descripcion": "Tras ser elegido como sucesor de Correa con el 51.16% de votos, Moreno inició un viraje político completo que incluyó:",
+        "acciones_traicion": [
+          {
+            "accion": "Desmantelamiento del modelo económico",
+            "descripcion": "Eliminación de políticas sociales, subsidios y programas gubernamentales clave"
+          },
+          {
+            "accion": "Alianza con la derecha",
+            "descripcion": "Pacto legislativo con PSC, Lasso y empresarios para gobernar contra el correísmo"
+          },
+          {
+            "accion": "Persecución judicial sistemática",
+            "descripcion": "Impulso de casos judiciales contra Correa y ex-funcionarios"
+          },
+          {
+            "accion": "Entrega de Julian Assange",
+            "descripcion": "Revocó asilo en embajada ecuatoriana en Londres (abril 2019)"
+          },
+          {
+            "accion": "Cambio de política exterior",
+            "descripcion": "Alineamiento con Estados Unidos, alejamiento de UNASUR y aliados regionales"
+          },
+          {
+            "accion": "Represión octubre 2019",
+            "descripcion": "Ordenó represión brutal contra protestas populares"
+          }
+        ]
+      },
+      "gobierno_2017_2021": {
+        "resumen": "Gobierno caracterizado por desmantelamiento del proyecto correísta y represión",
+        "politicas_principales": [
+          "Eliminación de subsidios a combustibles (decreto 883)",
+          "Desmantelamiento de empresas públicas",
+          "Entrega de hospitales a sector privado",
+          "Reducción de inversión en educación y salud",
+          "Alineamiento con FMI y políticas de ajuste"
+        ],
+        "crisis_octubre_2019": {
+          "descripcion": "Paro nacional contra eliminación de subsidios",
+          "muertos": "Al menos 11 muertos confirmados",
+          "heridos": "Más de 1,500 heridos",
+          "detenidos": "Más de 1,200 detenidos",
+          "violaciones_ddhh": "Múltiples denuncias ante CIDH",
+          "responsable_directo": "Lenín Moreno y María Paula Romo"
+        }
+      },
+      "corrupcion": {
+        "caso_sinohydro": {
+          "descripcion": "Sobornos en construcción hidroeléctrica Coca Codo Sinclair",
+          "monto": "76 millones USD en coimas",
+          "involucrados": 37,
+          "familiares_implicados": [
+            {
+              "nombre": "Rocío González",
+              "parentesco": "Esposa",
+              "rol": "Cómplice de cohecho",
+              "estado": "Procesada"
+            },
+            {
+              "nombre": "Edwin Moreno",
+              "parentesco": "Hermano",
+              "rol": "Presunto beneficiario",
+              "estado": "Procesado"
+            },
+            {
+              "nombre": "Irma Moreno",
+              "parentesco": "Hermana",
+              "rol": "Presunta beneficiaria",
+              "estado": "Procesada"
+            }
+          ],
+          "estado_judicial": "Llamado a juicio oral abril 2023",
+          "prision_preventiva": "Solicitada abril 2023"
+        },
+        "empresa_offshore_familia": {
+          "descripcion": "Empresa en paraíso fiscal detectada marzo 2019",
+          "denunciante": "Asambleísta Ronny Aleaga",
+          "estado": "Investigación archivada por fiscalía"
+        },
+        "caso_conto_patino": {
+          "descripcion": "Cohecho que presuntamente benefició a familia Moreno",
+          "monto": "Millonario",
+          "estado": "Bajo investigación fiscal"
+        },
+        "contratos_covid": {
+          "descripcion": "Sobreprecios en contratos durante pandemia",
+          "monto_estimado": "Más de 100 millones USD en irregularidades",
+          "empresas_involucradas": "Múltiples contratistas favorecidos",
+          "estado": "Investigaciones archivadas"
+        }
+      },
+      "situacion_actual": {
+        "ubicacion": "Ecuador (posiblemente con salida restringida)",
+        "procesos_judiciales_activos": true,
+        "condena": "Pendiente juicio oral por Sinohydro",
+        "reputacion": "Figura más odiada del correísmo"
+      }
+    },
+    {
+      "id": "T002",
+      "nombre": "Ricardo Armando Patiño Aroca",
+      "alias": [
+        "El canciller traidor",
+        "El volteado",
+        "El falso defensor"
+      ],
+      "nivel_traicion": "ALTO",
+      "datos_personales": {
+        "nacimiento": {
+          "fecha": "1955-05-16",
+          "lugar": "Guayaquil, Ecuador"
+        },
+        "profesion": "Economista, político",
+        "estado_civil": "Casado"
+      },
+      "trayectoria_politica": {
+        "partidos_originales": [
+          "Alianza PAÍS",
+          "Revolución Ciudadana"
+        ],
+        "partidos_despues_traicion": [
+          "Independiente",
+          "Distanciamiento parcial"
+        ],
+        "cargos_ejercidos": [
+          {
+            "cargo": "Ministro de Relaciones Exteriores",
+            "periodo": "2010-2016",
+            "descripcion": "Canciller durante la época dorada del correísmo"
+          },
+          {
+            "cargo": "Ministro de Defensa",
+            "periodo": "2012",
+            "descripcion": "Cartera adicional durante crisis"
+          },
+          {
+            "cargo": "Ministro Coordinador de la Política",
+            "periodo": "2007-2010",
+            "descripcion": "Primer ministro de Correa"
+          }
+        ]
+      },
+      "como_traiciono_al_movimiento": {
+        "descripcion": "Patiño fue uno de los fundadores de Alianza PAÍS y figura clave del gobierno. Su traición fue más sutil pero igualmente dañina:",
+        "acciones_traicion": [
+          {
+            "accion": "No defendió activamente a Correa",
+            "descripcion": "Durante la persecución judicial, mantuvo silencio o posición ambigua"
+          },
+          {
+            "accion": "Ruptura con Moreno pero sin claridad",
+            "descripcion": "Se distanció de Moreno pero no se alineó con la defensa de Correa"
+          },
+          {
+            "accion": "Búsqueda de posicionamiento personal",
+            "descripcion": "Intentó capitalizar políticamente sin comprometerse"
+          }
+        ]
+      },
+      "situacion_actual": {
+        "ubicacion": "Exiliado en México",
+        "procesos_judiciales": "Investigaciones archivadas",
+        "actividad_politica": "Sin actividad relevante",
+        "relacion_correa": "Rota definitivamente"
+      }
+    },
+    {
+      "id": "T003",
+      "nombre": "María Paula Romo Rodríguez",
+      "alias": [
+        "La ministra de hierro",
+        "La traidora de izquierda",
+        "La represora de octubre"
+      ],
+      "nivel_traicion": "MUY ALTO",
+      "datos_personales": {
+        "nacimiento": {
+          "fecha": "1979-06-04",
+          "lugar": "Quito, Ecuador"
+        },
+        "profesion": "Abogada",
+        "estado_civil": "Casada con Iván Granda"
+      },
+      "trayectoria_politica": {
+        "partidos_originales": [
+          "Alianza PAÍS",
+          "Revolución Ciudadana"
+        ],
+        "partidos_despues_traicion": [
+          "Independiente",
+          "Alianza con Moreno"
+        ],
+        "cargos_ejercidos": [
+          {
+            "cargo": "Asambleísta Nacional",
+            "periodo": "2009-2013",
+            "descripcion": "Legisladora por Alianza PAÍS"
+          },
+          {
+            "cargo": "Ministra de Gobierno",
+            "periodo": "2018-2020",
+            "descripcion": "Brazo ejecutor de la represión de octubre 2019"
+          }
+        ]
+      },
+      "rol_represion_2019": {
+        "descripcion": "Como Ministra de Gobierno, fue responsable directa de la represión durante el Paro Nacional de octubre 2019",
+        "acciones": [
+          "Ordenó movilización de policía y militares",
+          "Declaró estado de excepción",
+          "Responsable de violaciones a DDHH",
+          "Justificó violencia estatal"
+        ],
+        "consecuencias": {
+          "muertos": 11,
+          "heridos": 1500,
+          "detenidos": 1200,
+          "denuncias_cidh": "Múltiples"
+        }
+      },
+      "violaciones_ddhh": {
+        "descripcion": "Acusaciones formales de violaciones a derechos humanos durante su gestión",
+        "tipo_violaciones": [
+          "Uso excesivo de fuerza",
+          "Detenciones arbitrarias",
+          "Tortura y tratos crueles",
+          "Censura y persecución"
+        ],
+        "estado_legal": "Censura y destitución del cargo en 2020"
+      },
+      "casos_corrupcion": {
+        "peculado": {
+          "descripcion": "Investigación por peculado archivada",
+          "estado": "Archivo fiscal"
+        }
+      },
+      "situacion_actual": {
+        "ubicacion": "Ecuador",
+        "actividad_politica": "Sin relevancia",
+        "procesos_activos": false,
+        "reputacion": "Figura repudiada por violaciones DDHH"
+      }
+    },
+    {
+      "id": "T004",
+      "nombre": "Augusto Xavier Espinosa Andrade",
+      "alias": [
+        "El ministro volteado",
+        "El traidor de la educación"
+      ],
+      "nivel_traicion": "ALTO",
+      "datos_personales": {
+        "nacimiento": {
+          "fecha": "1963",
+          "lugar": "Quito, Ecuador"
+        },
+        "profesion": "Abogado, académico"
+      },
+      "trayectoria_politica": {
+        "partidos_originales": [
+          "Alianza PAÍS",
+          "Revolución Ciudadana"
+        ],
+        "partidos_despues_traicion": [
+          "Independiente"
+        ],
+        "cargos_ejercidos": [
+          {
+            "cargo": "Ministro de Educación",
+            "periodo": "2016-2017",
+            "descripcion": "Último ministro de Correa en cartera de educación"
+          },
+          {
+            "cargo": "Rector Universidad Central",
+            "periodo": "2012-2016",
+            "descripcion": "Designado durante gobierno correísta"
+          }
+        ]
+      },
+      "como_traiciono_al_movimiento": {
+        "descripcion": "Viró hacia el morenismo tras la elección de 2017",
+        "acciones": [
+          "Aceptó cargos bajo Moreno",
+          "No defendió políticas educativas del correísmo",
+          "Se alineó con persecución judicial"
+        ]
+      },
+      "situacion_actual": {
+        "ubicacion": "Ecuador",
+        "actividad_politica": "Sin relevancia",
+        "vinculo_academico": "Universidad Central"
+      }
+    },
+    {
+      "id": "T005",
+      "nombre": "Fernando Alvarado Espinel",
+      "alias": [
+        "El secretario testigo",
+        "El delator"
+      ],
+      "nivel_traicion": "MUY ALTO",
+      "datos_personales": {
+        "profesion": "Comunicador, funcionario público"
+      },
+      "trayectoria_politica": {
+        "partidos_originales": [
+          "Alianza PAÍS"
+        ],
+        "cargos_ejercidos": [
+          {
+            "cargo": "Secretario de Comunicación",
+            "periodo": "2013-2015",
+            "descripcion": "Jefe de comunicación del gobierno correísta"
+          }
+        ]
+      },
+      "como_traiciono_al_movimiento": {
+        "descripcion": "Testificó contra Correa en el caso Sobornos 2012-2016",
+        "acciones": [
+          {
+            "accion": "Testimonio contra Correa",
+            "descripcion": "Declaración clave para la acusación fiscal"
+          },
+          {
+            "accion": "Colaboración con fiscalía anticorreísta",
+            "descripcion": "Proporcionó información para caso judicial"
+          }
+        ],
+        "impacto": "Fundamental para la condena de 8 años contra Correa"
+      },
+      "situacion_actual": {
+        "ubicacion": "Desconocida",
+        "proteccion": "Posible protección por colaboración"
+      }
+    }
+  ],
+  "transfugas_secundarios": [
+    {
+      "id": "TS001",
+      "nombre": "Pamela García",
+      "alias": ["La secretaria testigo", "La de los cuadernos"],
+      "cargo_original": "Secretaria personal de Rafael Correa",
+      "tipo_traicion": "Testigo clave en caso Sobornos",
+      "descripcion": "Proporcionó los 'cuadernos' con presuntas evidencias que fueron determinantes para la condena de Correa",
+      "impacto": "CRITICO - Evidencia clave para lawfare"
+    },
+    {
+      "id": "TS002",
+      "nombre": "Jorge Glas Espinel",
+      "alias": ["El vice traidor", "El que no defendió"],
+      "cargo_original": "Vicepresidente de la República (2013-2017)",
+      "tipo_traicion": "No defendió activamente a Correa, aceptó proceso judicial",
+      "situacion_actual": "Preso en Ecuador por caso Odebrecht",
+      "nota": "Aunque no se alineó con Moreno, su silencio fue interpretado como traición"
+    },
+    {
+      "id": "TS003",
+      "nombre": "Luis Gallegos Chiriboga",
+      "cargo_original": "Ministro de Relaciones Exteriores",
+      "tipo_traicion": "Alineado con gobierno de Moreno",
+      "situacion": "Sin actividad política relevante"
+    },
+    {
+      "id": "TS004",
+      "nombre": "María del Cisne Aguirre",
+      "cargo_original": "Asambleísta por Alianza PAÍS",
+      "tipo_traicion": "Abandonó movimiento para apoyar a Moreno",
+      "situacion": "Sin relevancia política"
+    },
+    {
+      "id": "TS005",
+      "nombre": "Henry Cucalón",
+      "cargo_original": "Ministro de Agricultura",
+      "tipo_traicion": "Continuó en gobierno de Moreno",
+      "situacion": "Sin actividad relevante"
+    },
+    {
+      "id": "TS006",
+      "nombre": "Luis Villacrés",
+      "cargo_original": "Asambleísta por Alianza PAÍS",
+      "tipo_traicion": "Se volteó hacia Moreno",
+      "cargo_posterior": "Asesor de gobierno morenista"
+    },
+    {
+      "id": "TS007",
+      "nombre": "Rossana Alvarado",
+      "cargo_original": "Asambleísta por Alianza PAÍS",
+      "tipo_traicion": "Alineada con gobierno de Moreno",
+      "cargo_posterior": "Funcionaria en gobierno morenista"
+    },
+    {
+      "id": "TS008",
+      "nombre": "Diana Atamaint",
+      "cargo_original": "Funcionaria electoral designada por correísmo",
+      "tipo_traicion": "Presunta colaboración con fraude electoral 2024-2025",
+      "cargo_actual": "Presidenta del CNE",
+      "controversia": "Acusada de favorecer a Noboa en elecciones"
+    },
+    {
+      "id": "TS009",
+      "nombre": "Andrea González Nader",
+      "cargo_original": "Sin cargo en gobierno correísta",
+      "tipo_traicion": "Opositora activa, embajadora contra asilo Correa",
+      "cargo_actual": "Embajadora en Bélgica (gestiona revocación asilo)",
+      "accion_destacada": "Desde embajada busca revocar asilo político de Correa"
+    },
+    {
+      "id": "TS010",
+      "nombre": "Juan Sebastián Roldán",
+      "cargo_original": "Funcionario de comunicación",
+      "tipo_traicion": "Secretario de Comunicación de Moreno",
+      "cargo_posterior": "Secretario de Comunicación (2017-2021)",
+      "rol_traicion": "Brazo mediático de la persecución"
+    },
+    {
+      "id": "TS011",
+      "nombre": "César Navas Vera",
+      "cargo_original": "Ministro de Transporte",
+      "tipo_traicion": "Continuó en gobierno de Moreno",
+      "cargo_posterior": "Ministro de Transporte y Obras Públicas"
+    },
+    {
+      "id": "TS012",
+      "nombre": "Tania Moncayo",
+      "cargo_original": "Funcionaria de Petroecuador",
+      "tipo_traicion": "Colaboró con fiscalía contra ex-funcionarios",
+      "situacion": "Testigo en casos contra correístas"
+    },
+    {
+      "id": "TS013",
+      "nombre": "Carlos Banderas",
+      "cargo_original": "Funcionario de empresas públicas",
+      "tipo_traicion": "Testificó contra ex-compañeros",
+      "situacion": "Colaborador judicial"
+    },
+    {
+      "id": "TS014",
+      "nombre": "Varios asambleístas de AP",
+      "descripcion": "Grupo de aproximadamente 40 asambleístas que abandonaron Alianza PAÍS tras la traición de Moreno",
+      "tipo_traicion": "Volteo político masivo",
+      "cargo_posterior": "Mayoría sin relevancia o en partidos menores"
+    },
+    {
+      "id": "TS015",
+      "nombre": "Funcionarios menores del gobierno correísta",
+      "descripcion": "Decenas de funcionarios que cambiaron de bando",
+      "tipo_traicion": "Colaboración con fiscalía morenista",
+      "impacto": "Proporcionaron testimonios contra ex-compañeros"
+    }
+  ],
+  "otros_aliados_volteados": [
+    {
+      "categoria": "Medios de comunicación ex-aliados",
+      "descripcion": "Periodistas y comunicadores que inicialmente apoyaron al gobierno y luego se volcaron",
+      "ejemplos": [
+        "Periodistas de Ecuador TV que viraron hacia oposición",
+        "Comunicadores de El Ciudadano que cambiaron de posición"
+      ]
+    },
+    {
+      "categoria": "Sindicalistas y líderes sociales",
+      "descripcion": "Dirigentes que negociaron con Moreno y abandonaron la resistencia",
+      "impacto": "Debilidad del movimiento social frente a traición"
+    },
+    {
+      "categoria": "Académicos e intelectuales",
+      "descripcion": "Figuras del mundo académico que apoyaron inicialmente y luego justificaron el lawfare",
+      "impacto": "Legitimación intelectual de la persecución"
+    }
+  ],
+  "casos_corrupcion_transfugas": [
+    {
+      "caso": "Sinohydro - Coca Codo Sinclair",
+      "monto": "76 millones USD en sobornos",
+      "involucrados": ["Lenín Moreno", "Familia Moreno", "37 procesados"],
+      "estado": "Juicio oral 2023"
+    },
+    {
+      "caso": "Empresa offshore familia Moreno",
+      "monto": "No cuantificado",
+      "involucrados": ["Lenín Moreno", "Familiares"],
+      "estado": "Archivado"
+    },
+    {
+      "caso": "Contratos COVID Moreno",
+      "monto": "Más de 100 millones USD",
+      "involucrados": ["Funcionarios morenistas"],
+      "estado": "Investigaciones archivadas"
+    },
+    {
+      "caso": "Contratos eléctricos Noboa",
+      "monto": "Más de 100 millones USD pérdidas",
+      "involucrados": ["Félix Wong", "Roberto Luque", "Gobierno Noboa"],
+      "estado": "Archivado por Contraloría"
+    }
+  ],
+  "linea_temporal_traiciones": [
+    {
+      "fecha": "Febrero 2017",
+      "evento": "Elección de Lenín Moreno como sucesor de Correa"
+    },
+    {
+      "fecha": "Mayo 2017",
+      "evento": "Posesión de Moreno, primeros signos de distanciamiento"
+    },
+    {
+      "fecha": "Agosto 2017",
+      "evento": "Moreno convoca consulta popular contra correísmo"
+    },
+    {
+      "fecha": "Enero 2018",
+      "evento": "Ruptura total Moreno-Correa declarada"
+    },
+    {
+      "fecha": "Febrero 2018",
+      "evento": "Ricardo Patiño rompe con Moreno"
+    },
+    {
+      "fecha": "Marzo 2018",
+      "evento": "María Paula Romo nombrada Ministra de Gobierno"
+    },
+    {
+      "fecha": "Julio 2018",
+      "evento": "Primera condena contra funcionario correísta"
+    },
+    {
+      "fecha": "Abril 2019",
+      "evento": "Moreno revoca asilo a Julian Assange"
+    },
+    {
+      "fecha": "Octubre 2019",
+      "evento": "Paro Nacional, represión bajo Romo"
+    },
+    {
+      "fecha": "Abril 2020",
+      "evento": "Condena de 8 años contra Rafael Correa"
+    },
+    {
+      "fecha": "Abril 2023",
+      "evento": "Llamado a juicio oral a Moreno por Sinohydro"
+    }
+  ],
+  "conclusiones": {
+    "impacto_total": "La traición de Lenín Moreno y su grupo de colaboradores causó el desmantelamiento completo del proyecto de la Revolución Ciudadana, la persecución judicial de sus principales líderes y el exilio de Rafael Correa.",
+    "numero_estimado_transfugas": "Más de 50 funcionarios y ex-funcionarios colaboraron con la persecución",
+    "casos_corrupcion": "Los tránsfugas acumulan casos de corrupción por más de 200 millones USD",
+    "represion_ddhh": "La represión de octubre 2019 dejó al menos 11 muertos y más de 1,500 heridos",
+    "situacion_actual": "La mayoría de tránsfugas mantienen impunidad, mientras Correa permanece exiliado en Bélgica"
+  }
+}

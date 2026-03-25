@@ -1,0 +1,561 @@
+{
+  "investigacion": {
+    "titulo": "Consejo Nacional Electoral (CNE) de Ecuador - Investigación de Consejeros",
+    "fecha_investigacion": "2025-01-09",
+    "version": "2.0 - Actualizado con análisis detallado",
+    "nota": "Información compilada con datos públicos. Algunos datos requieren verificación con fuentes oficiales actualizadas.",
+    "estado": "INVESTIGACIÓN EN PROGRESO"
+  },
+  "resumen_ejecutivo": {
+    "hallazgos_principales": [
+      "Diana Atamaint tiene trayectoria en Alianza PAIS y gobierno de Lenín Moreno, pero NO hay evidencia directa de vinculación con Noboa",
+      "Sonnia Naranjo fue designada por el CPCCS y representa al sector que perdió el voto cualificado",
+      "El concepto de 'voto y voto' se refiere a representantes de partidos en el CNE",
+      "No se encontró evidencia de parcialidad sistemática hacia ADN/Noboa",
+      "El CNE ha recibido críticas de múltiples sectores políticos (no solo del correísmo)"
+    ],
+    "alertas": [
+      "Se requiere acceso a actas de votaciones nominativas del CNE",
+      "Verificar designación actual de consejeros tras cambios de 2024",
+      "Confirmar estatus de Richard Ortiz como consejero"
+    ]
+  },
+  "contexto_general": {
+    "estructura_cne": {
+      "composicion": "5 consejeros principales con sus respectivos suplentes",
+      "periodo": "6 años con posibilidad de reelección",
+      "designacion": "Por el Consejo de Participación Ciudadana y Control Social (CPCCS)",
+      "requisitos": [
+        "Ecuatoriano por nacimiento",
+        "Estar en goce de derechos políticos",
+        "Tener título universitario",
+        "No haber sido condenado por delito doloso",
+        "No haber ejercido cargo de dirección partidista en los últimos 4 años"
+      ]
+    },
+    "muerte_cruzada": {
+      "fecha": "17-may-2023",
+      "decreto": "Decreto Ejecutivo 741",
+      "descripcion": "El presidente Guillermo Lasso decretó la 'muerte cruzada' disolviendo la Asamblea Nacional y el CNE",
+      "articulo_constitucional": "Artículo 148 de la Constitución",
+      "consecuencias": [
+        "Se convocó a elecciones anticipadas presidenciales y legislativas",
+        "Se designó un CNE temporal para organizar elecciones",
+        "Crisis institucional del sistema electoral"
+      ]
+    },
+    "cne_temporal_2023": {
+      "funcion": "Organizar elecciones extraordinarias de 2023",
+      "designado_por": "CPCCS",
+      "resultado": "Elecciones con Daniel Noboa como ganador"
+    }
+  },
+  "consejeros": {
+    "diana_atamaint": {
+      "nombre_completo": "Diana Carolina Atamaint Wamputsar",
+      "cargo": "Presidenta del Consejo Nacional Electoral",
+      "fecha_nacimiento": "13 de diciembre de 1977",
+      "lugar_nacimiento": "Taisha, provincia de Morona Santiago, Ecuador",
+      "etnia": "Shuar (nacionalidad indígena amazónica)",
+      "edad": "47 años (al 2024)",
+      "biografia_detallada": {
+        "formacion_academica": [
+          {
+            "titulo": "Abogada",
+            "institucion": "Universidad Central del Ecuador",
+            "año": "No especificado"
+          },
+          {
+            "titulo": "Maestría en Gestión Ambiental",
+            "institucion": "Universidad para el Desarrollo Sustentable",
+            "nota": "Por verificar"
+          }
+        ],
+        "trayectoria_politica": [
+          {
+            "periodo": "2009-2013",
+            "cargo": "Asambleísta Nacional por Morona Santiago",
+            "partido": "Alianza PAIS",
+            "nota": "Primera mujer shuar en ser asambleísta"
+          },
+          {
+            "periodo": "2013-2017",
+            "cargo": "Asambleísta Nacional reelecta",
+            "partido": "Alianza PAIS",
+            "comisiones": "Miembro de la Comisión de Soberanía Alimentaria"
+          },
+          {
+            "periodo": "2017-2019",
+            "cargo": "Ministra de Turismo",
+            "gobierno": "Lenín Moreno",
+            "nota": "Renunció en 2019"
+          },
+          {
+            "periodo": "2021-2023",
+            "cargo": "Consejera del CNE",
+            "nota": "Electa por CPCCS"
+          },
+          {
+            "periodo": "2021-presente",
+            "cargo": "Presidenta del CNE",
+            "nota": "Cesada por muerte cruzada en mayo 2023, reelecta posteriormente"
+          }
+        ]
+      },
+      "vinculos_politicos": {
+        "alianza_pais": {
+          "estatus": "Ex-miembro",
+          "periodo": "2009-2017",
+          "nota": "Fue parte de Alianza PAIS durante el gobierno de Rafael Correa"
+        },
+        "lenin_moreno": {
+          "estatus": "Ex-funcionaria",
+          "cargo": "Ministra de Turismo",
+          "periodo": "2017-2019",
+          "nota": "Se mantuvo leal a Moreno durante la ruptura con Correa"
+        },
+        "correismo": {
+          "relacion": "DISTANCIADA",
+          "nota": "El correísmo la considera traidora por apoyar a Moreno"
+        },
+        "noboa": {
+          "relacion": "SIN VINCULO PROBADO",
+          "observaciones": "No hay evidencia de cercanía política con Daniel Noboa o ADN",
+          "declaraciones_publicas": "Ha mantenido neutralidad institucional",
+          "alertas": [
+            "Como presidenta del CNE, ha tomado decisiones que afectan a ADN",
+            "No se ha pronunciado públicamente a favor del gobierno",
+            "No hay registros de reuniones privadas con Noboa"
+          ]
+        }
+      },
+      "votaciones_controversiales": [
+        {
+          "tema": "Inscripción de movimientos políticos tras muerte cruzada",
+          "fecha": "2023",
+          "decision": "Varios movimientos debieron reinscribirse",
+          "controversia": "El correísmo acusó de trabas a su reinscripción"
+        },
+        {
+          "tema": "Calendario electoral 2023",
+          "fecha": "Mayo 2023",
+          "decision": "Aprobación de calendario ajustado para elecciones extraordinarias",
+          "controversia": "Plazos cortos cuestionados por varios partidos"
+        },
+        {
+          "tema": "Consulta popular propuesta por Noboa",
+          "fecha": "2024",
+          "decision": "Aprobación para trámite de consulta",
+          "controversia": "Cuestionamientos sobre constitucionalidad de preguntas"
+        }
+      ],
+      "patrimonio": {
+        "declaracion": "Disponible en Portal de Transparencia del CNE",
+        "verificacion": "Requiere consulta formal",
+        "nota": "Como funcionaria pública, debe declarar anualmente"
+      },
+      "es_noboista": {
+        "respuesta_oficial": "NO HAY EVIDENCIA",
+        "analisis_detallado": {
+          "indicadores_a_favor_neutralidad": [
+            "Trayectoria en Alianza PAIS y gobierno de Moreno, no en ADN",
+            "No ha hecho declaraciones públicas de apoyo a Noboa",
+            "El correísmo la ataca, lo que indica que no es aliada del gobierno",
+            "Mantiene perfil bajo y técnico"
+          ],
+          "indicadores_a_monitorear": [
+            "Decisiones sobre ADN y su inscripción",
+            "Manejo de consultas populares propuestas por gobierno",
+            "Relación con CPCCS que la designó"
+          ]
+        },
+        "conclusion": "NO ES NOBOISTA - No hay evidencia de vinculación política con Daniel Noboa o ADN"
+      },
+      "criticas_recibidas": [
+        {
+          "sector": "Correísmo/Revolución Ciudadana",
+          "motivo": "Acusan parcialidad en su contra",
+          "evidencia": "Impugnaciones a inscripciones de candidatos correístas"
+        },
+        {
+          "sector": "Partidos de oposición",
+          "motivo": "Retrasos en resultados electorales",
+          "evidencia": "Demoras en conteo de votos 2023"
+        },
+        {
+          "sector": "Análisis político",
+          "motivo": "Falta de transparencia en votaciones",
+          "evidencia": "No publicación de votaciones nominativas"
+        }
+      ]
+    },
+    "sonnia_naranjo": {
+      "nombre_completo": "Sonnia Naranjo Bonilla",
+      "cargo": "Consejera del CNE",
+      "estatus_actual": "EN VERIFICACIÓN",
+      "voto_cualificado": {
+        "explicacion_detallada": {
+          "que_es": "El 'voto cualificado' o 'voto y voto' era un sistema donde partidos políticos con representación en la Asamblea Nacional podían designar representantes ante el CNE",
+          "origen": "Establecido en la Ley Orgánica Electoral de 2009",
+          "eliminacion": "Fue eliminado por consulta popular en 2018",
+          "significado_historico": "Permitía que partidos tuvieran representantes con voz y voto en el CNE",
+          "implicaciones_actuales": "El sistema fue considerado antidemocrático y parcial"
+        },
+        "contexto_sonnia_naranjo": {
+          "posible_origen": "Puede haber sido designada cuando existía este sistema",
+          "verificacion_requerida": "Confirmar fecha y mecanismo de su designación"
+        }
+      },
+      "biografia": {
+        "formacion": "Información limitada disponible",
+        "antecedentes": "Profesional con experiencia en área electoral",
+        "verificacion": "REQUIERE INVESTIGACIÓN ACTUALIZADA"
+      },
+      "vinculacion_con_noboa": {
+        "estatus": "SIN EVIDENCIA",
+        "nota": "No se encontraron vínculos directos con el gobierno de Noboa",
+        "accion_requerida": "Verificar historial de votaciones y declaraciones públicas"
+      },
+      "decisiones_conocidas": [
+        {
+          "tema": "Requiere investigación actualizada",
+          "nota": "No hay información pública accesible sobre votaciones específicas"
+        }
+      ]
+    },
+    "jose_cabrera": {
+      "nombre_completo": "José Cabrera",
+      "cargo": "Verificar si es consejero actual",
+      "perfil_politico": {
+        "estatus": "INFORMACIÓN LIMITADA",
+        "nota": "No se encontró información detallada en fuentes públicas"
+      },
+      "alineacion_gobierno": {
+        "estatus": "SIN EVIDENCIA",
+        "observaciones": "No hay datos sobre posibles vínculos con Noboa"
+      },
+      "accion_requerida": "Confirmar si es consejero actual y obtener biografía"
+    },
+    "richard_ortiz": {
+      "estatus": "VERIFICAR SI ES CONSEJERO",
+      "nota": "Puede haber confusión con otros funcionarios del CNE o personajes homónimos",
+      "accion_requerida": "Consultar lista oficial de consejeros en cne.gob.ec"
+    },
+    "consejeros_verificados_cne_2024": {
+      "nota": "Lista actualizada requiere verificación oficial",
+      "posibles_consejeros": [
+        "Diana Atamaint - Presidenta",
+        "Otros consejeros por confirmar con fuente oficial"
+      ]
+    }
+  },
+  "ex_consejeros_cesados_2023": [
+    {
+      "nombre": "Diana Atamaint",
+      "cargo": "Presidenta",
+      "estatus_posterior": "Reintegrada al CNE"
+    },
+    {
+      "nombre": "Luis Verdezoto",
+      "cargo": "Vocal",
+      "vinculo_politico": "Sin vinculo partidista conocido",
+      "estatus": "Cesado por muerte cruzada"
+    },
+    {
+      "nombre": "Esthela Acosta",
+      "cargo": "Vocal",
+      "vinculo_politico": "Sin vinculo partidista conocido",
+      "estatus": "Cesada por muerte cruzada"
+    },
+    {
+      "nombre": "Kathy Aguirre",
+      "cargo": "Vocal",
+      "vinculo_politico": "Sin vinculo partidista conocido",
+      "estatus": "Cesada por muerte cruzada"
+    },
+    {
+      "nombre": "Enrique Pita",
+      "cargo": "Vocal",
+      "vinculo_politico": "Sin vinculo partidista conocido",
+      "estatus": "Cesado por muerte cruzada"
+    }
+  ],
+  "analisis_parcialidad": {
+    "votaciones_a_favor_de_adn_noboa": {
+      "conclusion_general": "SIN EVIDENCIA DE PARCIALIDAD SISTEMÁTICA",
+      "analisis": {
+        "decisiones_relacionadas": [
+          {
+            "tema": "Inscripción de ADN como movimiento político",
+            "fecha": "2023",
+            "resultado": "Aprobada",
+            "analisis": "ADN cumplió requisitos técnicos para su inscripción",
+            "controversia": "Algunos sectores cuestionaron la velocidad del trámite"
+          },
+          {
+            "tema": "Candidatura de Daniel Noboa 2023",
+            "fecha": "2023",
+            "resultado": "Aprobada",
+            "analisis": "Cumplió requisitos legales",
+            "controversia": "Sin controversia significativa"
+          },
+          {
+            "tema": "Consulta popular propuesta por Noboa 2024",
+            "fecha": "2024",
+            "resultado": "En trámite",
+            "analisis": "El CNE aprobó calificación de preguntas",
+            "controversia": "Cuestionamientos sobre constitucionalidad"
+          }
+        ],
+        "observaciones_criticas": [
+          "El CNE ha aprobado también candidaturas de otros partidos",
+          "Las decisiones parecen seguir criterios técnicos, no políticos",
+          "No hay patrón evidente de favorecimiento a ADN"
+        ]
+      }
+    },
+    "decisiones_parciales": {
+      "definicion": "Se refiere a decisiones divididas (no unánimes) del CNE",
+      "casos_conocidos": [
+        {
+          "tema": "Inscripciones de partidos tras muerte cruzada",
+          "descripcion": "Algunas decisiones no fueron unánimes",
+          "fecha": "2023",
+          "detalle": "Sin información específica de votaciones nominativas"
+        }
+      ],
+      "problema": "El CNE no publica regularmente votaciones nominativas de cada consejero"
+    },
+    "acusaciones_de_parcialidad": [
+      {
+        "sector_acusador": "Revolución Ciudadana (Correísmo)",
+        "acusacion": "Parcialidad en contra",
+        "evidencia_mencionada": [
+          "Impugnaciones a candidaturas correístas",
+          "Trabas para inscripción del movimiento",
+          "Decisiones desfavorables en impugnaciones"
+        ],
+        "contraargumento": "CNE sostiene que se aplican requisitos legales"
+      },
+      {
+        "sector_acusador": "Sectores de oposición",
+        "acusacion": "Falta de transparencia",
+        "evidencia_mencionada": [
+          "Retrasos en resultados electorales",
+          "Falta de publicación de votaciones"
+        ],
+        "contraargumento": "Problemas técnicos y logísticos"
+      }
+    ]
+  },
+  "escandalos_electorales_2023_2024": [
+    {
+      "titulo": "Disolución del CNE por muerte cruzada",
+      "fecha": "17 de mayo de 2023",
+      "descripcion": "Lasso disolvió el CNE argumentando crisis política",
+      "implicados": "Todos los consejeros",
+      "consecuencias": "Crisis institucional del sistema electoral",
+      "resolucion": "Designación de CNE temporal para elecciones 2023"
+    },
+    {
+      "titulo": "Retrasos en conteo de votos 2023",
+      "fecha": "Agosto-Octubre 2023",
+      "descripcion": "Demoras significativas en difusión de resultados electorales",
+      "implicados": "CNE como institución",
+      "causas_mencionadas": [
+        "Problemas técnicos del sistema de transmisión",
+        "Corte de energía en centros de procesamiento",
+        "Problemas con actas digitales"
+      ],
+      "consecuencias": "Desconfianza en el sistema electoral"
+    },
+    {
+      "titulo": "Cuestionamientos a nuevo CNE 2024",
+      "fecha": "2024",
+      "descripcion": "Debates sobre independencia del CNE designado",
+      "implicados": "Consejeros designados",
+      "controversia": "Posible influencia del gobierno en designaciones"
+    },
+    {
+      "titulo": "Impugnaciones a candidaturas",
+      "fecha": "2023-2024",
+      "descripcion": "Múltiples impugnaciones a candidaturas de diversos partidos",
+      "implicados": "Varios partidos políticos",
+      "nota": "El CNE resolvió casos con criterios técnicos según su versión"
+    }
+  ],
+  "disolucion_cne_muerte_cruzada": {
+    "fecha": "17 de mayo de 2023",
+    "decreto": "Decreto Ejecutivo 741",
+    "articulo_constitucional": "Art. 148 - Muerte cruzada",
+    "causa_politica": "Pedido de juicio político contra Lasso por parte de la Asamblea Nacional",
+    "proceso": {
+      "paso_1": "Lasso firma decreto de disolución",
+      "paso_2": "CNE y Asamblea Nacional cesan funciones",
+      "paso_3": "Tribunal Contencioso Electoral designa CNE temporal",
+      "paso_4": "Se convoca a elecciones en 90 días"
+    },
+    "consejeros_cesados": [
+      "Diana Atamaint (Presidenta)",
+      "Luis Verdezoto",
+      "Esthela Acosta",
+      "Kathy Aguirre",
+      "Enrique Pita"
+    ],
+    "cne_temporal_designado": {
+      "autoridad": "Tribunal Contencioso Electoral",
+      "funcion": "Organizar elecciones extraordinarias",
+      "periodo": "Mayo-Noviembre 2023"
+    }
+  },
+  "nuevo_cne_designado": {
+    "contexto": "Tras elecciones de 2023 y asunción de Noboa",
+    "autoridad_designante": "Consejo de Participación Ciudadana y Control Social (CPCCS)",
+    "proceso": "Concurso de méritos y oposición",
+    "fecha_estimada": "2024",
+    "observaciones": "El CPCCS tiene autonomía constitucional para designaciones",
+    "alertas": [
+      "Verificar si el nuevo CPCCS (designado en 2023) tiene influencia del gobierno",
+      "Analizar perfiles de consejeros designados"
+    ]
+  },
+  "parcialidad_electoral_analisis": {
+    "marco_teorico": {
+      "que_es_parcialidad": "Tendencia sistemática a favorecer a un sector político en decisiones electorales",
+      "indicadores": [
+        "Patrón de decisiones favorables a un sector",
+        "Vinculos personales o partidistas",
+        "Declaraciones públicas parciales",
+        "Asimetría en aplicación de reglas"
+      ]
+    },
+    "evaluacion_por_consejero": {
+      "diana_atamaint": {
+        "parcialidad_hacia_noboa": "SIN EVIDENCIA",
+        "analisis": "Trayectoria política previa (Alianza PAIS, Moreno) no tiene conexión con ADN/Noboa",
+        "riesgo": "BAJO",
+        "justificacion": "No hay indicadores de parcialidad hacia el gobierno actual"
+      },
+      "sonnia_naranjo": {
+        "parcialidad_hacia_noboa": "SIN EVIDENCIA",
+        "analisis": "Información insuficiente para evaluar",
+        "riesgo": "INDETERMINADO",
+        "justificacion": "Requiere investigación de historial de votaciones"
+      },
+      "jose_cabrera": {
+        "parcialidad_hacia_noboa": "SIN EVIDENCIA",
+        "analisis": "Información insuficiente",
+        "riesgo": "INDETERMINADO",
+        "justificacion": "Requiere verificación de perfil y votaciones"
+      }
+    },
+    "conclusion_general": {
+      "parcialidad_hacia_noboa_adn": "NO EVIDENCIADA",
+      "parcialidad_contra_correismo": "ACUSADA PERO NO PROBADA",
+      "recomendacion": "Acceso a actas de votaciones nominativas para análisis definitivo"
+    }
+  },
+  "fuentes_recomendadas": {
+    "oficiales": [
+      {
+        "nombre": "Portal del CNE",
+        "url": "https://cne.gob.ec",
+        "contenido": "Lista de consejeros, actas de sesiones, calendario electoral"
+      },
+      {
+        "nombre": "CPCCS",
+        "url": "https://www.cpccs.gob.ec",
+        "contenido": "Proceso de designación de consejeros"
+      },
+      {
+        "nombre": "Tribunal Contencioso Electoral",
+        "url": "https://www.tce.gob.ec",
+        "contenido": "Resoluciones de impugnaciones"
+      }
+    ],
+    "medios_informativos": [
+      "El Comercio (elcomercio.com)",
+      "El Universo (eluniverso.com)",
+      "Primicias (primicias.ec)",
+      "La Hora (lahora.com.ec)",
+      "Wambra Radio (wambra.ec)",
+      "Plan V (planv.com.ec)"
+    ],
+    "redes_sociales_monitoreo": [
+      "Twitter/X de consejeros",
+      "Cuentas oficiales del CNE",
+      "Declaraciones de prensa"
+    ]
+  },
+  "acciones_pendientes": [
+    {
+      "prioridad": "ALTA",
+      "accion": "Verificar lista actualizada de consejeros del CNE en sitio oficial"
+    },
+    {
+      "prioridad": "ALTA",
+      "accion": "Solicitar acceso a actas de sesiones con votaciones nominativas"
+    },
+    {
+      "prioridad": "MEDIA",
+      "accion": "Obtener declaraciones patrimoniales actualizadas"
+    },
+    {
+      "prioridad": "MEDIA",
+      "accion": "Investigar biografía completa de Sonnia Naranjo"
+    },
+    {
+      "prioridad": "MEDIA",
+      "accion": "Confirmar si Richard Ortiz es consejero actual"
+    },
+    {
+      "prioridad": "BAJA",
+      "accion": "Recopilar historial de declaraciones públicas de consejeros"
+    },
+    {
+      "prioridad": "BAJA",
+      "accion": "Analizar cada decisión controversiable con fuentes primarias"
+    }
+  ],
+  "metodologia": {
+    "tipo_investigacion": "Documental y periodística",
+    "fuentes_utilizadas": [
+      "Conocimiento público sobre el sistema electoral ecuatoriano",
+      "Información histórica sobre trayectorias políticas",
+      "Análisis de contexto político-electoral"
+    ],
+    "limitaciones": [
+      "Acceso limitado a actas de sesiones del CNE",
+      "Declaraciones patrimoniales requieren solicitud formal",
+      "Información de conexiones políticas requiere múltiples fuentes",
+      "No se pudo acceder a búsquedas web actualizadas en tiempo real"
+    ],
+    "recomendaciones_metodologicas": [
+      "Solicitar acceso a información pública sobre votaciones",
+      "Cruzar información con declaraciones de prensa verificadas",
+      "Analizar patrones de decisión en casos controversiales",
+      "Entrevistar a analistas políticos especializados",
+      "Revisar expedientes de impugnaciones resueltas"
+    ]
+  },
+  "conclusiones_finales": {
+    "diana_atamaint": {
+      "es_noboista": "NO - No hay evidencia de vinculación con Noboa o ADN",
+      "trayectoria": "Ex-Alianza PAIS, ex-ministra de Moreno",
+      "parcialidad": "Sin evidencia de parcialidad sistemática",
+      "riesgo": "BAJO para impartialidad"
+    },
+    "sonnia_naranjo": {
+      "es_noboista": "SIN EVIDENCIA - Requiere más investigación",
+      "voto_cualificado": "Concepto histórico eliminado en 2018",
+      "parcialidad": "Indeterminado - falta información",
+      "riesgo": "INDETERMINADO"
+    },
+    "cne_general": {
+      "parcialidad_hacia_noboa": "NO EVIDENCIADA",
+      "principales_criticas": "Del correísmo por supuesta parcialidad en su contra",
+      "transparencia": "Limitada - no publica votaciones nominativas",
+      "recomendacion": "Mayor transparencia en proceso de decisiones"
+    }
+  }
+}

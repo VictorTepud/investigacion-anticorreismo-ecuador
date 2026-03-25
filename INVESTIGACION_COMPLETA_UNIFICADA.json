@@ -1,0 +1,3155 @@
+{
+  "gobierno_noboa": {
+    "investigacion": {
+      "titulo": "Investigación Gobierno Daniel Noboa Azín",
+      "fecha_investigacion": "2025-01-19",
+      "descripcion": "Perfil completo de funcionarios clave del gobierno de Daniel Noboa"
+    },
+    "funcionarios": [
+      {
+        "nombre": "Daniel Noboa Azín",
+        "cargo_actual": "Presidente Constitucional de la República del Ecuador",
+        "datos_personales": {
+          "fecha_nacimiento": "30 de noviembre de 1987",
+          "lugar_nacimiento": "Guayaquil, Ecuador",
+          "edad": "37 años",
+          "nacionalidad": "Ecuatoriana",
+          "cedula": "No disponible públicamente por protección de datos",
+          "estado_civil": "Casado con Lavinia Valbonesi",
+          "hijos": "2 (Alfredo y Daniel)"
+        },
+        "biografia": {
+          "resumen": "Daniel Noboa Azín es un político y empresario ecuatoriano, actual Presidente de la República del Ecuador desde noviembre de 2023. Es hijo del bananero Álvaro Noboa y de la política Annabella Azín. Antes de su presidencia, se desempeñó como asambleísta nacional.",
+          "educacion": [
+            "Licenciatura en Administración de Empresas - New York University (Stern School of Business)",
+            "Maestría en Administración de Empresas - Northwestern University (Kellogg School of Management)",
+            "Maestría en Administración Pública - Harvard Kennedy School",
+            "Maestría en Gobernanza y Política Pública - Universidad George Washington"
+          ],
+          "trayectoria_politica": [
+            {
+              "cargo": "Asambleísta Nacional",
+              "periodo": "2021-2023",
+              "representacion": "Provincia de Santo Domingo de los Tsáchilas"
+            },
+            {
+              "cargo": "Presidente Constitucional de la República",
+              "periodo": "2023-2025 (período parcial), reelecto 2025-2029",
+              "partido": "Acción Democrática Nacional (ADN)"
+            }
+          ]
+        },
+        "empresas_vinculadas": {
+          "familiares": [
+            {
+              "empresa": "Grupo Noboa",
+              "descripcion": "Conglomerado empresarial familiar fundado por Luis Noboa Naranjo, abuelo de Daniel. Principal exportador de banano de Ecuador.",
+              "vinculo": "Heredero potencial del grupo familiar",
+              "valor_estimado": "Miles de millones de dólares"
+            },
+            {
+              "empresa": "Exportadora Bananera Noboa",
+              "descripcion": "Empresa bananera del grupo familiar",
+              "vinculo": "Parte del patrimonio familiar Noboa"
+            },
+            {
+              "empresa": "Alvaro Noboa Pontón (ANABeca)",
+              "descripcion": "Empresa comercializadora de banano",
+              "vinculo": "Propiedad de su padre Álvaro Noboa"
+            }
+          ],
+          "propias_reportadas": [
+            {
+              "empresa": "Kreil Energy Group",
+              "descripcion": "Empresa del sector energético",
+              "observaciones": "Declarada en formulario de patrimonio"
+            },
+            {
+              "empresa": "Daniknoboa Corp",
+              "descripcion": "Sociedad anónima",
+              "observaciones": "Vinculada al sector comercial"
+            }
+          ],
+          "offshores_investigadas": [
+            {
+              "empresa": "Western Pacific",
+              "jurisdiccion": "Islas Vírgenes Británicas",
+              "estatus": "Mencionada en investigaciones periodísticas sobre el Grupo Noboa",
+              "observaciones": "Presunta sociedad offshore familiar"
+            }
+          ]
+        },
+        "vinculos_narcotrafico": {
+          "denuncias_conocidas": [
+            {
+              "tipo": "Vínculo familiar indirecto",
+              "descripcion": "Una persona con apellido Noboa fue vinculada a operaciones de narcotráfico en el pasado, pero sin conexión directa comprobada con Daniel Noboa o su núcleo familiar inmediato",
+              "fuente": "Noticias periodísticas de años anteriores",
+              "estatus": "Sin cargos contra Daniel Noboa"
+            }
+          ],
+          "aclaracion": "No existen condenas ni procesos judiciales activos contra Daniel Noboa por narcotráfico. Las menciones periodísticas se refieren a personas con el mismo apellido sin relación familiar directa comprobada con el presidente."
+        },
+        "patrimonio": {
+          "declarado_2023": {
+            "monto_aproximado": "No disponible públicamente en cifra exacta",
+            "observaciones": "Las declaraciones patrimoniales de funcionarios públicos están bajo reserva según normativa ecuatoriana"
+          },
+          "estimado": "Se estima en millones de dólares heredados del imperio bananero familiar, aunque Daniel Noboa ha declarado que su patrimonio es menor al de su padre",
+          "bienes_reportados": [
+            "Propiedades en Ecuador",
+            "Inversiones en empresas familiares",
+            "Cuentas bancarias"
+          ]
+        },
+        "familiares_politica_negocios": {
+          "padre": {
+            "nombre": "Álvaro Noboa Pontón",
+            "descripcion": "Empresario bananero, considerado uno de los hombres más ricos de Ecuador. Candidato presidencial en múltiples ocasiones sin éxito.",
+            "empresas": "Grupo Noboa, múltiples empresas bananeras y comerciales"
+          },
+          "madre": {
+            "nombre": "Annabella Azín Naranjo",
+            "descripcion": "Política y ex-asambleísta. Ha ocupado cargos en el gobierno de su hijo como consejera.",
+            "cargos": "Ex-Asambleísta, Consejera Presidencial"
+          },
+          "hermanos": [
+            {
+              "nombre": "Álvaro Noboa Azín",
+              "actividad": "Empresario"
+            },
+            {
+              "nombre": "Isabella Noboa Azín",
+              "actividad": "Empresaria"
+            }
+          ],
+          "esposa": {
+            "nombre": "Lavinia Valbonesi",
+            "descripcion": "Influencer y nutricionista italiana-ecuatoriana. Primera Dama de Ecuador.",
+            "rol": "Primera Dama, involucrada en temas sociales"
+          }
+        },
+        "controversias": [
+          {
+            "titulo": "Herencia y patrimonio familiar",
+            "descripcion": "Cuestionamientos sobre el origen de su fortuna y su independencia económica de su padre",
+            "estatus": "Debate público sin implicaciones legales"
+          },
+          {
+            "titulo": "Conflicto interno ADN",
+            "descripcion": "Conflictos con la directiva original de ADN (Acción Democrática Nacional) tras asumir la presidencia",
+            "estatus": "Disputa política resuelta a su favor"
+          },
+          {
+            "titulo": "Nombramientos familiares",
+            "descripcion": "Críticas por designar a su madre Annabella Azín en cargos de gobierno",
+            "estatus": "Controversia política activa"
+          },
+          {
+            "titulo": "Concentración de poder",
+            "descripcion": "Acusaciones de centralizar decisiones y usar decretos de urgencia económica frecuentemente",
+            "estatus": "Debate político-legal vigente"
+          }
+        ],
+        "procesos_judiciales": {
+          "activos": "No se conocen procesos judiciales penales activos contra Daniel Noboa",
+          "historicos": [
+            {
+              "tipo": "Juicio de sucesión",
+              "descripcion": "Disputa hereditaria del abuelo Luis Noboa Naranjo entre familiares",
+              "resultado": "Resuelto"
+            }
+          ]
+        },
+        "fuentes": [
+          "Consejo Nacional Electoral - Declaraciones patrimoniales",
+          "Asamblea Nacional - Registro de asambleístas",
+          "Medios de comunicación ecuatorianos",
+          "Investigaciones periodísticas sobre Grupo Noboa"
+        ]
+      },
+      {
+        "nombre": "Félix Wong Mendoza",
+        "cargo_historico": "Ex-Ministro de Energía y Minas",
+        "estatus_actual": "PRÓFUGO DE LA JUSTICIA",
+        "datos_personales": {
+          "fecha_nacimiento": "No disponible públicamente",
+          "lugar_nacimiento": "Ecuador",
+          "nacionalidad": "Ecuatoriana",
+          "cedula": "No disponible públicamente"
+        },
+        "biografia": {
+          "resumen": "Ingeniero y funcionario público que se desempeñó como Ministro de Energía y Minas durante el gobierno de Daniel Noboa. Renunció a su cargo en 2024 y actualmente es requerido por la justicia ecuatoriana.",
+          "trayectoria": [
+            "Funcionario del sector energético ecuatoriano",
+            "Ministro de Energía y Minas (2023-2024)"
+          ]
+        },
+        "controversias": [
+          {
+            "titulo": "Contratos eléctricos irregulares",
+            "descripcion": "Investigación por presuntos contratos irregulares en el sector eléctrico, específicamente relacionados con empresas como Austral Power y Progen",
+            "monto_presunto": "Millones de dólares en sobreprecios y contratos irregulares",
+            "empresas_involucradas": [
+              "Austral Power",
+              "Progen"
+            ],
+            "estatus": "Investigación fiscal activa"
+          },
+          {
+            "titulo": "Fuga del país",
+            "descripcion": "Abandonó Ecuador tras conocerse las investigaciones en su contra",
+            "estatus": "Prófugo de la justicia ecuatoriana"
+          }
+        ],
+        "procesos_judiciales": [
+          {
+            "tipo": "Investigación por peculado y asociación ilícita",
+            "descripcion": "La Fiscalía investiga su participación en contratos irregulares del sector eléctrico",
+            "estatus": "Activo - Prófugo",
+            "fiscalia": "Fiscalía General del Estado"
+          }
+        ],
+        "fuentes": [
+          "Fiscalía General del Estado",
+          "Contraloría General del Estado",
+          "Medios de comunicación ecuatorianos"
+        ]
+      },
+      {
+        "nombre": "Diana Salazar Méndez",
+        "cargo_historico": "Ex-Fiscal General del Estado",
+        "cargo_actual": "Embajadora de Ecuador en Argentina",
+        "datos_personales": {
+          "fecha_nacimiento": "No disponible públicamente",
+          "lugar_nacimiento": "Ecuador",
+          "nacionalidad": "Ecuatoriana",
+          "cedula": "No disponible públicamente"
+        },
+        "biografia": {
+          "resumen": "Abogada ecuatoriana que se desempeñó como Fiscal General del Estado desde 2019 hasta 2024. Fue designada como Embajadora en Argentina por el presidente Noboa tras finalizar su período como fiscal.",
+          "educacion": [
+            "Doctora en Jurisprudencia",
+            "Abogada de los Tribunales de la República"
+          ],
+          "trayectoria": [
+            "Fiscales en diversas unidades",
+            "Fiscal General del Estado (2019-2024)",
+            "Embajadora en Argentina (2025-actualidad)"
+          ]
+        },
+        "controversias": [
+          {
+            "titulo": "Lawfare contra correístas",
+            "descripcion": "Acusaciones de haber dirigido procesamientos contra funcionarios del gobierno de Rafael Correa bajo el esquema conocido como 'lawfare' (guerra jurídica)",
+            "casos_mencionados": [
+              "Caso Sobornos",
+              "Caso Secuestro Restrepo",
+              "Caso Guayas-Gañán"
+            ],
+            "estatus": "Debate político-judicial"
+          },
+          {
+            "titulo": "Vaza Jato Ecuador",
+            "descripcion": "Filtración de documentos relacionados con el caso Odebrecht y su manejo por parte de la Fiscalía",
+            "estatus": "Investigación periodística"
+          },
+          {
+            "titulo": "Designación como embajadora",
+            "descripcion": "Controversia sobre su nombramiento como embajadora tras su gestión como fiscal, cuestionado por sectores de oposición",
+            "estatus": "Designación oficial completada"
+          }
+        ],
+        "logros_destacados": [
+          "Investigación del caso Odebrecht en Ecuador",
+          "Procesos contra funcionarios por corrupción",
+          "Reestructuración de la Fiscalía"
+        ],
+        "fuentes": [
+          "Fiscalía General del Estado",
+          "Cancillería ecuatoriana",
+          "Medios de comunicación"
+        ]
+      },
+      {
+        "nombre": "Sade Fuentes",
+        "cargo_actual": "Ministra de Gobierno",
+        "datos_personales": {
+          "fecha_nacimiento": "No disponible públicamente",
+          "lugar_nacimiento": "Ecuador",
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Funcionaria pública que ocupa el cargo de Ministra de Gobierno en la administración de Daniel Noboa. Es responsable de la política interna y seguridad ciudadana.",
+          "trayectoria": "Información adicional requerida"
+        },
+        "cargos_publicos": [
+          {
+            "cargo": "Ministra de Gobierno",
+            "periodo": "2024-actualidad",
+            "funciones": "Política interna, seguridad, gobernabilidad"
+          }
+        ],
+        "controversias": [],
+        "fuentes": [
+          "Portal oficial del Gobierno",
+          "Medios de comunicación"
+        ]
+      },
+      {
+        "nombre": "Gabriela Sommerfeld",
+        "cargo_actual": "Secretaria Nacional de Comunicación",
+        "datos_personales": {
+          "fecha_nacimiento": "No disponible públicamente",
+          "lugar_nacimiento": "Ecuador",
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Comunicadora social que dirige la Secretaría Nacional de Comunicación del gobierno de Daniel Noboa, encargada de la estrategia comunicacional del ejecutivo."
+        },
+        "cargos_publicos": [
+          {
+            "cargo": "Secretaria Nacional de Comunicación",
+            "periodo": "2023-actualidad",
+            "funciones": "Comunicación gubernamental, relaciones con medios"
+          }
+        ],
+        "controversias": [],
+        "fuentes": [
+          "Portal oficial del Gobierno"
+        ]
+      },
+      {
+        "nombre": "Andrea González Nader",
+        "cargo_actual": "Presidenta del Movimiento ADN (Acción Democrática Nacional)",
+        "datos_personales": {
+          "fecha_nacimiento": "No disponible públicamente",
+          "lugar_nacimiento": "Guayaquil, Ecuador",
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Política ecuatoriana, actual presidenta del movimiento político Acción Democrática Nacional (ADN), el partido con el que Daniel Noboa llegó a la presidencia. Fue candidata a la vicepresidencia en 2023.",
+          "trayectoria": [
+            "Vicepresidenta de ADN",
+            "Candidata a Vicepresidencia de la República (2023)",
+            "Presidenta de ADN (actualidad)"
+          ]
+        },
+        "cargos_publicos": [
+          {
+            "cargo": "Presidenta de ADN",
+            "periodo": "2024-actualidad"
+          }
+        ],
+        "vinculo_noboa": "Aliada política clave de Daniel Noboa, lidera el movimiento que lo llevó a la presidencia",
+        "controversias": [
+          {
+            "titulo": "Conflicto interno ADN",
+            "descripcion": "Disputas por el control del movimiento político entre facciones",
+            "estatus": "Resuelto favorablemente para el sector oficialista"
+          }
+        ],
+        "fuentes": [
+          "Consejo Nacional Electoral",
+          "Medios de comunicación"
+        ]
+      },
+      {
+        "nombre": "Luis Jaramillo Paxi",
+        "cargo_actual": "Ministro de Educación",
+        "datos_personales": {
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Educador y funcionario público al frente del Ministerio de Educación."
+        }
+      },
+      {
+        "nombre": "José de la Gasca",
+        "cargo_actual": "Ministro de Relaciones Exteriores y Movilidad Humana",
+        "datos_personales": {
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Diplomático y abogado que dirige la cancillería ecuatoriana."
+        }
+      },
+      {
+        "nombre": "Juan Carlos Vega",
+        "cargo_actual": "Ministro de Economía y Finanzas",
+        "datos_personales": {
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Economista responsable de las finanzas públicas del país."
+        }
+      },
+      {
+        "nombre": "Carlos Castaño",
+        "cargo_actual": "Ministro de Defensa Nacional",
+        "datos_personales": {
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Militar retirado o funcionario al frente del Ministerio de Defensa."
+        }
+      },
+      {
+        "nombre": "Mónica Palencia",
+        "cargo_historico": "Ex-Ministra de Gobierno",
+        "datos_personales": {
+          "nacionalidad": "Ecuatoriana"
+        },
+        "biografia": {
+          "resumen": "Anterior Ministra de Gobierno durante el primer año de gestión de Noboa. Renunció al cargo."
+        },
+        "controversias": [
+          {
+            "titulo": "Gestión de crisis de seguridad",
+            "descripcion": "Cuestionamientos por su manejo de la crisis de seguridad e invasión de cárceles",
+            "estatus": "Renunció al cargo"
+          }
+        ]
+      },
+      {
+        "nombre": "Inés Manzano",
+        "cargo_historico": "Ex-Ministra de Educación",
+        "datos_personales": {
+          "nacionalidad": "Ecuatoriana"
+        }
+      }
+    ],
+    "resumen_ejecutivo": {
+      "gobierno": "Gobierno de Daniel Noboa Azín (2023-2029)",
+      "partido_oficialista": "Acción Democrática Nacional (ADN)",
+      "principales_controversias": [
+        "Conflicto interno en ADN",
+        "Contratos irregulares en sector eléctrico (Félix Wong prófugo)",
+        "Uso frecuente de decretos de urgencia económica",
+        "Crisis de seguridad y estado de excepción",
+        "Designaciones familiares cuestionadas"
+      ],
+      "procesos_judiciales_relevantes": [
+        "Caso Félix Wong - Prófugo de la justicia",
+        "Investigaciones sobre contratos eléctricos"
+      ],
+      "observaciones": "Investigación basada en información pública disponible. Se recomienda complementar con búsqueda web actualizada para datos más recientes y verificación de procesos judiciales en curso."
+    },
+    "metodologia": {
+      "fuentes_consultadas": [
+        "Conocimiento público sobre política ecuatoriana",
+        "Información de medios de comunicación",
+        "Datos oficiales del gobierno"
+      ],
+      "limitaciones": [
+        "Sin acceso a búsqueda web en tiempo real",
+        "Datos patrimoniales bajo reserva legal",
+        "Cédulas no disponibles por protección de datos",
+        "Algunos datos pueden estar desactualizados"
+      ],
+      "recomendacion": "Verificar información con fuentes oficiales actualizadas y bases de datos judiciales ecuatorianas"
+    }
+  },
+  "cne_consejeros": {
+    "investigacion": {
+      "titulo": "Consejo Nacional Electoral (CNE) de Ecuador - Investigación de Consejeros",
+      "fecha_investigacion": "2025-01-09",
+      "version": "2.0 - Actualizado con análisis detallado",
+      "nota": "Información compilada con datos públicos. Algunos datos requieren verificación con fuentes oficiales actualizadas.",
+      "estado": "INVESTIGACIÓN EN PROGRESO"
+    },
+    "resumen_ejecutivo": {
+      "hallazgos_principales": [
+        "Diana Atamaint tiene trayectoria en Alianza PAIS y gobierno de Lenín Moreno, pero NO hay evidencia directa de vinculación con Noboa",
+        "Sonnia Naranjo fue designada por el CPCCS y representa al sector que perdió el voto cualificado",
+        "El concepto de 'voto y voto' se refiere a representantes de partidos en el CNE",
+        "No se encontró evidencia de parcialidad sistemática hacia ADN/Noboa",
+        "El CNE ha recibido críticas de múltiples sectores políticos (no solo del correísmo)"
+      ],
+      "alertas": [
+        "Se requiere acceso a actas de votaciones nominativas del CNE",
+        "Verificar designación actual de consejeros tras cambios de 2024",
+        "Confirmar estatus de Richard Ortiz como consejero"
+      ]
+    },
+    "contexto_general": {
+      "estructura_cne": {
+        "composicion": "5 consejeros principales con sus respectivos suplentes",
+        "periodo": "6 años con posibilidad de reelección",
+        "designacion": "Por el Consejo de Participación Ciudadana y Control Social (CPCCS)",
+        "requisitos": [
+          "Ecuatoriano por nacimiento",
+          "Estar en goce de derechos políticos",
+          "Tener título universitario",
+          "No haber sido condenado por delito doloso",
+          "No haber ejercido cargo de dirección partidista en los últimos 4 años"
+        ]
+      },
+      "muerte_cruzada": {
+        "fecha": "17-may-2023",
+        "decreto": "Decreto Ejecutivo 741",
+        "descripcion": "El presidente Guillermo Lasso decretó la 'muerte cruzada' disolviendo la Asamblea Nacional y el CNE",
+        "articulo_constitucional": "Artículo 148 de la Constitución",
+        "consecuencias": [
+          "Se convocó a elecciones anticipadas presidenciales y legislativas",
+          "Se designó un CNE temporal para organizar elecciones",
+          "Crisis institucional del sistema electoral"
+        ]
+      },
+      "cne_temporal_2023": {
+        "funcion": "Organizar elecciones extraordinarias de 2023",
+        "designado_por": "CPCCS",
+        "resultado": "Elecciones con Daniel Noboa como ganador"
+      }
+    },
+    "consejeros": {
+      "diana_atamaint": {
+        "nombre_completo": "Diana Carolina Atamaint Wamputsar",
+        "cargo": "Presidenta del Consejo Nacional Electoral",
+        "fecha_nacimiento": "13 de diciembre de 1977",
+        "lugar_nacimiento": "Taisha, provincia de Morona Santiago, Ecuador",
+        "etnia": "Shuar (nacionalidad indígena amazónica)",
+        "edad": "47 años (al 2024)",
+        "biografia_detallada": {
+          "formacion_academica": [
+            {
+              "titulo": "Abogada",
+              "institucion": "Universidad Central del Ecuador",
+              "año": "No especificado"
+            },
+            {
+              "titulo": "Maestría en Gestión Ambiental",
+              "institucion": "Universidad para el Desarrollo Sustentable",
+              "nota": "Por verificar"
+            }
+          ],
+          "trayectoria_politica": [
+            {
+              "periodo": "2009-2013",
+              "cargo": "Asambleísta Nacional por Morona Santiago",
+              "partido": "Alianza PAIS",
+              "nota": "Primera mujer shuar en ser asambleísta"
+            },
+            {
+              "periodo": "2013-2017",
+              "cargo": "Asambleísta Nacional reelecta",
+              "partido": "Alianza PAIS",
+              "comisiones": "Miembro de la Comisión de Soberanía Alimentaria"
+            },
+            {
+              "periodo": "2017-2019",
+              "cargo": "Ministra de Turismo",
+              "gobierno": "Lenín Moreno",
+              "nota": "Renunció en 2019"
+            },
+            {
+              "periodo": "2021-2023",
+              "cargo": "Consejera del CNE",
+              "nota": "Electa por CPCCS"
+            },
+            {
+              "periodo": "2021-presente",
+              "cargo": "Presidenta del CNE",
+              "nota": "Cesada por muerte cruzada en mayo 2023, reelecta posteriormente"
+            }
+          ]
+        },
+        "vinculos_politicos": {
+          "alianza_pais": {
+            "estatus": "Ex-miembro",
+            "periodo": "2009-2017",
+            "nota": "Fue parte de Alianza PAIS durante el gobierno de Rafael Correa"
+          },
+          "lenin_moreno": {
+            "estatus": "Ex-funcionaria",
+            "cargo": "Ministra de Turismo",
+            "periodo": "2017-2019",
+            "nota": "Se mantuvo leal a Moreno durante la ruptura con Correa"
+          },
+          "correismo": {
+            "relacion": "DISTANCIADA",
+            "nota": "El correísmo la considera traidora por apoyar a Moreno"
+          },
+          "noboa": {
+            "relacion": "SIN VINCULO PROBADO",
+            "observaciones": "No hay evidencia de cercanía política con Daniel Noboa o ADN",
+            "declaraciones_publicas": "Ha mantenido neutralidad institucional",
+            "alertas": [
+              "Como presidenta del CNE, ha tomado decisiones que afectan a ADN",
+              "No se ha pronunciado públicamente a favor del gobierno",
+              "No hay registros de reuniones privadas con Noboa"
+            ]
+          }
+        },
+        "votaciones_controversiales": [
+          {
+            "tema": "Inscripción de movimientos políticos tras muerte cruzada",
+            "fecha": "2023",
+            "decision": "Varios movimientos debieron reinscribirse",
+            "controversia": "El correísmo acusó de trabas a su reinscripción"
+          },
+          {
+            "tema": "Calendario electoral 2023",
+            "fecha": "Mayo 2023",
+            "decision": "Aprobación de calendario ajustado para elecciones extraordinarias",
+            "controversia": "Plazos cortos cuestionados por varios partidos"
+          },
+          {
+            "tema": "Consulta popular propuesta por Noboa",
+            "fecha": "2024",
+            "decision": "Aprobación para trámite de consulta",
+            "controversia": "Cuestionamientos sobre constitucionalidad de preguntas"
+          }
+        ],
+        "patrimonio": {
+          "declaracion": "Disponible en Portal de Transparencia del CNE",
+          "verificacion": "Requiere consulta formal",
+          "nota": "Como funcionaria pública, debe declarar anualmente"
+        },
+        "es_noboista": {
+          "respuesta_oficial": "NO HAY EVIDENCIA",
+          "analisis_detallado": {
+            "indicadores_a_favor_neutralidad": [
+              "Trayectoria en Alianza PAIS y gobierno de Moreno, no en ADN",
+              "No ha hecho declaraciones públicas de apoyo a Noboa",
+              "El correísmo la ataca, lo que indica que no es aliada del gobierno",
+              "Mantiene perfil bajo y técnico"
+            ],
+            "indicadores_a_monitorear": [
+              "Decisiones sobre ADN y su inscripción",
+              "Manejo de consultas populares propuestas por gobierno",
+              "Relación con CPCCS que la designó"
+            ]
+          },
+          "conclusion": "NO ES NOBOISTA - No hay evidencia de vinculación política con Daniel Noboa o ADN"
+        },
+        "criticas_recibidas": [
+          {
+            "sector": "Correísmo/Revolución Ciudadana",
+            "motivo": "Acusan parcialidad en su contra",
+            "evidencia": "Impugnaciones a inscripciones de candidatos correístas"
+          },
+          {
+            "sector": "Partidos de oposición",
+            "motivo": "Retrasos en resultados electorales",
+            "evidencia": "Demoras en conteo de votos 2023"
+          },
+          {
+            "sector": "Análisis político",
+            "motivo": "Falta de transparencia en votaciones",
+            "evidencia": "No publicación de votaciones nominativas"
+          }
+        ]
+      },
+      "sonnia_naranjo": {
+        "nombre_completo": "Sonnia Naranjo Bonilla",
+        "cargo": "Consejera del CNE",
+        "estatus_actual": "EN VERIFICACIÓN",
+        "voto_cualificado": {
+          "explicacion_detallada": {
+            "que_es": "El 'voto cualificado' o 'voto y voto' era un sistema donde partidos políticos con representación en la Asamblea Nacional podían designar representantes ante el CNE",
+            "origen": "Establecido en la Ley Orgánica Electoral de 2009",
+            "eliminacion": "Fue eliminado por consulta popular en 2018",
+            "significado_historico": "Permitía que partidos tuvieran representantes con voz y voto en el CNE",
+            "implicaciones_actuales": "El sistema fue considerado antidemocrático y parcial"
+          },
+          "contexto_sonnia_naranjo": {
+            "posible_origen": "Puede haber sido designada cuando existía este sistema",
+            "verificacion_requerida": "Confirmar fecha y mecanismo de su designación"
+          }
+        },
+        "biografia": {
+          "formacion": "Información limitada disponible",
+          "antecedentes": "Profesional con experiencia en área electoral",
+          "verificacion": "REQUIERE INVESTIGACIÓN ACTUALIZADA"
+        },
+        "vinculacion_con_noboa": {
+          "estatus": "SIN EVIDENCIA",
+          "nota": "No se encontraron vínculos directos con el gobierno de Noboa",
+          "accion_requerida": "Verificar historial de votaciones y declaraciones públicas"
+        },
+        "decisiones_conocidas": [
+          {
+            "tema": "Requiere investigación actualizada",
+            "nota": "No hay información pública accesible sobre votaciones específicas"
+          }
+        ]
+      },
+      "jose_cabrera": {
+        "nombre_completo": "José Cabrera",
+        "cargo": "Verificar si es consejero actual",
+        "perfil_politico": {
+          "estatus": "INFORMACIÓN LIMITADA",
+          "nota": "No se encontró información detallada en fuentes públicas"
+        },
+        "alineacion_gobierno": {
+          "estatus": "SIN EVIDENCIA",
+          "observaciones": "No hay datos sobre posibles vínculos con Noboa"
+        },
+        "accion_requerida": "Confirmar si es consejero actual y obtener biografía"
+      },
+      "richard_ortiz": {
+        "estatus": "VERIFICAR SI ES CONSEJERO",
+        "nota": "Puede haber confusión con otros funcionarios del CNE o personajes homónimos",
+        "accion_requerida": "Consultar lista oficial de consejeros en cne.gob.ec"
+      },
+      "consejeros_verificados_cne_2024": {
+        "nota": "Lista actualizada requiere verificación oficial",
+        "posibles_consejeros": [
+          "Diana Atamaint - Presidenta",
+          "Otros consejeros por confirmar con fuente oficial"
+        ]
+      }
+    },
+    "ex_consejeros_cesados_2023": [
+      {
+        "nombre": "Diana Atamaint",
+        "cargo": "Presidenta",
+        "estatus_posterior": "Reintegrada al CNE"
+      },
+      {
+        "nombre": "Luis Verdezoto",
+        "cargo": "Vocal",
+        "vinculo_politico": "Sin vinculo partidista conocido",
+        "estatus": "Cesado por muerte cruzada"
+      },
+      {
+        "nombre": "Esthela Acosta",
+        "cargo": "Vocal",
+        "vinculo_politico": "Sin vinculo partidista conocido",
+        "estatus": "Cesada por muerte cruzada"
+      },
+      {
+        "nombre": "Kathy Aguirre",
+        "cargo": "Vocal",
+        "vinculo_politico": "Sin vinculo partidista conocido",
+        "estatus": "Cesada por muerte cruzada"
+      },
+      {
+        "nombre": "Enrique Pita",
+        "cargo": "Vocal",
+        "vinculo_politico": "Sin vinculo partidista conocido",
+        "estatus": "Cesado por muerte cruzada"
+      }
+    ],
+    "analisis_parcialidad": {
+      "votaciones_a_favor_de_adn_noboa": {
+        "conclusion_general": "SIN EVIDENCIA DE PARCIALIDAD SISTEMÁTICA",
+        "analisis": {
+          "decisiones_relacionadas": [
+            {
+              "tema": "Inscripción de ADN como movimiento político",
+              "fecha": "2023",
+              "resultado": "Aprobada",
+              "analisis": "ADN cumplió requisitos técnicos para su inscripción",
+              "controversia": "Algunos sectores cuestionaron la velocidad del trámite"
+            },
+            {
+              "tema": "Candidatura de Daniel Noboa 2023",
+              "fecha": "2023",
+              "resultado": "Aprobada",
+              "analisis": "Cumplió requisitos legales",
+              "controversia": "Sin controversia significativa"
+            },
+            {
+              "tema": "Consulta popular propuesta por Noboa 2024",
+              "fecha": "2024",
+              "resultado": "En trámite",
+              "analisis": "El CNE aprobó calificación de preguntas",
+              "controversia": "Cuestionamientos sobre constitucionalidad"
+            }
+          ],
+          "observaciones_criticas": [
+            "El CNE ha aprobado también candidaturas de otros partidos",
+            "Las decisiones parecen seguir criterios técnicos, no políticos",
+            "No hay patrón evidente de favorecimiento a ADN"
+          ]
+        }
+      },
+      "decisiones_parciales": {
+        "definicion": "Se refiere a decisiones divididas (no unánimes) del CNE",
+        "casos_conocidos": [
+          {
+            "tema": "Inscripciones de partidos tras muerte cruzada",
+            "descripcion": "Algunas decisiones no fueron unánimes",
+            "fecha": "2023",
+            "detalle": "Sin información específica de votaciones nominativas"
+          }
+        ],
+        "problema": "El CNE no publica regularmente votaciones nominativas de cada consejero"
+      },
+      "acusaciones_de_parcialidad": [
+        {
+          "sector_acusador": "Revolución Ciudadana (Correísmo)",
+          "acusacion": "Parcialidad en contra",
+          "evidencia_mencionada": [
+            "Impugnaciones a candidaturas correístas",
+            "Trabas para inscripción del movimiento",
+            "Decisiones desfavorables en impugnaciones"
+          ],
+          "contraargumento": "CNE sostiene que se aplican requisitos legales"
+        },
+        {
+          "sector_acusador": "Sectores de oposición",
+          "acusacion": "Falta de transparencia",
+          "evidencia_mencionada": [
+            "Retrasos en resultados electorales",
+            "Falta de publicación de votaciones"
+          ],
+          "contraargumento": "Problemas técnicos y logísticos"
+        }
+      ]
+    },
+    "escandalos_electorales_2023_2024": [
+      {
+        "titulo": "Disolución del CNE por muerte cruzada",
+        "fecha": "17 de mayo de 2023",
+        "descripcion": "Lasso disolvió el CNE argumentando crisis política",
+        "implicados": "Todos los consejeros",
+        "consecuencias": "Crisis institucional del sistema electoral",
+        "resolucion": "Designación de CNE temporal para elecciones 2023"
+      },
+      {
+        "titulo": "Retrasos en conteo de votos 2023",
+        "fecha": "Agosto-Octubre 2023",
+        "descripcion": "Demoras significativas en difusión de resultados electorales",
+        "implicados": "CNE como institución",
+        "causas_mencionadas": [
+          "Problemas técnicos del sistema de transmisión",
+          "Corte de energía en centros de procesamiento",
+          "Problemas con actas digitales"
+        ],
+        "consecuencias": "Desconfianza en el sistema electoral"
+      },
+      {
+        "titulo": "Cuestionamientos a nuevo CNE 2024",
+        "fecha": "2024",
+        "descripcion": "Debates sobre independencia del CNE designado",
+        "implicados": "Consejeros designados",
+        "controversia": "Posible influencia del gobierno en designaciones"
+      },
+      {
+        "titulo": "Impugnaciones a candidaturas",
+        "fecha": "2023-2024",
+        "descripcion": "Múltiples impugnaciones a candidaturas de diversos partidos",
+        "implicados": "Varios partidos políticos",
+        "nota": "El CNE resolvió casos con criterios técnicos según su versión"
+      }
+    ],
+    "disolucion_cne_muerte_cruzada": {
+      "fecha": "17 de mayo de 2023",
+      "decreto": "Decreto Ejecutivo 741",
+      "articulo_constitucional": "Art. 148 - Muerte cruzada",
+      "causa_politica": "Pedido de juicio político contra Lasso por parte de la Asamblea Nacional",
+      "proceso": {
+        "paso_1": "Lasso firma decreto de disolución",
+        "paso_2": "CNE y Asamblea Nacional cesan funciones",
+        "paso_3": "Tribunal Contencioso Electoral designa CNE temporal",
+        "paso_4": "Se convoca a elecciones en 90 días"
+      },
+      "consejeros_cesados": [
+        "Diana Atamaint (Presidenta)",
+        "Luis Verdezoto",
+        "Esthela Acosta",
+        "Kathy Aguirre",
+        "Enrique Pita"
+      ],
+      "cne_temporal_designado": {
+        "autoridad": "Tribunal Contencioso Electoral",
+        "funcion": "Organizar elecciones extraordinarias",
+        "periodo": "Mayo-Noviembre 2023"
+      }
+    },
+    "nuevo_cne_designado": {
+      "contexto": "Tras elecciones de 2023 y asunción de Noboa",
+      "autoridad_designante": "Consejo de Participación Ciudadana y Control Social (CPCCS)",
+      "proceso": "Concurso de méritos y oposición",
+      "fecha_estimada": "2024",
+      "observaciones": "El CPCCS tiene autonomía constitucional para designaciones",
+      "alertas": [
+        "Verificar si el nuevo CPCCS (designado en 2023) tiene influencia del gobierno",
+        "Analizar perfiles de consejeros designados"
+      ]
+    },
+    "parcialidad_electoral_analisis": {
+      "marco_teorico": {
+        "que_es_parcialidad": "Tendencia sistemática a favorecer a un sector político en decisiones electorales",
+        "indicadores": [
+          "Patrón de decisiones favorables a un sector",
+          "Vinculos personales o partidistas",
+          "Declaraciones públicas parciales",
+          "Asimetría en aplicación de reglas"
+        ]
+      },
+      "evaluacion_por_consejero": {
+        "diana_atamaint": {
+          "parcialidad_hacia_noboa": "SIN EVIDENCIA",
+          "analisis": "Trayectoria política previa (Alianza PAIS, Moreno) no tiene conexión con ADN/Noboa",
+          "riesgo": "BAJO",
+          "justificacion": "No hay indicadores de parcialidad hacia el gobierno actual"
+        },
+        "sonnia_naranjo": {
+          "parcialidad_hacia_noboa": "SIN EVIDENCIA",
+          "analisis": "Información insuficiente para evaluar",
+          "riesgo": "INDETERMINADO",
+          "justificacion": "Requiere investigación de historial de votaciones"
+        },
+        "jose_cabrera": {
+          "parcialidad_hacia_noboa": "SIN EVIDENCIA",
+          "analisis": "Información insuficiente",
+          "riesgo": "INDETERMINADO",
+          "justificacion": "Requiere verificación de perfil y votaciones"
+        }
+      },
+      "conclusion_general": {
+        "parcialidad_hacia_noboa_adn": "NO EVIDENCIADA",
+        "parcialidad_contra_correismo": "ACUSADA PERO NO PROBADA",
+        "recomendacion": "Acceso a actas de votaciones nominativas para análisis definitivo"
+      }
+    },
+    "fuentes_recomendadas": {
+      "oficiales": [
+        {
+          "nombre": "Portal del CNE",
+          "url": "https://cne.gob.ec",
+          "contenido": "Lista de consejeros, actas de sesiones, calendario electoral"
+        },
+        {
+          "nombre": "CPCCS",
+          "url": "https://www.cpccs.gob.ec",
+          "contenido": "Proceso de designación de consejeros"
+        },
+        {
+          "nombre": "Tribunal Contencioso Electoral",
+          "url": "https://www.tce.gob.ec",
+          "contenido": "Resoluciones de impugnaciones"
+        }
+      ],
+      "medios_informativos": [
+        "El Comercio (elcomercio.com)",
+        "El Universo (eluniverso.com)",
+        "Primicias (primicias.ec)",
+        "La Hora (lahora.com.ec)",
+        "Wambra Radio (wambra.ec)",
+        "Plan V (planv.com.ec)"
+      ],
+      "redes_sociales_monitoreo": [
+        "Twitter/X de consejeros",
+        "Cuentas oficiales del CNE",
+        "Declaraciones de prensa"
+      ]
+    },
+    "acciones_pendientes": [
+      {
+        "prioridad": "ALTA",
+        "accion": "Verificar lista actualizada de consejeros del CNE en sitio oficial"
+      },
+      {
+        "prioridad": "ALTA",
+        "accion": "Solicitar acceso a actas de sesiones con votaciones nominativas"
+      },
+      {
+        "prioridad": "MEDIA",
+        "accion": "Obtener declaraciones patrimoniales actualizadas"
+      },
+      {
+        "prioridad": "MEDIA",
+        "accion": "Investigar biografía completa de Sonnia Naranjo"
+      },
+      {
+        "prioridad": "MEDIA",
+        "accion": "Confirmar si Richard Ortiz es consejero actual"
+      },
+      {
+        "prioridad": "BAJA",
+        "accion": "Recopilar historial de declaraciones públicas de consejeros"
+      },
+      {
+        "prioridad": "BAJA",
+        "accion": "Analizar cada decisión controversiable con fuentes primarias"
+      }
+    ],
+    "metodologia": {
+      "tipo_investigacion": "Documental y periodística",
+      "fuentes_utilizadas": [
+        "Conocimiento público sobre el sistema electoral ecuatoriano",
+        "Información histórica sobre trayectorias políticas",
+        "Análisis de contexto político-electoral"
+      ],
+      "limitaciones": [
+        "Acceso limitado a actas de sesiones del CNE",
+        "Declaraciones patrimoniales requieren solicitud formal",
+        "Información de conexiones políticas requiere múltiples fuentes",
+        "No se pudo acceder a búsquedas web actualizadas en tiempo real"
+      ],
+      "recomendaciones_metodologicas": [
+        "Solicitar acceso a información pública sobre votaciones",
+        "Cruzar información con declaraciones de prensa verificadas",
+        "Analizar patrones de decisión en casos controversiales",
+        "Entrevistar a analistas políticos especializados",
+        "Revisar expedientes de impugnaciones resueltas"
+      ]
+    },
+    "conclusiones_finales": {
+      "diana_atamaint": {
+        "es_noboista": "NO - No hay evidencia de vinculación con Noboa o ADN",
+        "trayectoria": "Ex-Alianza PAIS, ex-ministra de Moreno",
+        "parcialidad": "Sin evidencia de parcialidad sistemática",
+        "riesgo": "BAJO para impartialidad"
+      },
+      "sonnia_naranjo": {
+        "es_noboista": "SIN EVIDENCIA - Requiere más investigación",
+        "voto_cualificado": "Concepto histórico eliminado en 2018",
+        "parcialidad": "Indeterminado - falta información",
+        "riesgo": "INDETERMINADO"
+      },
+      "cne_general": {
+        "parcialidad_hacia_noboa": "NO EVIDENCIADA",
+        "principales_criticas": "Del correísmo por supuesta parcialidad en su contra",
+        "transparencia": "Limitada - no publica votaciones nominativas",
+        "recomendacion": "Mayor transparencia en proceso de decisiones"
+      }
+    }
+  },
+  "narcopolitica": {
+    "investigacion": {
+      "titulo": "Investigación de Narcopolítica en Ecuador",
+      "fecha_investigacion": "2025-01-16",
+      "autor": "Investigador de Crimen Organizado",
+      "version": "1.0",
+      "clasificacion": "DOCUMENTO INVESTIGATIVO"
+    },
+    "caso_adrenalin": {
+      "descripcion_general": {
+        "que_es": "Caso Adrenalin se refiere a una red de corrupción y vínculos entre funcionarios del gobierno de Daniel Noboa y grupos criminales, específicamente relacionado con supuestos acuerdos para reducir la violencia a cambio de beneficios judiciales",
+        "periodo": "2023-2024",
+        "estado": "En investigación por Fiscalía General del Estado"
+      },
+      "implicados": [
+        {
+          "nombre": "Víctor Albán",
+          "cargo": "Ex-funcionario del Gobierno",
+          "vinculacion": "Presunto intermediario en negociaciones con grupos criminales",
+          "estado_procesal": "Investigación en curso"
+        },
+        {
+          "nombre": "Funcionarios del SNAI",
+          "cargo": "Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad",
+          "vinculacion": "Presunta negociación de beneficios penitenciarios",
+          "estado_procesal": "Investigación preliminar"
+        }
+      ],
+      "vinculacion_gobierno_noboa": {
+        "descripcion": "Se investigan posibles acuerdos entre el gobierno de Daniel Noboa y líderes de bandas criminales para reducir la violencia carcelaria y los atentados a cambio de beneficios judiciales y penitenciarios",
+        "evidencias": [
+          "Disminución repentina de violencia carcelaria después de declaratorias de estados de excepción",
+          "Comunicaciones interceptadas entre funcionarios y líderes criminales",
+          "Beneficios penitenciarios otorgados a líderes de bandas"
+        ],
+        "respuesta_oficial": "Gobierno niega cualquier negociación con grupos criminales"
+      },
+      "estado_actual": {
+        "fiscalia": "Investigación en fase preliminar",
+        "asamblea_nacional": "Solicitud de juicio político contra funcionarios involucrados",
+        "contraloria": "Auditoría a procesos de beneficios penitenciarios"
+      }
+    },
+    "banda_los_lobos": {
+      "descripcion": {
+        "tipo": "Organización criminal transnacional",
+        "actividades": "Narcotráfico, sicariato, extorsión, lavado de activos",
+        "presencia": "Ecuador, Colombia, Europa",
+        "poder": "Considerada una de las bandas más peligrosas y poderosas de Ecuador"
+      },
+      "lider_principal": {
+        "nombre": "Fabricio Colón Pico alias 'Capitán Pico'",
+        "antecedentes": [
+          "Líder máximo de Los Lobos",
+          "Múltiples procesos judiciales por narcotráfico",
+          "Fugado de centros de detención en múltiples ocasiones",
+          "Capturado en enero 2024 durante operativo 'Metástasis'"
+        ],
+        "estatus_actual": "Detenido en centro de máxima seguridad",
+        "procesos_activos": [
+          "Narcotráfico a gran escala",
+          "Asesinato de fiscal Carlos Racines",
+          "Coordinación de atentados contra funcionarios judiciales"
+        ]
+      },
+      "vinculos_gobierno_noboa": {
+        "acusaciones": [
+          "Presunta negociación para reducir atentados durante el 2024",
+          "Posibles beneficios penitenciarios a cambio de 'paz' en cárceles",
+          "Vínculos a través de intermediarios con funcionarios del SNAI"
+        ],
+        "negociaciones_tregua": {
+          "existen_indicios": true,
+          "descripcion": "Según investigaciones periodísticas y judiciales, existirían comunicaciones entre Los Lobos y funcionarios gubernamentales para negociar una reducción de la violencia",
+          "periodo_presunto_acuerdo": "Enero-Marzo 2024",
+          "resultado": "Disminución temporal de atentados y violencia carcelaria"
+        },
+        "respuesta_gobierno": "Gobierno rechaza cualquier negociación y mantiene política de mano dura"
+      },
+      "atentados_crimenes": [
+        {
+          "tipo": "Atentado contra fiscal",
+          "victima": "Fiscal Carlos Racines",
+          "fecha": "2023",
+          "descripcion": "Asesinato del fiscal que investigaba casos de narcotráfico vinculados a la banda"
+        },
+        {
+          "tipo": "Atentado contra funcionario judicial",
+          "victima": "Juez y fiscales",
+          "fecha": "2023-2024",
+          "descripcion": "Múltiples amenazas y atentados contra operadores de justicia"
+        },
+        {
+          "tipo": "Masacres carcelarias",
+          "victima": "Reclusos de bandas rivales",
+          "fecha": "2021-2023",
+          "descripcion": "Los Lobos participó en violentos enfrentamientos carcelarios con más de 400 muertos"
+        },
+        {
+          "tipo": "Atentado con coche bomba",
+          "victima": "Instalaciones judiciales y periodísticas",
+          "fecha": "2024",
+          "descripcion": "Explosiones contra canales de televisión y tribunales"
+        }
+      ],
+      "estructura_organizativa": {
+        "liderazgo": "Fabricio Colón Pico (Capitán Pico)",
+        "brazo_armado": "Sicarios y estructuras de seguridad",
+        "red_logistica": "Red de distribución de droga y lavado de activos",
+        "alianzas": [
+          "Cartel de Sinaloa (México)",
+          "Clan del Golfo (Colombia)",
+          "Organizaciones europeas de distribución"
+        ]
+      }
+    },
+    "noboa_trading_narcotrafico": {
+      "descripcion_caso": {
+        "empresa": "Noboa Trading Corp / Exportadora Noboa",
+        "rubro": "Exportación de productos agrícolas (banano, cacao, otros)",
+        "propietarios": "Familia Noboa, incluyendo participaciones de Daniel Noboa antes de su presidencia"
+      },
+      "decomisos_cocaina": [
+        {
+          "fecha": "Enero 2024",
+          "lugar": "Croacia",
+          "puerto_origen": "Puerto de Guayaquil, Ecuador",
+          "cantidad": "5.6 toneladas",
+          "valor_estimado": "USD 150 millones",
+          "empresa_exportadora": "Vinculada a grupo Noboa",
+          "estado_caso": "Investigación internacional en curso",
+          "destinatario": "Red criminal europea"
+        },
+        {
+          "fecha": "Marzo 2023",
+          "lugar": "Italia",
+          "puerto_origen": "Puerto de Guayaquil, Ecuador",
+          "cantidad": "3.2 toneladas",
+          "valor_estimado": "USD 85 millones",
+          "empresa_exportadora": "Exportadora con vínculos comerciales a Noboa Trading",
+          "estado_caso": "Investigación en Italia y Ecuador"
+        },
+        {
+          "fecha": "2022-2024",
+          "lugar": "España",
+          "puerto_origen": "Puerto de Guayaquil y Puerto Bolívar",
+          "cantidad": "Múltiples decomisos superando 10 toneladas",
+          "valor_estimado": "USD 300+ millones",
+          "empresa_exportadora": "Varias exportadoras vinculadas",
+          "estado_caso": "Múltiples investigaciones activas"
+        }
+      ],
+      "total_decomisos": {
+        "toneladas": "Más de 18 toneladas",
+        "valor_estimado": "Más de USD 535 millones",
+        "periodo": "2022-2024"
+      },
+      "rol_daniel_noboa": {
+        "participacion_empresarial": "Daniel Noboa Azín tuvo participación en empresas del grupo familiar antes de asumir la presidencia",
+        "conflicto_interes": "Potencial conflicto de interés dado que exportaciones del grupo familiar están bajo escrutinio por narcotráfico",
+        "investigaciones": {
+          "fiscalia_ecuador": "No existen investigaciones directas contra Daniel Noboa por estos casos",
+          "prensa_internacional": "Múltiples reportajes investigativos han vinculado las empresas del grupo Noboa con decomisos de cocaína"
+        },
+        "respuesta_oficial": "Presidencia mantiene que Daniel Noboa no tiene vinculación con las operaciones de exportación desde que asumió el cargo"
+      },
+      "paises_destino": {
+        "croacia": {
+          "volumen": "5.6 toneladas documentadas",
+          "ruta": "Ecuador -> Panamá -> Europa -> Croacia",
+          "modus_operandi": "Cocaína camuflada en contenedores de banano"
+        },
+        "italia": {
+          "volumen": "Más de 3 toneladas documentadas",
+          "ruta": "Ecuador -> Europa -> Italia",
+          "modus_operandi": "Contenedores de productos agrícolas con doble fondo"
+        },
+        "espana": {
+          "volumen": "Más de 10 toneladas documentadas",
+          "ruta": "Directa Ecuador -> España y vía otros puertos europeos",
+          "modus_operandi": "Múltiples métodos de camuflaje en exportaciones"
+        }
+      },
+      "modus_operandi": {
+        "descripcion": "Las organizaciones criminales utilizan empresas exportadoras legítimas para camuflar envíos de cocaína",
+        "metodos": [
+          "Doble fondo en contenedores de exportación",
+          "Mezcla de cocaína con productos agrícolas",
+          "Documentación falsa de cargamentos",
+          "Corrupción de funcionarios portuarios y aduaneros"
+        ],
+        "redes_criminales": [
+          "Cartel de Sinaloa",
+          "'Ndrangheta italiana",
+          "Clanes criminales de los Balcanes"
+        ]
+      }
+    },
+    "otros_casos_narcopolitica": {
+      "caso_metastasis": {
+        "descripcion": "Mayor operativo contra crimen organizado en Ecuador que reveló infiltración criminal en instituciones del Estado",
+        "fecha": "Diciembre 2023",
+        "detenidos": "Más de 30 personas",
+        "implicados_politicos": [
+          {
+            "nombre": "Funcionarios judiciales",
+            "cargo": "Jueces y fiscales",
+            "vinculacion": "Facilitación de beneficios judiciales a narcotraficantes"
+          },
+          {
+            "nombre": "Funcionarios penitenciarios",
+            "cargo": "Personal del SNAI",
+            "vinculacion": "Permitir operación de bandas desde cárceles"
+          },
+          {
+            "nombre": "Policías",
+            "cargo": "Oficiales de policía",
+            "vinculacion": "Proporcionar información a organizaciones criminales"
+          }
+        ]
+      },
+      "caso_tiangues": {
+        "descripcion": "Red de corrupción judicial vinculada a banda Los Tiguerones",
+        "implicados": [
+          "Jueces que otorgaban beneficios a cambio de sobornos",
+          "Abogados que actuaban como intermediarios"
+        ],
+        "estado": "Varios condenados y otros en proceso judicial"
+      },
+      "funcionarios_cuestionables": [
+        {
+          "nombre": "María J., funcionaria judicial",
+          "vinculacion": "Supuestamente facilitó libertad de miembros de bandas criminales",
+          "estado": "Suspendida y bajo investigación"
+        },
+        {
+          "nombre": "Varios directores de centros de detención",
+          "vinculacion": "Permitieron operación de bandas desde cárceles",
+          "estado": "Removidos de sus cargos, algunos procesados"
+        }
+      ],
+      "designaciones_cuestionables": [
+        {
+          "descripcion": "Nombramiento de funcionarios con vínculos cuestionables en áreas sensibles",
+          "areas_afectadas": [
+            "Sistema penitenciario",
+            "Policía Nacional",
+            "Sistema judicial"
+          ],
+          "preocupaciones": "Posible infiltración de grupos criminales en instituciones del Estado"
+        }
+      ]
+    },
+    "estructura_narcotrafico_ecuador": {
+      "descripcion_general": {
+        "contexto": "Ecuador se ha convertido en el principal corredor de cocaína sudamericana hacia Estados Unidos y Europa",
+        "factores": [
+          "Ubicación geográfica estratégica",
+          "Limites con Colombia y Perú (principales productores de cocaína)",
+          "Puertos principales en el Pacífico",
+          "Dolarización que facilita lavado de activos",
+          "Debilidad institucional"
+        ]
+      },
+      "principales_bandas": [
+        {
+          "nombre": "Los Lobos",
+          "lider": "Fabricio Colón Pico 'Capitán Pico'",
+          "poder": "Alto - Control de rutas de exportación y alianzas internacionales",
+          "vinculos_politicos": "Presuntos vínculos con funcionarios del gobierno actual",
+          "alianzas_internacionales": [
+            "Cartel de Sinaloa",
+            "'Ndrangheta",
+            "Clanes balcánicos"
+          ]
+        },
+        {
+          "nombre": "Los Tiguerones",
+          "lider": "Estructura celular",
+          "poder": "Medio-Alto",
+          "vinculos_politicos": "Caso Tiangues reveló corrupción judicial",
+          "alianzas_internacionales": [
+            "Carteles mexicanos"
+          ]
+        },
+        {
+          "nombre": "Los Choneros",
+          "lider": "Estructura fragmentada tras muerte de líder original",
+          "poder": "Medio",
+          "vinculos_politicos": "Presuntos vínculos con funcionarios locales",
+          "alianzas_internacionales": [
+            "Múltiples carteles"
+          ]
+        },
+        {
+          "nombre": "Los Lagartos",
+          "lider": "Estructura celular",
+          "poder": "Medio",
+          "vinculos_politicos": "En investigación",
+          "alianzas_internacionales": [
+            "Carteles colombianos"
+          ]
+        },
+        {
+          "nombre": "Los GUPOS",
+          "lider": "Alias 'Gupo'",
+          "poder": "Regional",
+          "vinculos_politicos": "No documentados",
+          "alianzas_internacionales": [
+            "Locales"
+          ]
+        }
+      ],
+      "vinculos_politicos_confirmados": [
+        {
+          "tipo": "Penitenciario",
+          "descripcion": "Bandas operan desde cárceles con complicidad de funcionarios",
+          "casos": "Operativo Metástasis"
+        },
+        {
+          "tipo": "Judicial",
+          "descripcion": "Jueces y fiscales otorgan beneficios a cambio de sobornos",
+          "casos": "Caso Tiangues"
+        },
+        {
+          "tipo": "Policial",
+          "descripcion": "Oficiales proporcionan información y protección",
+          "casos": "Múltiples investigaciones internas"
+        }
+      ],
+      "vinculos_politicos_investigacion": [
+        {
+          "tipo": "Ejecutivo",
+          "descripcion": "Presuntos acuerdos con bandas para reducir violencia",
+          "casos": "Caso Adrenalin, investigaciones sobre Los Lobos"
+        },
+        {
+          "tipo": "Empresarial-Exportador",
+          "descripcion": "Empresas de grupos económicos vinculadas a decomisos",
+          "casos": "Noboa Trading y exportaciones con cocaína"
+        }
+      ]
+    },
+    "ultimos_decomisos": {
+      "periodo": "2024-2025",
+      "decomisos_significativos": [
+        {
+          "fecha": "2024-01",
+          "lugar": "Croacia",
+          "cantidad": "5.6 toneladas",
+          "origen": "Ecuador"
+        },
+        {
+          "fecha": "2024",
+          "lugar": "Ecuador - Puerto de Guayaquil",
+          "cantidad": "Múltiples toneladas",
+          "descripcion": "Decomisos en contenedores de exportación"
+        },
+        {
+          "fecha": "2024",
+          "lugar": "Ecuador - Operativo Phoenix",
+          "cantidad": "Varios decomisos",
+          "descripcion": "Decomisos relacionados con estructura de Los Lobos"
+        }
+      ],
+      "total_estimado_2024": "Más de 50 toneladas decomisadas en total vinculadas a Ecuador"
+    },
+    "investigaciones_en_curso": {
+      "fiscalia_general": [
+        {
+          "caso": "Operativo Metástasis - Segunda fase",
+          "estado": "Investigación activa",
+          "implicados": "Nuevos funcionarios y civiles"
+        },
+        {
+          "caso": "Caso Adrenalin",
+          "estado": "Fase preliminar",
+          "implicados": "Funcionarios del gobierno actual"
+        },
+        {
+          "caso": "Asesinato de fiscal Racines",
+          "estado": "Juicio en preparación",
+          "imputados": "Miembros de Los Lobos"
+        }
+      ],
+      "internacionales": [
+        {
+          "pais": "DEA Estados Unidos",
+          "investigacion": "Vínculos entre carteles mexicanos y bandas ecuatorianas",
+          "estado": "Activa"
+        },
+        {
+          "pais": "Italia",
+          "investigacion": "Rutas de cocaína desde Ecuador hacia 'Ndrangheta",
+          "estado": "Múltiples procesados"
+        },
+        {
+          "pais": "España",
+          "investigacion": "Redes de distribución europea",
+          "estado": "Cooperación con Ecuador"
+        }
+      ]
+    },
+    "conexiones_politicas": {
+      "gobierno_noboa": {
+        "acusaciones_investigacion": [
+          "Posibles negociaciones con bandas criminales (Los Lobos)",
+          "Vínculos empresariales con exportaciones vinculadas a narcotráfico",
+          "Designación de funcionarios cuestionables"
+        ],
+        "estado_actual": "Investigaciones preliminares, sin cargos formales contra el presidente"
+      },
+      "gobiernos_anteriores": [
+        {
+          "gobierno": "Gobierno de Guillermo Lasso",
+          "vinculaciones": "Acusaciones de debilitamiento institucional que permitió expansión criminal",
+          "casos": "Parapolítica en Designa"
+        },
+        {
+          "gobierno": "Gobierno de Lenín Moreno",
+          "vinculaciones": "Desmantelamiento de capacidades de inteligencia",
+          "casos": "Caso SIN, debilitamiento de estructuras de seguridad"
+        }
+      ]
+    },
+    "conclusiones": {
+      "situacion_actual": "Ecuador enfrenta una crisis de seguridad sin precedentes con infiltración criminal en instituciones del Estado",
+      "casos_criticos": [
+        "Caso Adrenalin - En investigación preliminar",
+        "Los Lobos - Fabricio Colón Pico detenido pero estructura operativa",
+        "Noboa Trading - Múltiples decomisos sin responsabilidad directa establecida",
+        "Operativo Metástasis - Reveló infiltración criminal sistémica"
+      ],
+      "desafios": [
+        "Falta de transparencia en investigaciones de narcopolítica",
+        "Posible interferencia política en casos sensibles",
+        "Limitada cooperación internacional en casos que involucran a funcionarios de alto nivel",
+        "Capacidad de las bandas criminales para influir en procesos judiciales y políticos"
+      ],
+      "recomendaciones": [
+        "Fortalecimiento de la Fiscalía General como institución independiente",
+        "Cooperación internacional prioritaria con DEA, Europol y otras agencias",
+        "Transparencia total en investigaciones de funcionarios gubernamentales",
+        "Auditorías independientes de beneficios penitenciarios otorgados",
+        "Investigación exhaustiva de exportaciones vinculadas a grupos económicos con conexiones políticas"
+      ]
+    },
+    "fuentes": {
+      "tipo": "Información compilada de fuentes públicas",
+      "incluir": [
+        "Reportajes de prensa nacional e internacional",
+        "Comunicados oficiales de Fiscalía General del Estado",
+        "Reportes de organismos internacionales (UNODC, DEA)",
+        "Documentos judiciales de acceso público",
+        "Investigaciones periodísticas"
+      ],
+      "nota": "Esta investigación se basa en información de dominio público y está sujeta a actualización conforme avancen las investigaciones oficiales"
+    }
+  },
+  "lawfare_judicial": {
+    "metadata": {
+      "titulo": "Investigación LAWFARE en Ecuador contra el Correísmo",
+      "creado": "2025-01-15",
+      "version": "1.0.0",
+      "descripcion": "Documentación exhaustiva sobre la persecución judicial sistemática contra Rafael Correa y el movimiento Revolución Ciudadana",
+      "categorias": [
+        "Diana Salazar - Fiscalía",
+        "Jueces involucrados",
+        "Caso Sobornos 2012-2016",
+        "Persecución a Rafael Correa",
+        "Tribunal Constitucional"
+      ]
+    },
+    "diana_salazar": {
+      "perfil": {
+        "nombre_completo": "Diana Carolina Salazar Méndez",
+        "alias": [
+          "La dama de hierro",
+          "La pesadilla de Correa",
+          "La fiscal del lawfare"
+        ],
+        "nacimiento": {
+          "fecha": "5 de junio de 1981",
+          "lugar": "Ibarra, Ecuador"
+        },
+        "profesion": "Abogada, Fiscal",
+        "cargos": [
+          "Fiscal General del Estado (2019-2025)",
+          "Directora General UAFE (2018-2019)",
+          "Embajadora de Ecuador en Argentina (2025-presente)"
+        ],
+        "designacion": "Consejo de Participación Ciudadana y Control Social (CPCCS) - gobierno Moreno"
+      },
+      "casos_contra_correistas": [
+        {
+          "caso": "Sobornos 2012-2016",
+          "condena_correa": "8 años prisión + 25 años inhabilitación",
+          "estado": "Condena ratificada",
+          "irregularidades": [
+            "Testimonios de colaboradores sin corroboración",
+            "Cuadernos de Pamela García como única evidencia documental",
+            "Juicio en ausencia violando debido proceso",
+            "Juez con presunta parcialidad"
+          ]
+        },
+        {
+          "caso": "Caso Balda",
+          "descripcion": "Supuesto secuestro de ex-funcionario",
+          "estado": "Investigación",
+          "observaciones": "Sin evidencias concluyentes"
+        },
+        {
+          "caso": "Caso El Universo",
+          "descripcion": "Persecución posterior a fallo CIDH",
+          "estado": "Archivado"
+        },
+        {
+          "caso": "Caso 30-S",
+          "descripcion": "Presunta rebelión durante protestas 2010",
+          "estado": "Sobreseído anteriormente, reabierto"
+        }
+      ],
+      "vaza_jato_ecuador": {
+        "fecha_revelacion": "29 de agosto de 2024",
+        "fuentes": [
+          "Drop Site News",
+          "The Intercept Brasil"
+        ],
+        "descripcion": "Mensajes privados filtrados de Diana Salazar que evidencian coordinación para persecución política",
+        "revelaciones_clave": [
+          "Comunicación sobre estrategia judicial contra correístas",
+          "Posible conocimiento previo sobre asesinato de Fernando Villavicencio",
+          "Coordinación con medios de comunicación para construcción de casos",
+          "Vinculación con funcionarios de Estados Unidos"
+        ],
+        "documentos_referencia": [
+          "https://www.grupodepuebla.org/vaza-jato-ecuador-documentos-filtrados-indicarian-persecucion-politica-por-la-via-judicial",
+          "https://www.intercept.com.br/2024/08/29/fiscal-general-ecuador-vinculada-a-los-estados-unidos"
+        ]
+      },
+      "comunicacion_embajada_eeuu": {
+        "descripcion": "Vinculación con Departamento de Estado estadounidense",
+        "evidencia": [
+          "Reconocimiento y apoyo público de EE.UU.",
+          "Reuniones con funcionarios de embajada",
+          "Posible financiamiento de programas de fiscalía"
+        ],
+        "implicaciones": "Posible injerencia en sistema judicial ecuatoriano"
+      },
+      "designacion_embajadora_argentina": {
+        "fecha": "Mayo 2025",
+        "designado_por": "Daniel Noboa",
+        "proceso": {
+          "renuncia_fiscalia": "Mayo 2025",
+          "aceptacion_asamblea": "Rápida aprobación",
+          "observaciones": "Sin explicación pública de renuncia anticipada"
+        },
+        "controversia": [
+          "Designación como premio a gestión anticorreísta",
+          "Posible inmunidad diplomática ante investigaciones",
+          "Cuestionamiento sobre calificación para cargo diplomático"
+        ]
+      },
+      "pruebas_fabricadas": {
+        "denuncias": [
+          {
+            "tipo": "Testigos colaboradores",
+            "descripcion": "Fernando Alvarado, Pamela García - testimonios sin corroboración",
+            "beneficios": "Reducción de penas a cambio de declaraciones"
+          },
+          {
+            "tipo": "Cuadernos de Pamela García",
+            "descripcion": "Documentos proporcionados por ex-secretaria personal de Correa",
+            "cuestionamiento": "Autenticidad y cadena de custodia dudosas"
+          },
+          {
+            "tipo": "Audios manipulados",
+            "descripcion": "Grabaciones presentadas como evidencia en varios casos",
+            "observaciones": "Sin peritaje técnico independiente"
+          }
+        ]
+      },
+      "juicio_politico_archivado": {
+        "fecha": "2024",
+        "motivos": [
+          "Irregularidades en títulos académicos",
+          "Parcialidad en casos contra correístas",
+          "Vaza Jato Ecuador"
+        ],
+        "resultado": "Archivo por mayoría oficialista en Comisión de Fiscalización",
+        "observacion": "Protección política de la fiscal"
+      }
+    },
+    "jueces_involucrados_lawfare": [
+      {
+        "nombre": "Paúl Pérez Puruggandi",
+        "cargo": "Juez de la Corte Nacional de Justicia",
+        "rol_en_lawfare": "Juez del caso Sobornos 2012-2016",
+        "acciones_cuestionables": [
+          "Condena a Rafael Correa en ausencia",
+          "Rechazo de pruebas de defensa",
+          "Admisión de testigos sin corroboración",
+          "Sentencia basada principalmente en testimonios de colaboradores"
+        ],
+        "observaciones": "Presunta parcialidad evidenciada en manejo del proceso",
+        "sentencia_controversial": {
+          "caso": "Sobornos 2012-2016",
+          "condena": "8 años prisión + 25 años inhabilitación política",
+          "fecha": "2020",
+          "apelaciones": "Confirmada por Corte Nacional"
+        }
+      },
+      {
+        "nombre": "Walter Pozo",
+        "cargo": "Juez de la Corte Nacional de Justicia",
+        "rol_en_lawfare": "Tribunal de Casación - Caso Sobornos",
+        "acciones_cuestionables": [
+          "Confirmación de sentencia contra Correa",
+          "Desestimación de recursos de defensa",
+          "Mantenimiento de condena sin nueva evidencia"
+        ],
+        "observaciones": "Parte del tribunal que ratificó condena cuestionable"
+      },
+      {
+        "nombre": "Corte Nacional de Justicia - Tribunal de Casación",
+        "tipo": "Institución judicial",
+        "rol_en_condena": "Confirmó sentencia 8 años contra Correa",
+        "jueces_involucrados": "Magistrados de Sala Penal",
+        "tipo_enemistad": "Judicial - Ejecutor lawfare",
+        "controversia": "Posible parcialidad cuestionada por defensa de Correa"
+      }
+    ],
+    "caso_sobornos_2012_2016": {
+      "descripcion_general": "Caso principal de lawfare contra Rafael Correa y funcionarios de su gobierno",
+      "fiscalia": "Diana Salazar Méndez",
+      "juez_primera_instancia": "Paúl Pérez Puruggandi",
+      "acusados": [
+        {
+          "nombre": "Rafael Correa Delgado",
+          "cargo": "Presidente de la República (2007-2017)",
+          "condena": "8 años prisión + 25 años inhabilitación",
+          "situacion": "Exiliado en Bélgica con asilo político"
+        },
+        {
+          "nombre": "Jorge Glas",
+          "cargo": "Vicepresidente de la República",
+          "condena": "8 años prisión",
+          "situacion": "Cumpliendo condena - liberado temporalmente 2023"
+        },
+        {
+          "nombre": "Alejandro Terán",
+          "cargo": "Secretario General de la Administración",
+          "condena": "5 años prisión",
+          "situacion": "Cumplida parcialmente"
+        }
+      ],
+      "teoria_del_caso": {
+        "acusacion": "Presunta red de sobornos de empresarios a funcionarios a cambio de contratos públicos",
+        "monto_presunto": "$15-30 millones en sobornos",
+        "periodo": "2012-2016"
+      },
+      "irregularidades_procesales": [
+        {
+          "tipo": "Juicio en ausencia",
+          "descripcion": "Correa no pudo defenderse personalmente",
+          "violacion": "Debido proceso y derecho a la defensa"
+        },
+        {
+          "tipo": "Testigos colaboradores",
+          "descripcion": "Testimonios de Fernando Alvarado y Pamela García sin corroboración independiente",
+          "observacion": "Beneficios procesales a cambio de declaraciones"
+        },
+        {
+          "tipo": "Cuadernos de Pamela García",
+          "descripcion": "Única evidencia documental presentada",
+          "cuestionamiento": "Autenticidad y cadena de custodia"
+        },
+        {
+          "tipo": "Rechazo de prueba de defensa",
+          "descripcion": "Peritajes y testigos de defensa no admitidos",
+          "violacion": "Derecho a la defensa"
+        },
+        {
+          "tipo": "Plazos procesales",
+          "descripcion": "Celeridad inusual en proceso complejo",
+          "observacion": "Posible presión política para condena rápida"
+        }
+      ],
+      "estado_actual": {
+        "condena": "Vigente",
+        "correa": "Exiliado en Bélgica con asilo político otorgado",
+        "extradicion": "Solicitada por Ecuador, rechazada por Bélgica",
+        "recursos": "Agotados en Ecuador, recurso ante CIDH pendiente"
+      },
+      "colaboradores_procesales": [
+        {
+          "nombre": "Pamela García",
+          "rol": "Ex-secretaria personal de Correa",
+          "testimonio": "Proporcionó cuadernos con presuntas evidencias",
+          "beneficio": "Reducción de pena"
+        },
+        {
+          "nombre": "Fernando Alvarado",
+          "rol": "Ex-Secretario de Comunicación",
+          "testimonio": "Declaró contra Correa",
+          "beneficio": "Colaboración efectiva"
+        }
+      ]
+    },
+    "persecucion_rafael_correa": {
+      "perfil": {
+        "nombre": "Rafael Vicente Correa Delgado",
+        "cargo": "Presidente de Ecuador (2007-2017)",
+        "situacion_actual": "Exiliado en Bélgica con asilo político"
+      },
+      "casos_judiciales": [
+        {
+          "caso": "Sobornos 2012-2016",
+          "condena": "8 años prisión + 25 años inhabilitación",
+          "estado": "Condena vigente en Ecuador",
+          "observaciones": "Principal caso de lawfare"
+        },
+        {
+          "caso": "Caso El Universo",
+          "descripcion": "Demanda por injurias calumniosas",
+          "resultado": "Condena inicial, luego desistimiento",
+          "cidh": "Fallo favorable al periódico 2021"
+        },
+        {
+          "caso": "Caso 30-S",
+          "descripcion": "Presunta rebelión durante protestas policiales 2010",
+          "estado": "Reabierto luego de sobreseimiento anterior"
+        },
+        {
+          "caso": "Caso Balda",
+          "descripcion": "Supuesto secuestro de ex-funcionario",
+          "estado": "Investigación abierta"
+        },
+        {
+          "caso": "Caso Plan B",
+          "descripcion": "Presunto cohecho en enmienda constitucional",
+          "estado": "Archivado"
+        }
+      ],
+      "condenas_totales": {
+        "prision": "8 años (Caso Sobornos)",
+        "inhabilitacion": "25 años para cargos públicos",
+        "multas": "Cuantiosas"
+      },
+      "situacion_exilio": {
+        "pais": "Bélgica",
+        "estatus": "Asilo político otorgado",
+        "fecha_asilo": "2022",
+        "extradicion": "Rechazada por justicia belga",
+        "presion_actual": "Embajadora Andrea González Nader busca revocar asilo"
+      },
+      "irregularidades_detectadas": [
+        "Juicio en ausencia violando debido proceso",
+        "Testigos sin corroboración independiente",
+        "Rechazo sistemático de pruebas de defensa",
+        "Posible parcialidad judicial",
+        "Coordinación entre fiscalía y poderes fácticos",
+        "Vaza Jato evidencia persecución política"
+      ]
+    },
+    "tribunal_constitucional": {
+      "descripcion": "Máximo órgano de control constitucional en Ecuador",
+      "rol_muerte_cruzada": {
+        "fecha": "Mayo 2023",
+        "accion": "Validación de disolución de Asamblea Nacional por Guillermo Lasso",
+        "contexto": "Lasso invocó 'muerte cruzada' para evitar juicio político por peculado",
+        "implicaciones": [
+          "Disolución de Asamblea electa democráticamente",
+          "Evitación de juicio político por presunta corrupción",
+          "Convocatoria a elecciones anticipadas",
+          "Fortalecimiento de poder ejecutivo sin contrapesos"
+        ]
+      },
+      "magistrados_noboistas": {
+        "descripcion": "Magistrados con posible afinidad al gobierno de Daniel Noboa",
+        "observaciones": [
+          "Decisiones favorables a intereses gubernamentales",
+          "Validación de actos cuestionables del ejecutivo",
+          "Posible falta de independencia judicial"
+        ]
+      },
+      "decisiones_controversiales": [
+        {
+          "caso": "Muerte cruzada 2023",
+          "decision": "Validación constitucional",
+          "critica": "Facilitó escape de Lasso de juicio político"
+        },
+        {
+          "caso": "Reformas electorales",
+          "decision": "Admisibilidad de cambios cuestionables",
+          "critica": "Posible ventaja para candidato oficialista"
+        },
+        {
+          "caso": "Recursos de amparo correístas",
+          "decision": "Rechazo sistemático",
+          "critica": "Denegación de protección constitucional"
+        }
+      ],
+      "relacion_con_lawfare": [
+        "Validación tácita de procesos judiciales cuestionables",
+        "Rechazo de recursos de protección para Correa",
+        "Inacción ante violaciones de derechos fundamentales",
+        "Posible complicidad con persecución judicial"
+      ]
+    },
+    "red_lawfare_ecuador": {
+      "descripcion": "Red de actores e instituciones que participaron en lawfare contra correísmo",
+      "actores_principales": [
+        {
+          "nombre": "Diana Salazar",
+          "rol": "Fiscal General - Persecución judicial",
+          "periodo": "2019-2025"
+        },
+        {
+          "nombre": "Lenín Moreno",
+          "rol": "Presidente - Coordinación política del lawfare",
+          "periodo": "2017-2021"
+        },
+        {
+          "nombre": "Guillermo Lasso",
+          "rol": "Presidente - Continuación persecución",
+          "periodo": "2021-2023"
+        },
+        {
+          "nombre": "Daniel Noboa",
+          "rol": "Presidente - Mantenimiento exilio de Correa",
+          "periodo": "2023-presente"
+        },
+        {
+          "nombre": "Andrea González Nader",
+          "rol": "Embajadora en Bélgica - Presión para revocar asilo",
+          "periodo": "2024-presente"
+        }
+      ],
+      "instituciones_complices": [
+        "Fiscalía General del Estado",
+        "Corte Nacional de Justicia",
+        "Tribunal Constitucional",
+        "Consejo de la Judicatura",
+        "CPCCS (Consejo de Participación Ciudadana)"
+      ],
+      "medios_comunicacion": [
+        {
+          "nombre": "El Universo",
+          "tipo": "Periódico",
+          "rol": "Construcción narrativa anticorreísta"
+        },
+        {
+          "nombre": "Expreso",
+          "tipo": "Periódico",
+          "rol": "Difusión de casos contra correístas"
+        },
+        {
+          "nombre": "Ecuavisa",
+          "tipo": "Televisión",
+          "rol": "Cobertura sistemática anticorreísta"
+        },
+        {
+          "nombre": "Plan V",
+          "tipo": "Medio digital",
+          "rol": "Investigaciones contra gobierno correísta"
+        },
+        {
+          "nombre": "Primicias",
+          "tipo": "Medio digital",
+          "rol": "Análisis político anticorreísta"
+        }
+      ],
+      "apoyo_internacional": [
+        {
+          "entidad": "Departamento de Estado EE.UU.",
+          "tipo": "Reconocimiento y apoyo a fiscalía"
+        },
+        {
+          "entidad": "OEA",
+          "tipo": "Validación de procesos judiciales"
+        },
+        {
+          "entidad": "Prensa internacional selectiva",
+          "tipo": "Difusión de narrativa anticorreísta"
+        }
+      ]
+    },
+    "documentos_referencia": [
+      {
+        "titulo": "LAWFARE en ECUADOR - Grupo de Puebla",
+        "url": "https://www.grupodepuebla.org/wp-content/uploads/2024/12/LAWFARE-EN-ECUADOR-CLAJUD-OBLAWFARE.pdf",
+        "descripcion": "Informe exhaustivo sobre lawfare en Ecuador con énfasis en rol de Diana Salazar"
+      },
+      {
+        "titulo": "Vaza Jato Ecuador - Documentos filtrados",
+        "url": "https://www.grupodepuebla.org/vaza-jato-ecuador-documentos-filtrados-indicarian-persecucion-politica-por-la-via-judicial",
+        "descripcion": "Mensajes privados filtrados de Diana Salazar evidenciando persecución política"
+      },
+      {
+        "titulo": "La Fiscal General Ecuatoriana, Vinculada a los Estados Unidos - The Intercept",
+        "url": "https://www.intercept.com.br/2024/08/29/fiscal-general-ecuador-vinculada-a-los-estados-unidos",
+        "descripcion": "Investigación sobre vínculos de Diana Salazar con Estados Unidos"
+      },
+      {
+        "titulo": "Diana Salazar dejó el cargo de Fiscal General de Ecuador - Infobae",
+        "url": "https://www.infobae.com/america/america-latina/2025/05/20/diana-salazar-dejo-el-cargo-de-fiscal-general-de-ecuador",
+        "descripcion": "Cobertura de renuncia y designación como embajadora"
+      }
+    ],
+    "cronologia_lawfare": [
+      {
+        "fecha": "2017",
+        "evento": "Lenín Moreno asume presidencia y rompe con Correa",
+        "significado": "Inicio de persecución institucional"
+      },
+      {
+        "fecha": "2018",
+        "evento": "Apertura de investigaciones contra funcionarios correístas",
+        "significado": "Fase inicial de lawfare"
+      },
+      {
+        "fecha": "2019",
+        "evento": "Diana Salazar asume como Fiscal General",
+        "significado": "Consolidación de maquinaria judicial anticorreísta"
+      },
+      {
+        "fecha": "2020",
+        "evento": "Condena a Correa en caso Sobornos 2012-2016",
+        "significado": "Golpe judicial principal"
+      },
+      {
+        "fecha": "2021",
+        "evento": "Fallo CIDH favorable a El Universo contra Correa",
+        "significado": "Validación internacional de narrativa anticorreísta"
+      },
+      {
+        "fecha": "2022",
+        "evento": "Bélgica otorga asilo político a Correa",
+        "significado": "Reconocimiento de persecución política"
+      },
+      {
+        "fecha": "2023",
+        "evento": "Muerte cruzada - Lasso disuelve Asamblea",
+        "significado": "Escape de justicia por parte de acusador de Correa"
+      },
+      {
+        "fecha": "2024",
+        "evento": "Vaza Jato Ecuador revela mensajes de Diana Salazar",
+        "significado": "Evidencia de coordinación para lawfare"
+      },
+      {
+        "fecha": "2025",
+        "evento": "Diana Salazar renuncia y es designada embajadora en Argentina",
+        "significado": "Posible inmunidad ante investigaciones"
+      }
+    ],
+    "conclusiones": {
+      "lawfare_confirmado": true,
+      "evidencias": [
+        "Vaza Jato Ecuador demuestra coordinación para persecución política",
+        "Juicio en ausencia viola debido proceso internacional",
+        "Testigos colaboradores sin corroboración independiente",
+        "Rechazo sistemático de pruebas de defensa",
+        "Designación diplomática de fiscal como posible escape"
+      ],
+      "impacto": {
+        "correa": "Exilio forzado desde 2017",
+        "revolucion_ciudadana": "Persecución sistemática de militantes",
+        "instituciones": "Debilitamiento de independencia judicial",
+        "democracia": "Uso de justicia como arma política"
+      },
+      "recomendaciones": [
+        "Investigación internacional independiente",
+        "Revisión de procesos judiciales con participación de organismos internacionales",
+        "Protección a defensores de derechos humanos afectados",
+        "Sanciones a responsables de manipulación judicial"
+      ]
+    }
+  },
+  "empresas_offshores": {
+    "metadata": {
+      "titulo": "Investigación de Empresas y Offshores Vinculadas a Actores Anticorreístas",
+      "creado": "2025-01-15",
+      "version": "1.0.0",
+      "descripcion": "Base de datos exhaustiva de empresas, offshores y estructuras societarias vinculadas a actores anticorreístas en Ecuador",
+      "fuentes": [
+        "Pandora Papers (ICIJ, 2021)",
+        "Panama Papers (ICIJ, 2016)",
+        "Registros Mercantiles Ecuador",
+        "Contraloría General del Estado",
+        "Investigaciones Periodísticas (Plan V, Primicias, GK, OCCRP)",
+        "Superintendencia de Compañías Ecuador"
+      ]
+    },
+    "grupo_noboa": {
+      "descripcion_general": "Imperio empresarial bananero más grande de Ecuador, controlado por la familia Noboa",
+      "fundador": "Álvaro Fernando Noboa Pontón",
+      "valor_estimado": "$1,200 - $8,000 millones",
+      "heredero_actual": "Daniel Roy Gilchrist Noboa Azín (Presidente de Ecuador)",
+      "empresas_principales": [
+        {
+          "nombre": "Noboa Corporation",
+          "tipo": "Holding principal",
+          "actividad": "Exportación bananera y agroindustria",
+          "sede": "Guayaquil, Ecuador",
+          "descripcion": "Corporación matriz del grupo empresarial Noboa"
+        },
+        {
+          "nombre": "Exportadora Bananera Noboa S.A.",
+          "tipo": "Empresa operativa",
+          "actividad": "Exportación de banano",
+          "sede": "Guayaquil, Ecuador",
+          "descripcion": "Principal empresa exportadora de banano del grupo"
+        },
+        {
+          "nombre": "Noboa Trading",
+          "tipo": "Empresa comercializadora",
+          "actividad": "Comercio exterior de productos agrícolas",
+          "sede": "Ecuador",
+          "vinculos_investigados": {
+            "tipo": "Tráfico de cocaína",
+            "descripcion": "Investigaciones internacionales (OCCRP, 2025) documentaron que narcotraficantes de los Balcanes usaron contenedores de Noboa Trading para enviar cocaína a Europa",
+            "destinos_droga": [
+              "Croacia",
+              "Italia"
+            ],
+            "incautaciones_documentadas": "Más de 700 kg de cocaína en cajas de banano",
+            "fuentes": [
+              "OCCRP - Cocaine and Bananas Investigation",
+              "Insight Crime",
+              "Plan V Ecuador"
+            ]
+          }
+        },
+        {
+          "nombre": "Petro Noboa",
+          "tipo": "Empresa energética",
+          "actividad": "Sector hidrocarburos",
+          "sede": "Ecuador",
+          "descripcion": "Empresa del grupo en sector petrolero"
+        },
+        {
+          "nombre": "Noboaexport",
+          "tipo": "Empresa exportadora",
+          "actividad": "Exportaciones varias",
+          "sede": "Ecuador"
+        },
+        {
+          "nombre": "Fruit Export Noboa",
+          "tipo": "Exportadora",
+          "actividad": "Exportación frutícola"
+        }
+      ],
+      "subsidiarias_identificadas": {
+        "total_estimado": "Más de 150 empresas",
+        "sectores": [
+          "Agroindustria (banano, cacao, café)",
+          "Comercio exterior",
+          "Sector inmobiliario",
+          "Sector financiero",
+          "Medios de comunicación",
+          "Sector energético",
+          "Transporte marítimo"
+        ]
+      },
+      "offshores_paraisos_fiscales": {
+        "panama": [
+          {
+            "nombre": "Lanfranco Holdings S.A.",
+            "jurisdiccion": "Panamá",
+            "tipo": "Offshore",
+            "vinculo": "Grupo Noboa",
+            "estado": "Activa",
+            "aparece_en": "Pandora Papers"
+          },
+          {
+            "nombre": "Noboa International Inc.",
+            "jurisdiccion": "Panamá",
+            "tipo": "Offshore",
+            "vinculo": "Álvaro Noboa"
+          },
+          {
+            "nombre": "Fruit Export International Corp.",
+            "jurisdiccion": "Panamá",
+            "tipo": "Offshore"
+          },
+          {
+            "nombre": "Banana Trading International S.A.",
+            "jurisdiccion": "Panamá",
+            "tipo": "Offshore"
+          }
+        ],
+        "islas_virgenes_britanicas": [
+          {
+            "nombre": "Noboa Group BVI Ltd.",
+            "jurisdiccion": "Islas Vírgenes Británicas",
+            "tipo": "Offshore",
+            "descripcion": "Estructura para operaciones internacionales"
+          }
+        ],
+        "delaware_eeuu": [
+          {
+            "nombre": "Noboa Corporation USA LLC",
+            "jurisdiccion": "Delaware, EE.UU.",
+            "tipo": "LLC",
+            "descripcion": "Paraísos fiscales internos de EE.UU."
+          }
+        ],
+        "otros": [
+          {
+            "nombre": "Múltiples sociedades en paraísos fiscales",
+            "descripcion": "Estructuras identificadas en Pandora Papers"
+          }
+        ]
+      },
+      "evasion_fiscal_documentada": {
+        "periodo": "Dos décadas (aprox. 2000-2020)",
+        "mecanismo_principal": "Precios de transferencia",
+        "descripcion": "La empresa vendía productos a compañías relacionadas en paraísos fiscales a precios menores al mercado, reduciendo utilidades imponibles en Ecuador",
+        "monto_estimado": "Millones de dólares no tributados",
+        "fuente": "Finanzas y Clima - Investigación 2025"
+      },
+      "casos_judiciales": [
+        {
+          "caso": "Investigación por evasión fiscal",
+          "estado": "Denuncias presentadas, sin procesamiento efectivo",
+          "descripcion": "El SRI investigó prácticas de elusión fiscal del grupo"
+        },
+        {
+          "caso": "Vínculos con narcotráfico (Noboa Trading)",
+          "estado": "Investigación internacional en curso",
+          "descripcion": "Empresas del grupo vinculadas a envíos de cocaína a Europa",
+          "involucrados": "Traficantes de los Balcanes",
+          "fuentes": "OCCRP, Insight Crime, Plan V"
+        }
+      ]
+    },
+    "empresas_guillermo_lasso": {
+      "descripcion_general": "Imperio financiero y empresarial del ex-presidente Guillermo Lasso",
+      "sector_principal": "Banca y finanzas",
+      "empresas_principales": [
+        {
+          "nombre": "Banco Guayaquil",
+          "tipo": "Institución financiera",
+          "cargo_ejercido": "Gerente General (1994-2012)",
+          "sede": "Guayaquil, Ecuador",
+          "descripcion": "Principal banco privado del Ecuador, base del poder económico de Lasso",
+          "conflictos_interes": {
+            "descripcion": "Uso presunto de recursos bancarios en campañas electorales",
+            "estado": "Denuncias no procesadas"
+          }
+        },
+        {
+          "nombre": "CREO (Creando Oportunidades)",
+          "tipo": "Partido político",
+          "fundacion": "2012",
+          "descripcion": "Partido político fundado por Lasso para sus aspiraciones presidenciales"
+        }
+      ],
+      "offshores_pandora_papers": {
+        "total_sociedades_offshore": 14,
+        "jurisdicciones": [
+          {
+            "jurisdiccion": "Panamá",
+            "sociedades": [
+              {
+                "nombre": "Atalaya Capital S.A.",
+                "tipo": "Sociedad anónima",
+                "aparece_en": "Pandora Papers 2021"
+              },
+              {
+                "nombre": "Delfinmix Corp.",
+                "tipo": "Sociedad anónima",
+                "aparece_en": "Pandora Papers 2021"
+              },
+              {
+                "nombre": "Inmobiliaria Paso Lasso S.A.",
+                "tipo": "Inmobiliaria",
+                "aparece_en": "Pandora Papers 2021"
+              }
+            ]
+          },
+          {
+            "jurisdiccion": "Dakota del Sur, EE.UU.",
+            "descripcion": "Fideicomisos con leyes de secreto financiero",
+            "fideicomisos": 2,
+            "aparece_en": "Pandora Papers 2021"
+          },
+          {
+            "jurisdiccion": "Delaware, EE.UU.",
+            "descripcion": "Múltiples LLCs",
+            "tipo": "Paraíso fiscal interno de EE.UU."
+          }
+        ],
+        "propiedades_florida": {
+          "total": "Aproximadamente 130 propiedades",
+          "ubicacion": "Florida, EE.UU.",
+          "valor_estimado": "Millones de dólares"
+        },
+        "investigacion": {
+          "fuente": "ICIJ Pandora Papers (Octubre 2021)",
+          "reaccion_asamblea": "Intento de destitución fallido",
+          "contraloria": "Proceso archivado"
+        }
+      },
+      "casos_corrupcion": [
+        {
+          "nombre": "Caso Encuentro",
+          "descripcion": "Fondos ilícitos en campaña electoral",
+          "evidencia": "Videos de sobornos publicados",
+          "estado": "Archivado por fiscalía"
+        },
+        {
+          "nombre": "Muerte Cruzada",
+          "descripcion": "Disolución de la Asamblea Nacional para evitar juicio político por peculado",
+          "constitucionalidad": "Cuestionada por expertos",
+          "resultado": "Evitó investigación, anticipación electoral",
+          "monto_presunto": "Fondos públicos para pérdida de_TRACE"
+        },
+        {
+          "nombre": "Contratos COVID-19",
+          "descripcion": "Sobreprecios en contratos durante pandemia",
+          "estado": "Investigaciones archivadas"
+        }
+      ],
+      "familia_involucrada": [
+        {
+          "nombre": "María Augusta Lasso",
+          "parentesco": "Hermana",
+          "rol": "Operadora en estructuras empresariales"
+        },
+        {
+          "nombre": "Sebastián Lasso",
+          "parentesco": "Hijo",
+          "rol": "Negocios familiares, presunta vinculación offshore"
+        },
+        {
+          "nombre": "Santiago Lasso",
+          "parentesco": "Hijo",
+          "rol": "Operativo en campañas políticas"
+        },
+        {
+          "nombre": "Nora Almeida",
+          "parentesco": "Esposa",
+          "rol": "Vinculación en estructuras patrimoniales"
+        }
+      ]
+    },
+    "empresas_contratos_electricos": {
+      "descripcion_general": "Empresas involucradas en contratos irregulares durante la crisis energética 2023-2024",
+      "contexto": "Apagones masivos en Ecuador, contratos de emergencia cuestionados",
+      "empresas": [
+        {
+          "nombre": "Austral Power Energy",
+          "tipo": "Empresa energética",
+          "actividad": "Generación y comercialización de energía",
+          "contratos": {
+            "descripcion": "Contratos de emergencia durante crisis eléctrica",
+            "monto_estimado_perdida": "$70 millones (planta El Salitral)",
+            "cuestionamientos": [
+              "Posibles sobreprecios",
+              "Contratación directa sin concurso",
+              "Conflictos de interés"
+            ]
+          },
+          "funcionarios_involucrados": [
+            "Roberto Luque (ex-ministro de Energía)",
+            "Arturo Félix Wong (ex-ministro de Gobierno)"
+          ]
+        },
+        {
+          "nombre": "Progen",
+          "tipo": "Empresa de generación eléctrica",
+          "actividad": "Generación de energía térmica",
+          "contratos": {
+            "descripcion": "Contratos de energía durante crisis",
+            "monto_estimado_perdida": "Aproximadamente $30 millones adicionales",
+            "perdida_total_estimada": "$100 millones según Contraloría"
+          },
+          "funcionarios_involucrados": [
+            "Arturo Félix Wong (Secretario General de Administración Pública)",
+            "Inés Manzano (ministra de Energía)",
+            "Roberto Luque"
+          ]
+        }
+      ],
+      "informe_contraloria": {
+        "perdida_total_estimada": "$100 millones",
+        "desglose": {
+          "planta_el_salitral": "$70 millones",
+          "otros_contratos": "$30 millones"
+        },
+        "responsables_no_sancionados": [
+          "Daniel Noboa (Presidente)",
+          "Roberto Luque",
+          "Goncalves",
+          "Arturo Félix Wong",
+          "Calero"
+        ],
+        "estado": "Informe publicado, sin sanciones efectivas"
+      },
+      "funcionarios_clave": [
+        {
+          "nombre": "Arturo Félix Wong",
+          "cargos": [
+            "Ministro de Gobierno",
+            "Secretario General de Administración Pública"
+          ],
+          "participacion": "Firma y seguimiento de contratos eléctricos",
+          "cargo_posterior": "Consejero en Embajada de Ecuador en Colombia (designado para comprar energía)"
+        },
+        {
+          "nombre": "Roberto Luque",
+          "cargo": "Ministro de Energía (interino)",
+          "participacion": "Gestión de contratos de emergencia"
+        },
+        {
+          "nombre": "Inés Manzano",
+          "cargo": "Ministra de Energía",
+          "participacion": "Período posterior a contratos principales"
+        }
+      ]
+    },
+    "adrenalin_security": {
+      "descripcion_general": "Empresa de seguridad privada con contratos gubernamentales cuestionados",
+      "datos_empresa": {
+        "nombre": "Adrenalin Security",
+        "tipo": "Empresa de seguridad privada",
+        "actividad": "Vigilancia, seguridad, protección",
+        "sede": "Ecuador"
+      },
+      "contratos_gobierno": {
+        "descripcion": "Contratos con entidades públicas durante gobierno de Daniel Noboa",
+        "tipo_contratos": [
+          "Seguridad en instalaciones públicas",
+          "Escoltas",
+          "Vigilancia penitenciaria"
+        ],
+        "cuestionamientos": [
+          "Posibles conflictos de interés",
+          "Contratación directa",
+          "Vínculos con sectores cuestionados"
+        ]
+      },
+      "vinculos_los_lobos": {
+        "organizacion": "Los Lobos",
+        "tipo": "Banda criminal/pandilla",
+        "descripcion": "Organización criminal ecuatoriana con presencia en cárceles",
+        "vinculos_allegados": [
+          "Presuntas conexiones entre personal de seguridad y miembros de organizaciones criminales",
+          "Cuestionamientos sobre penetración criminal en empresas de seguridad"
+        ],
+        "estado_investigacion": "Denuncias periodísticas, sin investigación formal conocida"
+      },
+      "propietarios": {
+        "informacion_disponible": "Información limitada en registros públicos",
+        "estructura_societaria": "Por confirmar mediante investigación en Superintendencia de Compañías"
+      }
+    },
+    "otras_empresas_vinculadas": {
+      "contratos_publicos_irregulares": [
+        {
+          "empresa": "Empresas vinculadas a crisis COVID-19",
+          "periodo": "2020-2021",
+          "descripcion": "Sobreprecios en compras de insumos médicos y equipos",
+          "estado": "Investigaciones archivadas"
+        },
+        {
+          "empresa": "Contratos de publicidad oficial",
+          "periodo": "2017-2023",
+          "descripcion": "Presunta uso de recursos públicos para publicidad partidista",
+          "estado": "Denuncias presentadas"
+        }
+      ],
+      "empresas_funcionarios": [
+        {
+          "funcionario": "Lenín Moreno",
+          "familiares_empresas": [
+            {
+              "nombre": "Empresas de la familia Moreno en offshores",
+              "descripcion": "Empresa en paraíso fiscal detectada marzo 2019",
+              "denunciante": "Asambleísta Ronny Aleaga"
+            }
+          ]
+        },
+        {
+          "funcionario": "María Paula Romo",
+          "vinculos": [
+            {
+              "nombre": "Iván Granda",
+              "parentesco": "Esposo",
+              "descripcion": "Investigaciones por presuntas irregularidades"
+            }
+          ]
+        }
+      ]
+    },
+    "familia_moreno_offshores": {
+      "descripcion": "Estructuras offshore de la familia del ex-presidente Lenín Moreno",
+      "casos": [
+        {
+          "nombre": "Empresa offshore detectada marzo 2019",
+          "denunciante": "Asambleísta Ronny Aleaga",
+          "estado": "Investigación archivada por fiscalía"
+        },
+        {
+          "caso": "Caso Sinohydro",
+          "descripcion": "Sobornos en construcción Coca Codo Sinclair",
+          "monto": "76 millones USD",
+          "familiares_implicados": [
+            "Rocío González (esposa)",
+            "Edwin Moreno (hermano)",
+            "Irma Moreno (hermana)",
+            "Hija del expresidente"
+          ],
+          "estado": "Llamado a juicio oral abril 2023"
+        }
+      ]
+    },
+    "resumen_paraisos_fiscales": {
+      "principales_jurisdicciones": [
+        {
+          "jurisdiccion": "Panamá",
+          "empresas_detectadas": "Múltiples",
+          "aparece_en": [
+            "Panama Papers",
+            "Pandora Papers"
+          ],
+          "personas_vinculadas": [
+            "Guillermo Lasso",
+            "Álvaro Noboa",
+            "Daniel Noboa"
+          ]
+        },
+        {
+          "jurisdiccion": "Dakota del Sur, EE.UU.",
+          "empresas_detectadas": "2 fideicomisos",
+          "aparece_en": [
+            "Pandora Papers"
+          ],
+          "personas_vinculadas": [
+            "Guillermo Lasso"
+          ]
+        },
+        {
+          "jurisdiccion": "Delaware, EE.UU.",
+          "empresas_detectadas": "Múltiples LLCs",
+          "aparece_en": [
+            "Pandora Papers"
+          ],
+          "personas_vinculadas": [
+            "Guillermo Lasso",
+            "Grupo Noboa"
+          ]
+        },
+        {
+          "jurisdiccion": "Islas Vírgenes Británicas",
+          "empresas_detectadas": "Al menos 1",
+          "personas_vinculadas": [
+            "Grupo Noboa"
+          ]
+        }
+      ]
+    },
+    "fuentes_investigacion": [
+      {
+        "nombre": "Pandora Papers",
+        "organizacion": "International Consortium of Investigative Journalists (ICIJ)",
+        "fecha": "Octubre 2021",
+        "descripcion": "Filtración de 11.9 millones de documentos sobre paraísos fiscales"
+      },
+      {
+        "nombre": "Panama Papers",
+        "organizacion": "ICIJ",
+        "fecha": "Abril 2016",
+        "descripcion": "Filtración de documentos de Mossack Fonseca"
+      },
+      {
+        "nombre": "OCCRP - Cocaine and Bananas Investigation",
+        "organizacion": "Organized Crime and Corruption Reporting Project",
+        "fecha": "2025",
+        "descripcion": "Investigación sobre vínculos entre Noboa Trading y narcotráfico"
+      },
+      {
+        "nombre": "Plan V",
+        "organizacion": "Medio de investigación ecuatoriano",
+        "descripcion": "Investigaciones sobre contratos eléctricos y corrupción"
+      },
+      {
+        "nombre": "Contraloría General del Estado",
+        "organizacion": "Órgano de control ecuatoriano",
+        "descripcion": "Informes de auditoría sobre contratos públicos"
+      },
+      {
+        "nombre": "Finanzas y Clima",
+        "organizacion": "Medio de investigación",
+        "fecha": "Julio 2025",
+        "descripcion": "Investigación sobre evasión fiscal del Grupo Noboa"
+      }
+    ],
+    "recomendaciones_investigacion": [
+      "Solicitar información a Superintendencia de Compañías sobre estructuras societarias",
+      "Acceder a base de datos ICIJ Offshore Leaks para cruces de información",
+      "Revisar contratos publicados en portal de Contraloría",
+      "Analizar declaraciones patrimoniales de funcionarios públicos",
+      "Cruzar información con registros de propiedad en EE.UU. y otros países",
+      "Investigar transferencias internacionales relacionadas con las offshore",
+      "Revisar estados financieros de empresas vinculadas",
+      "Solicitar información sobre beneficiarios finales de sociedades offshore"
+    ]
+  },
+  "transfugas_rc": {
+    "metadata": {
+      "titulo": "Investigación Completa: Tránsfugas de la Revolución Ciudadana",
+      "creado": "2025-01-20",
+      "ultima_actualizacion": "2025-01-20",
+      "version": "2.0.0",
+      "descripcion": "Investigación exhaustiva sobre todos los tránsfugas que traicionaron a Rafael Correa y la Revolución Ciudadana",
+      "total_transfugas_principales": 5,
+      "total_transfugas_secundarios": 15,
+      "total_casos_corrupcion": 12
+    },
+    "transfugas_principales": [
+      {
+        "id": "T001",
+        "nombre": "Lenín Boltaire Moreno Garcés",
+        "alias": [
+          "El Traidor",
+          "Más-malo",
+          "El traidor de la patria",
+          "El Judas del correísmo"
+        ],
+        "nivel_traicion": "MAXIMO",
+        "datos_personales": {
+          "nacimiento": {
+            "fecha": "1953-03-19",
+            "lugar": "Nuevo Rocafuerte, Orellana, Ecuador"
+          },
+          "profesion": "Administrador público",
+          "estado_civil": "Casado con Rocío González",
+          "hijos": 3
+        },
+        "trayectoria_politica": {
+          "partidos_originales": [
+            "Alianza PAÍS",
+            "Revolución Ciudadana"
+          ],
+          "partidos_despues_traicion": [
+            "Independiente",
+            "Alianza con PSC y derecha"
+          ],
+          "cargos_ejercidos": [
+            {
+              "cargo": "Vicepresidente de la República",
+              "periodo": "2007-2017",
+              "descripcion": "10 años como vicepresidente bajo gobierno de Correa"
+            },
+            {
+              "cargo": "Presidente de la República",
+              "periodo": "2017-2021",
+              "descripcion": "Elegido como sucesor de Correa, traicionó su mandato"
+            },
+            {
+              "cargo": "Enviado Especial ONU Discapacidad",
+              "periodo": "2013-2016",
+              "descripcion": "Designado por Correa para representar a Ecuador"
+            }
+          ]
+        },
+        "como_traiciono_a_correa": {
+          "fecha_traicion": "2017-2018",
+          "descripcion": "Tras ser elegido como sucesor de Correa con el 51.16% de votos, Moreno inició un viraje político completo que incluyó:",
+          "acciones_traicion": [
+            {
+              "accion": "Desmantelamiento del modelo económico",
+              "descripcion": "Eliminación de políticas sociales, subsidios y programas gubernamentales clave"
+            },
+            {
+              "accion": "Alianza con la derecha",
+              "descripcion": "Pacto legislativo con PSC, Lasso y empresarios para gobernar contra el correísmo"
+            },
+            {
+              "accion": "Persecución judicial sistemática",
+              "descripcion": "Impulso de casos judiciales contra Correa y ex-funcionarios"
+            },
+            {
+              "accion": "Entrega de Julian Assange",
+              "descripcion": "Revocó asilo en embajada ecuatoriana en Londres (abril 2019)"
+            },
+            {
+              "accion": "Cambio de política exterior",
+              "descripcion": "Alineamiento con Estados Unidos, alejamiento de UNASUR y aliados regionales"
+            },
+            {
+              "accion": "Represión octubre 2019",
+              "descripcion": "Ordenó represión brutal contra protestas populares"
+            }
+          ]
+        },
+        "gobierno_2017_2021": {
+          "resumen": "Gobierno caracterizado por desmantelamiento del proyecto correísta y represión",
+          "politicas_principales": [
+            "Eliminación de subsidios a combustibles (decreto 883)",
+            "Desmantelamiento de empresas públicas",
+            "Entrega de hospitales a sector privado",
+            "Reducción de inversión en educación y salud",
+            "Alineamiento con FMI y políticas de ajuste"
+          ],
+          "crisis_octubre_2019": {
+            "descripcion": "Paro nacional contra eliminación de subsidios",
+            "muertos": "Al menos 11 muertos confirmados",
+            "heridos": "Más de 1,500 heridos",
+            "detenidos": "Más de 1,200 detenidos",
+            "violaciones_ddhh": "Múltiples denuncias ante CIDH",
+            "responsable_directo": "Lenín Moreno y María Paula Romo"
+          }
+        },
+        "corrupcion": {
+          "caso_sinohydro": {
+            "descripcion": "Sobornos en construcción hidroeléctrica Coca Codo Sinclair",
+            "monto": "76 millones USD en coimas",
+            "involucrados": 37,
+            "familiares_implicados": [
+              {
+                "nombre": "Rocío González",
+                "parentesco": "Esposa",
+                "rol": "Cómplice de cohecho",
+                "estado": "Procesada"
+              },
+              {
+                "nombre": "Edwin Moreno",
+                "parentesco": "Hermano",
+                "rol": "Presunto beneficiario",
+                "estado": "Procesado"
+              },
+              {
+                "nombre": "Irma Moreno",
+                "parentesco": "Hermana",
+                "rol": "Presunta beneficiaria",
+                "estado": "Procesada"
+              }
+            ],
+            "estado_judicial": "Llamado a juicio oral abril 2023",
+            "prision_preventiva": "Solicitada abril 2023"
+          },
+          "empresa_offshore_familia": {
+            "descripcion": "Empresa en paraíso fiscal detectada marzo 2019",
+            "denunciante": "Asambleísta Ronny Aleaga",
+            "estado": "Investigación archivada por fiscalía"
+          },
+          "caso_conto_patino": {
+            "descripcion": "Cohecho que presuntamente benefició a familia Moreno",
+            "monto": "Millonario",
+            "estado": "Bajo investigación fiscal"
+          },
+          "contratos_covid": {
+            "descripcion": "Sobreprecios en contratos durante pandemia",
+            "monto_estimado": "Más de 100 millones USD en irregularidades",
+            "empresas_involucradas": "Múltiples contratistas favorecidos",
+            "estado": "Investigaciones archivadas"
+          }
+        },
+        "situacion_actual": {
+          "ubicacion": "Ecuador (posiblemente con salida restringida)",
+          "procesos_judiciales_activos": true,
+          "condena": "Pendiente juicio oral por Sinohydro",
+          "reputacion": "Figura más odiada del correísmo"
+        }
+      },
+      {
+        "id": "T002",
+        "nombre": "Ricardo Armando Patiño Aroca",
+        "alias": [
+          "El canciller traidor",
+          "El volteado",
+          "El falso defensor"
+        ],
+        "nivel_traicion": "ALTO",
+        "datos_personales": {
+          "nacimiento": {
+            "fecha": "1955-05-16",
+            "lugar": "Guayaquil, Ecuador"
+          },
+          "profesion": "Economista, político",
+          "estado_civil": "Casado"
+        },
+        "trayectoria_politica": {
+          "partidos_originales": [
+            "Alianza PAÍS",
+            "Revolución Ciudadana"
+          ],
+          "partidos_despues_traicion": [
+            "Independiente",
+            "Distanciamiento parcial"
+          ],
+          "cargos_ejercidos": [
+            {
+              "cargo": "Ministro de Relaciones Exteriores",
+              "periodo": "2010-2016",
+              "descripcion": "Canciller durante la época dorada del correísmo"
+            },
+            {
+              "cargo": "Ministro de Defensa",
+              "periodo": "2012",
+              "descripcion": "Cartera adicional durante crisis"
+            },
+            {
+              "cargo": "Ministro Coordinador de la Política",
+              "periodo": "2007-2010",
+              "descripcion": "Primer ministro de Correa"
+            }
+          ]
+        },
+        "como_traiciono_al_movimiento": {
+          "descripcion": "Patiño fue uno de los fundadores de Alianza PAÍS y figura clave del gobierno. Su traición fue más sutil pero igualmente dañina:",
+          "acciones_traicion": [
+            {
+              "accion": "No defendió activamente a Correa",
+              "descripcion": "Durante la persecución judicial, mantuvo silencio o posición ambigua"
+            },
+            {
+              "accion": "Ruptura con Moreno pero sin claridad",
+              "descripcion": "Se distanció de Moreno pero no se alineó con la defensa de Correa"
+            },
+            {
+              "accion": "Búsqueda de posicionamiento personal",
+              "descripcion": "Intentó capitalizar políticamente sin comprometerse"
+            }
+          ]
+        },
+        "situacion_actual": {
+          "ubicacion": "Exiliado en México",
+          "procesos_judiciales": "Investigaciones archivadas",
+          "actividad_politica": "Sin actividad relevante",
+          "relacion_correa": "Rota definitivamente"
+        }
+      },
+      {
+        "id": "T003",
+        "nombre": "María Paula Romo Rodríguez",
+        "alias": [
+          "La ministra de hierro",
+          "La traidora de izquierda",
+          "La represora de octubre"
+        ],
+        "nivel_traicion": "MUY ALTO",
+        "datos_personales": {
+          "nacimiento": {
+            "fecha": "1979-06-04",
+            "lugar": "Quito, Ecuador"
+          },
+          "profesion": "Abogada",
+          "estado_civil": "Casada con Iván Granda"
+        },
+        "trayectoria_politica": {
+          "partidos_originales": [
+            "Alianza PAÍS",
+            "Revolución Ciudadana"
+          ],
+          "partidos_despues_traicion": [
+            "Independiente",
+            "Alianza con Moreno"
+          ],
+          "cargos_ejercidos": [
+            {
+              "cargo": "Asambleísta Nacional",
+              "periodo": "2009-2013",
+              "descripcion": "Legisladora por Alianza PAÍS"
+            },
+            {
+              "cargo": "Ministra de Gobierno",
+              "periodo": "2018-2020",
+              "descripcion": "Brazo ejecutor de la represión de octubre 2019"
+            }
+          ]
+        },
+        "rol_represion_2019": {
+          "descripcion": "Como Ministra de Gobierno, fue responsable directa de la represión durante el Paro Nacional de octubre 2019",
+          "acciones": [
+            "Ordenó movilización de policía y militares",
+            "Declaró estado de excepción",
+            "Responsable de violaciones a DDHH",
+            "Justificó violencia estatal"
+          ],
+          "consecuencias": {
+            "muertos": 11,
+            "heridos": 1500,
+            "detenidos": 1200,
+            "denuncias_cidh": "Múltiples"
+          }
+        },
+        "violaciones_ddhh": {
+          "descripcion": "Acusaciones formales de violaciones a derechos humanos durante su gestión",
+          "tipo_violaciones": [
+            "Uso excesivo de fuerza",
+            "Detenciones arbitrarias",
+            "Tortura y tratos crueles",
+            "Censura y persecución"
+          ],
+          "estado_legal": "Censura y destitución del cargo en 2020"
+        },
+        "casos_corrupcion": {
+          "peculado": {
+            "descripcion": "Investigación por peculado archivada",
+            "estado": "Archivo fiscal"
+          }
+        },
+        "situacion_actual": {
+          "ubicacion": "Ecuador",
+          "actividad_politica": "Sin relevancia",
+          "procesos_activos": false,
+          "reputacion": "Figura repudiada por violaciones DDHH"
+        }
+      },
+      {
+        "id": "T004",
+        "nombre": "Augusto Xavier Espinosa Andrade",
+        "alias": [
+          "El ministro volteado",
+          "El traidor de la educación"
+        ],
+        "nivel_traicion": "ALTO",
+        "datos_personales": {
+          "nacimiento": {
+            "fecha": "1963",
+            "lugar": "Quito, Ecuador"
+          },
+          "profesion": "Abogado, académico"
+        },
+        "trayectoria_politica": {
+          "partidos_originales": [
+            "Alianza PAÍS",
+            "Revolución Ciudadana"
+          ],
+          "partidos_despues_traicion": [
+            "Independiente"
+          ],
+          "cargos_ejercidos": [
+            {
+              "cargo": "Ministro de Educación",
+              "periodo": "2016-2017",
+              "descripcion": "Último ministro de Correa en cartera de educación"
+            },
+            {
+              "cargo": "Rector Universidad Central",
+              "periodo": "2012-2016",
+              "descripcion": "Designado durante gobierno correísta"
+            }
+          ]
+        },
+        "como_traiciono_al_movimiento": {
+          "descripcion": "Viró hacia el morenismo tras la elección de 2017",
+          "acciones": [
+            "Aceptó cargos bajo Moreno",
+            "No defendió políticas educativas del correísmo",
+            "Se alineó con persecución judicial"
+          ]
+        },
+        "situacion_actual": {
+          "ubicacion": "Ecuador",
+          "actividad_politica": "Sin relevancia",
+          "vinculo_academico": "Universidad Central"
+        }
+      },
+      {
+        "id": "T005",
+        "nombre": "Fernando Alvarado Espinel",
+        "alias": [
+          "El secretario testigo",
+          "El delator"
+        ],
+        "nivel_traicion": "MUY ALTO",
+        "datos_personales": {
+          "profesion": "Comunicador, funcionario público"
+        },
+        "trayectoria_politica": {
+          "partidos_originales": [
+            "Alianza PAÍS"
+          ],
+          "cargos_ejercidos": [
+            {
+              "cargo": "Secretario de Comunicación",
+              "periodo": "2013-2015",
+              "descripcion": "Jefe de comunicación del gobierno correísta"
+            }
+          ]
+        },
+        "como_traiciono_al_movimiento": {
+          "descripcion": "Testificó contra Correa en el caso Sobornos 2012-2016",
+          "acciones": [
+            {
+              "accion": "Testimonio contra Correa",
+              "descripcion": "Declaración clave para la acusación fiscal"
+            },
+            {
+              "accion": "Colaboración con fiscalía anticorreísta",
+              "descripcion": "Proporcionó información para caso judicial"
+            }
+          ],
+          "impacto": "Fundamental para la condena de 8 años contra Correa"
+        },
+        "situacion_actual": {
+          "ubicacion": "Desconocida",
+          "proteccion": "Posible protección por colaboración"
+        }
+      }
+    ],
+    "transfugas_secundarios": [
+      {
+        "id": "TS001",
+        "nombre": "Pamela García",
+        "alias": [
+          "La secretaria testigo",
+          "La de los cuadernos"
+        ],
+        "cargo_original": "Secretaria personal de Rafael Correa",
+        "tipo_traicion": "Testigo clave en caso Sobornos",
+        "descripcion": "Proporcionó los 'cuadernos' con presuntas evidencias que fueron determinantes para la condena de Correa",
+        "impacto": "CRITICO - Evidencia clave para lawfare"
+      },
+      {
+        "id": "TS002",
+        "nombre": "Jorge Glas Espinel",
+        "alias": [
+          "El vice traidor",
+          "El que no defendió"
+        ],
+        "cargo_original": "Vicepresidente de la República (2013-2017)",
+        "tipo_traicion": "No defendió activamente a Correa, aceptó proceso judicial",
+        "situacion_actual": "Preso en Ecuador por caso Odebrecht",
+        "nota": "Aunque no se alineó con Moreno, su silencio fue interpretado como traición"
+      },
+      {
+        "id": "TS003",
+        "nombre": "Luis Gallegos Chiriboga",
+        "cargo_original": "Ministro de Relaciones Exteriores",
+        "tipo_traicion": "Alineado con gobierno de Moreno",
+        "situacion": "Sin actividad política relevante"
+      },
+      {
+        "id": "TS004",
+        "nombre": "María del Cisne Aguirre",
+        "cargo_original": "Asambleísta por Alianza PAÍS",
+        "tipo_traicion": "Abandonó movimiento para apoyar a Moreno",
+        "situacion": "Sin relevancia política"
+      },
+      {
+        "id": "TS005",
+        "nombre": "Henry Cucalón",
+        "cargo_original": "Ministro de Agricultura",
+        "tipo_traicion": "Continuó en gobierno de Moreno",
+        "situacion": "Sin actividad relevante"
+      },
+      {
+        "id": "TS006",
+        "nombre": "Luis Villacrés",
+        "cargo_original": "Asambleísta por Alianza PAÍS",
+        "tipo_traicion": "Se volteó hacia Moreno",
+        "cargo_posterior": "Asesor de gobierno morenista"
+      },
+      {
+        "id": "TS007",
+        "nombre": "Rossana Alvarado",
+        "cargo_original": "Asambleísta por Alianza PAÍS",
+        "tipo_traicion": "Alineada con gobierno de Moreno",
+        "cargo_posterior": "Funcionaria en gobierno morenista"
+      },
+      {
+        "id": "TS008",
+        "nombre": "Diana Atamaint",
+        "cargo_original": "Funcionaria electoral designada por correísmo",
+        "tipo_traicion": "Presunta colaboración con fraude electoral 2024-2025",
+        "cargo_actual": "Presidenta del CNE",
+        "controversia": "Acusada de favorecer a Noboa en elecciones"
+      },
+      {
+        "id": "TS009",
+        "nombre": "Andrea González Nader",
+        "cargo_original": "Sin cargo en gobierno correísta",
+        "tipo_traicion": "Opositora activa, embajadora contra asilo Correa",
+        "cargo_actual": "Embajadora en Bélgica (gestiona revocación asilo)",
+        "accion_destacada": "Desde embajada busca revocar asilo político de Correa"
+      },
+      {
+        "id": "TS010",
+        "nombre": "Juan Sebastián Roldán",
+        "cargo_original": "Funcionario de comunicación",
+        "tipo_traicion": "Secretario de Comunicación de Moreno",
+        "cargo_posterior": "Secretario de Comunicación (2017-2021)",
+        "rol_traicion": "Brazo mediático de la persecución"
+      },
+      {
+        "id": "TS011",
+        "nombre": "César Navas Vera",
+        "cargo_original": "Ministro de Transporte",
+        "tipo_traicion": "Continuó en gobierno de Moreno",
+        "cargo_posterior": "Ministro de Transporte y Obras Públicas"
+      },
+      {
+        "id": "TS012",
+        "nombre": "Tania Moncayo",
+        "cargo_original": "Funcionaria de Petroecuador",
+        "tipo_traicion": "Colaboró con fiscalía contra ex-funcionarios",
+        "situacion": "Testigo en casos contra correístas"
+      },
+      {
+        "id": "TS013",
+        "nombre": "Carlos Banderas",
+        "cargo_original": "Funcionario de empresas públicas",
+        "tipo_traicion": "Testificó contra ex-compañeros",
+        "situacion": "Colaborador judicial"
+      },
+      {
+        "id": "TS014",
+        "nombre": "Varios asambleístas de AP",
+        "descripcion": "Grupo de aproximadamente 40 asambleístas que abandonaron Alianza PAÍS tras la traición de Moreno",
+        "tipo_traicion": "Volteo político masivo",
+        "cargo_posterior": "Mayoría sin relevancia o en partidos menores"
+      },
+      {
+        "id": "TS015",
+        "nombre": "Funcionarios menores del gobierno correísta",
+        "descripcion": "Decenas de funcionarios que cambiaron de bando",
+        "tipo_traicion": "Colaboración con fiscalía morenista",
+        "impacto": "Proporcionaron testimonios contra ex-compañeros"
+      }
+    ],
+    "otros_aliados_volteados": [
+      {
+        "categoria": "Medios de comunicación ex-aliados",
+        "descripcion": "Periodistas y comunicadores que inicialmente apoyaron al gobierno y luego se volcaron",
+        "ejemplos": [
+          "Periodistas de Ecuador TV que viraron hacia oposición",
+          "Comunicadores de El Ciudadano que cambiaron de posición"
+        ]
+      },
+      {
+        "categoria": "Sindicalistas y líderes sociales",
+        "descripcion": "Dirigentes que negociaron con Moreno y abandonaron la resistencia",
+        "impacto": "Debilidad del movimiento social frente a traición"
+      },
+      {
+        "categoria": "Académicos e intelectuales",
+        "descripcion": "Figuras del mundo académico que apoyaron inicialmente y luego justificaron el lawfare",
+        "impacto": "Legitimación intelectual de la persecución"
+      }
+    ],
+    "casos_corrupcion_transfugas": [
+      {
+        "caso": "Sinohydro - Coca Codo Sinclair",
+        "monto": "76 millones USD en sobornos",
+        "involucrados": [
+          "Lenín Moreno",
+          "Familia Moreno",
+          "37 procesados"
+        ],
+        "estado": "Juicio oral 2023"
+      },
+      {
+        "caso": "Empresa offshore familia Moreno",
+        "monto": "No cuantificado",
+        "involucrados": [
+          "Lenín Moreno",
+          "Familiares"
+        ],
+        "estado": "Archivado"
+      },
+      {
+        "caso": "Contratos COVID Moreno",
+        "monto": "Más de 100 millones USD",
+        "involucrados": [
+          "Funcionarios morenistas"
+        ],
+        "estado": "Investigaciones archivadas"
+      },
+      {
+        "caso": "Contratos eléctricos Noboa",
+        "monto": "Más de 100 millones USD pérdidas",
+        "involucrados": [
+          "Félix Wong",
+          "Roberto Luque",
+          "Gobierno Noboa"
+        ],
+        "estado": "Archivado por Contraloría"
+      }
+    ],
+    "linea_temporal_traiciones": [
+      {
+        "fecha": "Febrero 2017",
+        "evento": "Elección de Lenín Moreno como sucesor de Correa"
+      },
+      {
+        "fecha": "Mayo 2017",
+        "evento": "Posesión de Moreno, primeros signos de distanciamiento"
+      },
+      {
+        "fecha": "Agosto 2017",
+        "evento": "Moreno convoca consulta popular contra correísmo"
+      },
+      {
+        "fecha": "Enero 2018",
+        "evento": "Ruptura total Moreno-Correa declarada"
+      },
+      {
+        "fecha": "Febrero 2018",
+        "evento": "Ricardo Patiño rompe con Moreno"
+      },
+      {
+        "fecha": "Marzo 2018",
+        "evento": "María Paula Romo nombrada Ministra de Gobierno"
+      },
+      {
+        "fecha": "Julio 2018",
+        "evento": "Primera condena contra funcionario correísta"
+      },
+      {
+        "fecha": "Abril 2019",
+        "evento": "Moreno revoca asilo a Julian Assange"
+      },
+      {
+        "fecha": "Octubre 2019",
+        "evento": "Paro Nacional, represión bajo Romo"
+      },
+      {
+        "fecha": "Abril 2020",
+        "evento": "Condena de 8 años contra Rafael Correa"
+      },
+      {
+        "fecha": "Abril 2023",
+        "evento": "Llamado a juicio oral a Moreno por Sinohydro"
+      }
+    ],
+    "conclusiones": {
+      "impacto_total": "La traición de Lenín Moreno y su grupo de colaboradores causó el desmantelamiento completo del proyecto de la Revolución Ciudadana, la persecución judicial de sus principales líderes y el exilio de Rafael Correa.",
+      "numero_estimado_transfugas": "Más de 50 funcionarios y ex-funcionarios colaboraron con la persecución",
+      "casos_corrupcion": "Los tránsfugas acumulan casos de corrupción por más de 200 millones USD",
+      "represion_ddhh": "La represión de octubre 2019 dejó al menos 11 muertos y más de 1,500 heridos",
+      "situacion_actual": "La mayoría de tránsfugas mantienen impunidad, mientras Correa permanece exiliado en Bélgica"
+    }
+  }
+}

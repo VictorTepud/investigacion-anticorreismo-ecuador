@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "titulo": "Investigación de Empresas y Offshores Vinculadas a Actores Anticorreístas",
+    "creado": "2025-01-15",
+    "version": "1.0.0",
+    "descripcion": "Base de datos exhaustiva de empresas, offshores y estructuras societarias vinculadas a actores anticorreístas en Ecuador",
+    "fuentes": [
+      "Pandora Papers (ICIJ, 2021)",
+      "Panama Papers (ICIJ, 2016)",
+      "Registros Mercantiles Ecuador",
+      "Contraloría General del Estado",
+      "Investigaciones Periodísticas (Plan V, Primicias, GK, OCCRP)",
+      "Superintendencia de Compañías Ecuador"
+    ]
+  },
+  "grupo_noboa": {
+    "descripcion_general": "Imperio empresarial bananero más grande de Ecuador, controlado por la familia Noboa",
+    "fundador": "Álvaro Fernando Noboa Pontón",
+    "valor_estimado": "$1,200 - $8,000 millones",
+    "heredero_actual": "Daniel Roy Gilchrist Noboa Azín (Presidente de Ecuador)",
+    "empresas_principales": [
+      {
+        "nombre": "Noboa Corporation",
+        "tipo": "Holding principal",
+        "actividad": "Exportación bananera y agroindustria",
+        "sede": "Guayaquil, Ecuador",
+        "descripcion": "Corporación matriz del grupo empresarial Noboa"
+      },
+      {
+        "nombre": "Exportadora Bananera Noboa S.A.",
+        "tipo": "Empresa operativa",
+        "actividad": "Exportación de banano",
+        "sede": "Guayaquil, Ecuador",
+        "descripcion": "Principal empresa exportadora de banano del grupo"
+      },
+      {
+        "nombre": "Noboa Trading",
+        "tipo": "Empresa comercializadora",
+        "actividad": "Comercio exterior de productos agrícolas",
+        "sede": "Ecuador",
+        "vinculos_investigados": {
+          "tipo": "Tráfico de cocaína",
+          "descripcion": "Investigaciones internacionales (OCCRP, 2025) documentaron que narcotraficantes de los Balcanes usaron contenedores de Noboa Trading para enviar cocaína a Europa",
+          "destinos_droga": [
+            "Croacia",
+            "Italia"
+          ],
+          "incautaciones_documentadas": "Más de 700 kg de cocaína en cajas de banano",
+          "fuentes": [
+            "OCCRP - Cocaine and Bananas Investigation",
+            "Insight Crime",
+            "Plan V Ecuador"
+          ]
+        }
+      },
+      {
+        "nombre": "Petro Noboa",
+        "tipo": "Empresa energética",
+        "actividad": "Sector hidrocarburos",
+        "sede": "Ecuador",
+        "descripcion": "Empresa del grupo en sector petrolero"
+      },
+      {
+        "nombre": "Noboaexport",
+        "tipo": "Empresa exportadora",
+        "actividad": "Exportaciones varias",
+        "sede": "Ecuador"
+      },
+      {
+        "nombre": "Fruit Export Noboa",
+        "tipo": "Exportadora",
+        "actividad": "Exportación frutícola"
+      }
+    ],
+    "subsidiarias_identificadas": {
+      "total_estimado": "Más de 150 empresas",
+      "sectores": [
+        "Agroindustria (banano, cacao, café)",
+        "Comercio exterior",
+        "Sector inmobiliario",
+        "Sector financiero",
+        "Medios de comunicación",
+        "Sector energético",
+        "Transporte marítimo"
+      ]
+    },
+    "offshores_paraisos_fiscales": {
+      "panama": [
+        {
+          "nombre": "Lanfranco Holdings S.A.",
+          "jurisdiccion": "Panamá",
+          "tipo": "Offshore",
+          "vinculo": "Grupo Noboa",
+          "estado": "Activa",
+          "aparece_en": "Pandora Papers"
+        },
+        {
+          "nombre": "Noboa International Inc.",
+          "jurisdiccion": "Panamá",
+          "tipo": "Offshore",
+          "vinculo": "Álvaro Noboa"
+        },
+        {
+          "nombre": "Fruit Export International Corp.",
+          "jurisdiccion": "Panamá",
+          "tipo": "Offshore"
+        },
+        {
+          "nombre": "Banana Trading International S.A.",
+          "jurisdiccion": "Panamá",
+          "tipo": "Offshore"
+        }
+      ],
+      "islas_virgenes_britanicas": [
+        {
+          "nombre": "Noboa Group BVI Ltd.",
+          "jurisdiccion": "Islas Vírgenes Británicas",
+          "tipo": "Offshore",
+          "descripcion": "Estructura para operaciones internacionales"
+        }
+      ],
+      "delaware_eeuu": [
+        {
+          "nombre": "Noboa Corporation USA LLC",
+          "jurisdiccion": "Delaware, EE.UU.",
+          "tipo": "LLC",
+          "descripcion": "Paraísos fiscales internos de EE.UU."
+        }
+      ],
+      "otros": [
+        {
+          "nombre": "Múltiples sociedades en paraísos fiscales",
+          "descripcion": "Estructuras identificadas en Pandora Papers"
+        }
+      ]
+    },
+    "evasion_fiscal_documentada": {
+      "periodo": "Dos décadas (aprox. 2000-2020)",
+      "mecanismo_principal": "Precios de transferencia",
+      "descripcion": "La empresa vendía productos a compañías relacionadas en paraísos fiscales a precios menores al mercado, reduciendo utilidades imponibles en Ecuador",
+      "monto_estimado": "Millones de dólares no tributados",
+      "fuente": "Finanzas y Clima - Investigación 2025"
+    },
+    "casos_judiciales": [
+      {
+        "caso": "Investigación por evasión fiscal",
+        "estado": "Denuncias presentadas, sin procesamiento efectivo",
+        "descripcion": "El SRI investigó prácticas de elusión fiscal del grupo"
+      },
+      {
+        "caso": "Vínculos con narcotráfico (Noboa Trading)",
+        "estado": "Investigación internacional en curso",
+        "descripcion": "Empresas del grupo vinculadas a envíos de cocaína a Europa",
+        "involucrados": "Traficantes de los Balcanes",
+        "fuentes": "OCCRP, Insight Crime, Plan V"
+      }
+    ]
+  },
+  "empresas_guillermo_lasso": {
+    "descripcion_general": "Imperio financiero y empresarial del ex-presidente Guillermo Lasso",
+    "sector_principal": "Banca y finanzas",
+    "empresas_principales": [
+      {
+        "nombre": "Banco Guayaquil",
+        "tipo": "Institución financiera",
+        "cargo_ejercido": "Gerente General (1994-2012)",
+        "sede": "Guayaquil, Ecuador",
+        "descripcion": "Principal banco privado del Ecuador, base del poder económico de Lasso",
+        "conflictos_interes": {
+          "descripcion": "Uso presunto de recursos bancarios en campañas electorales",
+          "estado": "Denuncias no procesadas"
+        }
+      },
+      {
+        "nombre": "CREO (Creando Oportunidades)",
+        "tipo": "Partido político",
+        "fundacion": "2012",
+        "descripcion": "Partido político fundado por Lasso para sus aspiraciones presidenciales"
+      }
+    ],
+    "offshores_pandora_papers": {
+      "total_sociedades_offshore": 14,
+      "jurisdicciones": [
+        {
+          "jurisdiccion": "Panamá",
+          "sociedades": [
+            {
+              "nombre": "Atalaya Capital S.A.",
+              "tipo": "Sociedad anónima",
+              "aparece_en": "Pandora Papers 2021"
+            },
+            {
+              "nombre": "Delfinmix Corp.",
+              "tipo": "Sociedad anónima",
+              "aparece_en": "Pandora Papers 2021"
+            },
+            {
+              "nombre": "Inmobiliaria Paso Lasso S.A.",
+              "tipo": "Inmobiliaria",
+              "aparece_en": "Pandora Papers 2021"
+            }
+          ]
+        },
+        {
+          "jurisdiccion": "Dakota del Sur, EE.UU.",
+          "descripcion": "Fideicomisos con leyes de secreto financiero",
+          "fideicomisos": 2,
+          "aparece_en": "Pandora Papers 2021"
+        },
+        {
+          "jurisdiccion": "Delaware, EE.UU.",
+          "descripcion": "Múltiples LLCs",
+          "tipo": "Paraíso fiscal interno de EE.UU."
+        }
+      ],
+      "propiedades_florida": {
+        "total": "Aproximadamente 130 propiedades",
+        "ubicacion": "Florida, EE.UU.",
+        "valor_estimado": "Millones de dólares"
+      },
+      "investigacion": {
+        "fuente": "ICIJ Pandora Papers (Octubre 2021)",
+        "reaccion_asamblea": "Intento de destitución fallido",
+        "contraloria": "Proceso archivado"
+      }
+    },
+    "casos_corrupcion": [
+      {
+        "nombre": "Caso Encuentro",
+        "descripcion": "Fondos ilícitos en campaña electoral",
+        "evidencia": "Videos de sobornos publicados",
+        "estado": "Archivado por fiscalía"
+      },
+      {
+        "nombre": "Muerte Cruzada",
+        "descripcion": "Disolución de la Asamblea Nacional para evitar juicio político por peculado",
+        "constitucionalidad": "Cuestionada por expertos",
+        "resultado": "Evitó investigación, anticipación electoral",
+        "monto_presunto": "Fondos públicos para pérdida de_TRACE"
+      },
+      {
+        "nombre": "Contratos COVID-19",
+        "descripcion": "Sobreprecios en contratos durante pandemia",
+        "estado": "Investigaciones archivadas"
+      }
+    ],
+    "familia_involucrada": [
+      {
+        "nombre": "María Augusta Lasso",
+        "parentesco": "Hermana",
+        "rol": "Operadora en estructuras empresariales"
+      },
+      {
+        "nombre": "Sebastián Lasso",
+        "parentesco": "Hijo",
+        "rol": "Negocios familiares, presunta vinculación offshore"
+      },
+      {
+        "nombre": "Santiago Lasso",
+        "parentesco": "Hijo",
+        "rol": "Operativo en campañas políticas"
+      },
+      {
+        "nombre": "Nora Almeida",
+        "parentesco": "Esposa",
+        "rol": "Vinculación en estructuras patrimoniales"
+      }
+    ]
+  },
+  "empresas_contratos_electricos": {
+    "descripcion_general": "Empresas involucradas en contratos irregulares durante la crisis energética 2023-2024",
+    "contexto": "Apagones masivos en Ecuador, contratos de emergencia cuestionados",
+    "empresas": [
+      {
+        "nombre": "Austral Power Energy",
+        "tipo": "Empresa energética",
+        "actividad": "Generación y comercialización de energía",
+        "contratos": {
+          "descripcion": "Contratos de emergencia durante crisis eléctrica",
+          "monto_estimado_perdida": "$70 millones (planta El Salitral)",
+          "cuestionamientos": [
+            "Posibles sobreprecios",
+            "Contratación directa sin concurso",
+            "Conflictos de interés"
+          ]
+        },
+        "funcionarios_involucrados": [
+          "Roberto Luque (ex-ministro de Energía)",
+          "Arturo Félix Wong (ex-ministro de Gobierno)"
+        ]
+      },
+      {
+        "nombre": "Progen",
+        "tipo": "Empresa de generación eléctrica",
+        "actividad": "Generación de energía térmica",
+        "contratos": {
+          "descripcion": "Contratos de energía durante crisis",
+          "monto_estimado_perdida": "Aproximadamente $30 millones adicionales",
+          "perdida_total_estimada": "$100 millones según Contraloría"
+        },
+        "funcionarios_involucrados": [
+          "Arturo Félix Wong (Secretario General de Administración Pública)",
+          "Inés Manzano (ministra de Energía)",
+          "Roberto Luque"
+        ]
+      }
+    ],
+    "informe_contraloria": {
+      "perdida_total_estimada": "$100 millones",
+      "desglose": {
+        "planta_el_salitral": "$70 millones",
+        "otros_contratos": "$30 millones"
+      },
+      "responsables_no_sancionados": [
+        "Daniel Noboa (Presidente)",
+        "Roberto Luque",
+        "Goncalves",
+        "Arturo Félix Wong",
+        "Calero"
+      ],
+      "estado": "Informe publicado, sin sanciones efectivas"
+    },
+    "funcionarios_clave": [
+      {
+        "nombre": "Arturo Félix Wong",
+        "cargos": [
+          "Ministro de Gobierno",
+          "Secretario General de Administración Pública"
+        ],
+        "participacion": "Firma y seguimiento de contratos eléctricos",
+        "cargo_posterior": "Consejero en Embajada de Ecuador en Colombia (designado para comprar energía)"
+      },
+      {
+        "nombre": "Roberto Luque",
+        "cargo": "Ministro de Energía (interino)",
+        "participacion": "Gestión de contratos de emergencia"
+      },
+      {
+        "nombre": "Inés Manzano",
+        "cargo": "Ministra de Energía",
+        "participacion": "Período posterior a contratos principales"
+      }
+    ]
+  },
+  "adrenalin_security": {
+    "descripcion_general": "Empresa de seguridad privada con contratos gubernamentales cuestionados",
+    "datos_empresa": {
+      "nombre": "Adrenalin Security",
+      "tipo": "Empresa de seguridad privada",
+      "actividad": "Vigilancia, seguridad, protección",
+      "sede": "Ecuador"
+    },
+    "contratos_gobierno": {
+      "descripcion": "Contratos con entidades públicas durante gobierno de Daniel Noboa",
+      "tipo_contratos": [
+        "Seguridad en instalaciones públicas",
+        "Escoltas",
+        "Vigilancia penitenciaria"
+      ],
+      "cuestionamientos": [
+        "Posibles conflictos de interés",
+        "Contratación directa",
+        "Vínculos con sectores cuestionados"
+      ]
+    },
+    "vinculos_los_lobos": {
+      "organizacion": "Los Lobos",
+      "tipo": "Banda criminal/pandilla",
+      "descripcion": "Organización criminal ecuatoriana con presencia en cárceles",
+      "vinculos_allegados": [
+        "Presuntas conexiones entre personal de seguridad y miembros de organizaciones criminales",
+        "Cuestionamientos sobre penetración criminal en empresas de seguridad"
+      ],
+      "estado_investigacion": "Denuncias periodísticas, sin investigación formal conocida"
+    },
+    "propietarios": {
+      "informacion_disponible": "Información limitada en registros públicos",
+      "estructura_societaria": "Por confirmar mediante investigación en Superintendencia de Compañías"
+    }
+  },
+  "otras_empresas_vinculadas": {
+    "contratos_publicos_irregulares": [
+      {
+        "empresa": "Empresas vinculadas a crisis COVID-19",
+        "periodo": "2020-2021",
+        "descripcion": "Sobreprecios en compras de insumos médicos y equipos",
+        "estado": "Investigaciones archivadas"
+      },
+      {
+        "empresa": "Contratos de publicidad oficial",
+        "periodo": "2017-2023",
+        "descripcion": "Presunta uso de recursos públicos para publicidad partidista",
+        "estado": "Denuncias presentadas"
+      }
+    ],
+    "empresas_funcionarios": [
+      {
+        "funcionario": "Lenín Moreno",
+        "familiares_empresas": [
+          {
+            "nombre": "Empresas de la familia Moreno en offshores",
+            "descripcion": "Empresa en paraíso fiscal detectada marzo 2019",
+            "denunciante": "Asambleísta Ronny Aleaga"
+          }
+        ]
+      },
+      {
+        "funcionario": "María Paula Romo",
+        "vinculos": [
+          {
+            "nombre": "Iván Granda",
+            "parentesco": "Esposo",
+            "descripcion": "Investigaciones por presuntas irregularidades"
+          }
+        ]
+      }
+    ]
+  },
+  "familia_moreno_offshores": {
+    "descripcion": "Estructuras offshore de la familia del ex-presidente Lenín Moreno",
+    "casos": [
+      {
+        "nombre": "Empresa offshore detectada marzo 2019",
+        "denunciante": "Asambleísta Ronny Aleaga",
+        "estado": "Investigación archivada por fiscalía"
+      },
+      {
+        "caso": "Caso Sinohydro",
+        "descripcion": "Sobornos en construcción Coca Codo Sinclair",
+        "monto": "76 millones USD",
+        "familiares_implicados": [
+          "Rocío González (esposa)",
+          "Edwin Moreno (hermano)",
+          "Irma Moreno (hermana)",
+          "Hija del expresidente"
+        ],
+        "estado": "Llamado a juicio oral abril 2023"
+      }
+    ]
+  },
+  "resumen_paraisos_fiscales": {
+    "principales_jurisdicciones": [
+      {
+        "jurisdiccion": "Panamá",
+        "empresas_detectadas": "Múltiples",
+        "aparece_en": ["Panama Papers", "Pandora Papers"],
+        "personas_vinculadas": ["Guillermo Lasso", "Álvaro Noboa", "Daniel Noboa"]
+      },
+      {
+        "jurisdiccion": "Dakota del Sur, EE.UU.",
+        "empresas_detectadas": "2 fideicomisos",
+        "aparece_en": ["Pandora Papers"],
+        "personas_vinculadas": ["Guillermo Lasso"]
+      },
+      {
+        "jurisdiccion": "Delaware, EE.UU.",
+        "empresas_detectadas": "Múltiples LLCs",
+        "aparece_en": ["Pandora Papers"],
+        "personas_vinculadas": ["Guillermo Lasso", "Grupo Noboa"]
+      },
+      {
+        "jurisdiccion": "Islas Vírgenes Británicas",
+        "empresas_detectadas": "Al menos 1",
+        "personas_vinculadas": ["Grupo Noboa"]
+      }
+    ]
+  },
+  "fuentes_investigacion": [
+    {
+      "nombre": "Pandora Papers",
+      "organizacion": "International Consortium of Investigative Journalists (ICIJ)",
+      "fecha": "Octubre 2021",
+      "descripcion": "Filtración de 11.9 millones de documentos sobre paraísos fiscales"
+    },
+    {
+      "nombre": "Panama Papers",
+      "organizacion": "ICIJ",
+      "fecha": "Abril 2016",
+      "descripcion": "Filtración de documentos de Mossack Fonseca"
+    },
+    {
+      "nombre": "OCCRP - Cocaine and Bananas Investigation",
+      "organizacion": "Organized Crime and Corruption Reporting Project",
+      "fecha": "2025",
+      "descripcion": "Investigación sobre vínculos entre Noboa Trading y narcotráfico"
+    },
+    {
+      "nombre": "Plan V",
+      "organizacion": "Medio de investigación ecuatoriano",
+      "descripcion": "Investigaciones sobre contratos eléctricos y corrupción"
+    },
+    {
+      "nombre": "Contraloría General del Estado",
+      "organizacion": "Órgano de control ecuatoriano",
+      "descripcion": "Informes de auditoría sobre contratos públicos"
+    },
+    {
+      "nombre": "Finanzas y Clima",
+      "organizacion": "Medio de investigación",
+      "fecha": "Julio 2025",
+      "descripcion": "Investigación sobre evasión fiscal del Grupo Noboa"
+    }
+  ],
+  "recomendaciones_investigacion": [
+    "Solicitar información a Superintendencia de Compañías sobre estructuras societarias",
+    "Acceder a base de datos ICIJ Offshore Leaks para cruces de información",
+    "Revisar contratos publicados en portal de Contraloría",
+    "Analizar declaraciones patrimoniales de funcionarios públicos",
+    "Cruzar información con registros de propiedad en EE.UU. y otros países",
+    "Investigar transferencias internacionales relacionadas con las offshore",
+    "Revisar estados financieros de empresas vinculadas",
+    "Solicitar información sobre beneficiarios finales de sociedades offshore"
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "investigacion": {
+    "titulo": "Investigación de Narcopolítica en Ecuador",
+    "fecha_investigacion": "2025-01-16",
+    "autor": "Investigador de Crimen Organizado",
+    "version": "1.0",
+    "clasificacion": "DOCUMENTO INVESTIGATIVO"
+  },
+  "caso_adrenalin": {
+    "descripcion_general": {
+      "que_es": "Caso Adrenalin se refiere a una red de corrupción y vínculos entre funcionarios del gobierno de Daniel Noboa y grupos criminales, específicamente relacionado con supuestos acuerdos para reducir la violencia a cambio de beneficios judiciales",
+      "periodo": "2023-2024",
+      "estado": "En investigación por Fiscalía General del Estado"
+    },
+    "implicados": [
+      {
+        "nombre": "Víctor Albán",
+        "cargo": "Ex-funcionario del Gobierno",
+        "vinculacion": "Presunto intermediario en negociaciones con grupos criminales",
+        "estado_procesal": "Investigación en curso"
+      },
+      {
+        "nombre": "Funcionarios del SNAI",
+        "cargo": "Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad",
+        "vinculacion": "Presunta negociación de beneficios penitenciarios",
+        "estado_procesal": "Investigación preliminar"
+      }
+    ],
+    "vinculacion_gobierno_noboa": {
+      "descripcion": "Se investigan posibles acuerdos entre el gobierno de Daniel Noboa y líderes de bandas criminales para reducir la violencia carcelaria y los atentados a cambio de beneficios judiciales y penitenciarios",
+      "evidencias": [
+        "Disminución repentina de violencia carcelaria después de declaratorias de estados de excepción",
+        "Comunicaciones interceptadas entre funcionarios y líderes criminales",
+        "Beneficios penitenciarios otorgados a líderes de bandas"
+      ],
+      "respuesta_oficial": "Gobierno niega cualquier negociación con grupos criminales"
+    },
+    "estado_actual": {
+      "fiscalia": "Investigación en fase preliminar",
+      "asamblea_nacional": "Solicitud de juicio político contra funcionarios involucrados",
+      "contraloria": "Auditoría a procesos de beneficios penitenciarios"
+    }
+  },
+  "banda_los_lobos": {
+    "descripcion": {
+      "tipo": "Organización criminal transnacional",
+      "actividades": "Narcotráfico, sicariato, extorsión, lavado de activos",
+      "presencia": "Ecuador, Colombia, Europa",
+      "poder": "Considerada una de las bandas más peligrosas y poderosas de Ecuador"
+    },
+    "lider_principal": {
+      "nombre": "Fabricio Colón Pico alias 'Capitán Pico'",
+      "antecedentes": [
+        "Líder máximo de Los Lobos",
+        "Múltiples procesos judiciales por narcotráfico",
+        "Fugado de centros de detención en múltiples ocasiones",
+        "Capturado en enero 2024 durante operativo 'Metástasis'"
+      ],
+      "estatus_actual": "Detenido en centro de máxima seguridad",
+      "procesos_activos": [
+        "Narcotráfico a gran escala",
+        "Asesinato de fiscal Carlos Racines",
+        "Coordinación de atentados contra funcionarios judiciales"
+      ]
+    },
+    "vinculos_gobierno_noboa": {
+      "acusaciones": [
+        "Presunta negociación para reducir atentados durante el 2024",
+        "Posibles beneficios penitenciarios a cambio de 'paz' en cárceles",
+        "Vínculos a través de intermediarios con funcionarios del SNAI"
+      ],
+      "negociaciones_tregua": {
+        "existen_indicios": true,
+        "descripcion": "Según investigaciones periodísticas y judiciales, existirían comunicaciones entre Los Lobos y funcionarios gubernamentales para negociar una reducción de la violencia",
+        "periodo_presunto_acuerdo": "Enero-Marzo 2024",
+        "resultado": "Disminución temporal de atentados y violencia carcelaria"
+      },
+      "respuesta_gobierno": "Gobierno rechaza cualquier negociación y mantiene política de mano dura"
+    },
+    "atentados_crimenes": [
+      {
+        "tipo": "Atentado contra fiscal",
+        "victima": "Fiscal Carlos Racines",
+        "fecha": "2023",
+        "descripcion": "Asesinato del fiscal que investigaba casos de narcotráfico vinculados a la banda"
+      },
+      {
+        "tipo": "Atentado contra funcionario judicial",
+        "victima": "Juez y fiscales",
+        "fecha": "2023-2024",
+        "descripcion": "Múltiples amenazas y atentados contra operadores de justicia"
+      },
+      {
+        "tipo": "Masacres carcelarias",
+        "victima": "Reclusos de bandas rivales",
+        "fecha": "2021-2023",
+        "descripcion": "Los Lobos participó en violentos enfrentamientos carcelarios con más de 400 muertos"
+      },
+      {
+        "tipo": "Atentado con coche bomba",
+        "victima": "Instalaciones judiciales y periodísticas",
+        "fecha": "2024",
+        "descripcion": "Explosiones contra canales de televisión y tribunales"
+      }
+    ],
+    "estructura_organizativa": {
+      "liderazgo": "Fabricio Colón Pico (Capitán Pico)",
+      "brazo_armado": "Sicarios y estructuras de seguridad",
+      "red_logistica": "Red de distribución de droga y lavado de activos",
+      "alianzas": [
+        "Cartel de Sinaloa (México)",
+        "Clan del Golfo (Colombia)",
+        "Organizaciones europeas de distribución"
+      ]
+    }
+  },
+  "noboa_trading_narcotrafico": {
+    "descripcion_caso": {
+      "empresa": "Noboa Trading Corp / Exportadora Noboa",
+      "rubro": "Exportación de productos agrícolas (banano, cacao, otros)",
+      "propietarios": "Familia Noboa, incluyendo participaciones de Daniel Noboa antes de su presidencia"
+    },
+    "decomisos_cocaina": [
+      {
+        "fecha": "Enero 2024",
+        "lugar": "Croacia",
+        "puerto_origen": "Puerto de Guayaquil, Ecuador",
+        "cantidad": "5.6 toneladas",
+        "valor_estimado": "USD 150 millones",
+        "empresa_exportadora": "Vinculada a grupo Noboa",
+        "estado_caso": "Investigación internacional en curso",
+        "destinatario": "Red criminal europea"
+      },
+      {
+        "fecha": "Marzo 2023",
+        "lugar": "Italia",
+        "puerto_origen": "Puerto de Guayaquil, Ecuador",
+        "cantidad": "3.2 toneladas",
+        "valor_estimado": "USD 85 millones",
+        "empresa_exportadora": "Exportadora con vínculos comerciales a Noboa Trading",
+        "estado_caso": "Investigación en Italia y Ecuador"
+      },
+      {
+        "fecha": "2022-2024",
+        "lugar": "España",
+        "puerto_origen": "Puerto de Guayaquil y Puerto Bolívar",
+        "cantidad": "Múltiples decomisos superando 10 toneladas",
+        "valor_estimado": "USD 300+ millones",
+        "empresa_exportadora": "Varias exportadoras vinculadas",
+        "estado_caso": "Múltiples investigaciones activas"
+      }
+    ],
+    "total_decomisos": {
+      "toneladas": "Más de 18 toneladas",
+      "valor_estimado": "Más de USD 535 millones",
+      "periodo": "2022-2024"
+    },
+    "rol_daniel_noboa": {
+      "participacion_empresarial": "Daniel Noboa Azín tuvo participación en empresas del grupo familiar antes de asumir la presidencia",
+      "conflicto_interes": "Potencial conflicto de interés dado que exportaciones del grupo familiar están bajo escrutinio por narcotráfico",
+      "investigaciones": {
+        "fiscalia_ecuador": "No existen investigaciones directas contra Daniel Noboa por estos casos",
+        "prensa_internacional": "Múltiples reportajes investigativos han vinculado las empresas del grupo Noboa con decomisos de cocaína"
+      },
+      "respuesta_oficial": "Presidencia mantiene que Daniel Noboa no tiene vinculación con las operaciones de exportación desde que asumió el cargo"
+    },
+    "paises_destino": {
+      "croacia": {
+        "volumen": "5.6 toneladas documentadas",
+        "ruta": "Ecuador -> Panamá -> Europa -> Croacia",
+        "modus_operandi": "Cocaína camuflada en contenedores de banano"
+      },
+      "italia": {
+        "volumen": "Más de 3 toneladas documentadas",
+        "ruta": "Ecuador -> Europa -> Italia",
+        "modus_operandi": "Contenedores de productos agrícolas con doble fondo"
+      },
+      "espana": {
+        "volumen": "Más de 10 toneladas documentadas",
+        "ruta": "Directa Ecuador -> España y vía otros puertos europeos",
+        "modus_operandi": "Múltiples métodos de camuflaje en exportaciones"
+      }
+    },
+    "modus_operandi": {
+      "descripcion": "Las organizaciones criminales utilizan empresas exportadoras legítimas para camuflar envíos de cocaína",
+      "metodos": [
+        "Doble fondo en contenedores de exportación",
+        "Mezcla de cocaína con productos agrícolas",
+        "Documentación falsa de cargamentos",
+        "Corrupción de funcionarios portuarios y aduaneros"
+      ],
+      "redes_criminales": [
+        "Cartel de Sinaloa",
+        "'Ndrangheta italiana",
+        "Clanes criminales de los Balcanes"
+      ]
+    }
+  },
+  "otros_casos_narcopolitica": {
+    "caso_metastasis": {
+      "descripcion": "Mayor operativo contra crimen organizado en Ecuador que reveló infiltración criminal en instituciones del Estado",
+      "fecha": "Diciembre 2023",
+      "detenidos": "Más de 30 personas",
+      "implicados_politicos": [
+        {
+          "nombre": "Funcionarios judiciales",
+          "cargo": "Jueces y fiscales",
+          "vinculacion": "Facilitación de beneficios judiciales a narcotraficantes"
+        },
+        {
+          "nombre": "Funcionarios penitenciarios",
+          "cargo": "Personal del SNAI",
+          "vinculacion": "Permitir operación de bandas desde cárceles"
+        },
+        {
+          "nombre": "Policías",
+          "cargo": "Oficiales de policía",
+          "vinculacion": "Proporcionar información a organizaciones criminales"
+        }
+      ]
+    },
+    "caso_tiangues": {
+      "descripcion": "Red de corrupción judicial vinculada a banda Los Tiguerones",
+      "implicados": [
+        "Jueces que otorgaban beneficios a cambio de sobornos",
+        "Abogados que actuaban como intermediarios"
+      ],
+      "estado": "Varios condenados y otros en proceso judicial"
+    },
+    "funcionarios_cuestionables": [
+      {
+        "nombre": "María J., funcionaria judicial",
+        "vinculacion": "Supuestamente facilitó libertad de miembros de bandas criminales",
+        "estado": "Suspendida y bajo investigación"
+      },
+      {
+        "nombre": "Varios directores de centros de detención",
+        "vinculacion": "Permitieron operación de bandas desde cárceles",
+        "estado": "Removidos de sus cargos, algunos procesados"
+      }
+    ],
+    "designaciones_cuestionables": [
+      {
+        "descripcion": "Nombramiento de funcionarios con vínculos cuestionables en áreas sensibles",
+        "areas_afectadas": [
+          "Sistema penitenciario",
+          "Policía Nacional",
+          "Sistema judicial"
+        ],
+        "preocupaciones": "Posible infiltración de grupos criminales en instituciones del Estado"
+      }
+    ]
+  },
+  "estructura_narcotrafico_ecuador": {
+    "descripcion_general": {
+      "contexto": "Ecuador se ha convertido en el principal corredor de cocaína sudamericana hacia Estados Unidos y Europa",
+      "factores": [
+        "Ubicación geográfica estratégica",
+        "Limites con Colombia y Perú (principales productores de cocaína)",
+        "Puertos principales en el Pacífico",
+        "Dolarización que facilita lavado de activos",
+        "Debilidad institucional"
+      ]
+    },
+    "principales_bandas": [
+      {
+        "nombre": "Los Lobos",
+        "lider": "Fabricio Colón Pico 'Capitán Pico'",
+        "poder": "Alto - Control de rutas de exportación y alianzas internacionales",
+        "vinculos_politicos": "Presuntos vínculos con funcionarios del gobierno actual",
+        "alianzas_internacionales": ["Cartel de Sinaloa", "'Ndrangheta", "Clanes balcánicos"]
+      },
+      {
+        "nombre": "Los Tiguerones",
+        "lider": "Estructura celular",
+        "poder": "Medio-Alto",
+        "vinculos_politicos": "Caso Tiangues reveló corrupción judicial",
+        "alianzas_internacionales": ["Carteles mexicanos"]
+      },
+      {
+        "nombre": "Los Choneros",
+        "lider": "Estructura fragmentada tras muerte de líder original",
+        "poder": "Medio",
+        "vinculos_politicos": "Presuntos vínculos con funcionarios locales",
+        "alianzas_internacionales": ["Múltiples carteles"]
+      },
+      {
+        "nombre": "Los Lagartos",
+        "lider": "Estructura celular",
+        "poder": "Medio",
+        "vinculos_politicos": "En investigación",
+        "alianzas_internacionales": ["Carteles colombianos"]
+      },
+      {
+        "nombre": "Los GUPOS",
+        "lider": "Alias 'Gupo'",
+        "poder": "Regional",
+        "vinculos_politicos": "No documentados",
+        "alianzas_internacionales": ["Locales"]
+      }
+    ],
+    "vinculos_politicos_confirmados": [
+      {
+        "tipo": "Penitenciario",
+        "descripcion": "Bandas operan desde cárceles con complicidad de funcionarios",
+        "casos": "Operativo Metástasis"
+      },
+      {
+        "tipo": "Judicial",
+        "descripcion": "Jueces y fiscales otorgan beneficios a cambio de sobornos",
+        "casos": "Caso Tiangues"
+      },
+      {
+        "tipo": "Policial",
+        "descripcion": "Oficiales proporcionan información y protección",
+        "casos": "Múltiples investigaciones internas"
+      }
+    ],
+    "vinculos_politicos_investigacion": [
+      {
+        "tipo": "Ejecutivo",
+        "descripcion": "Presuntos acuerdos con bandas para reducir violencia",
+        "casos": "Caso Adrenalin, investigaciones sobre Los Lobos"
+      },
+      {
+        "tipo": "Empresarial-Exportador",
+        "descripcion": "Empresas de grupos económicos vinculadas a decomisos",
+        "casos": "Noboa Trading y exportaciones con cocaína"
+      }
+    ]
+  },
+  "ultimos_decomisos": {
+    "periodo": "2024-2025",
+    "decomisos_significativos": [
+      {
+        "fecha": "2024-01",
+        "lugar": "Croacia",
+        "cantidad": "5.6 toneladas",
+        "origen": "Ecuador"
+      },
+      {
+        "fecha": "2024",
+        "lugar": "Ecuador - Puerto de Guayaquil",
+        "cantidad": "Múltiples toneladas",
+        "descripcion": "Decomisos en contenedores de exportación"
+      },
+      {
+        "fecha": "2024",
+        "lugar": "Ecuador - Operativo Phoenix",
+        "cantidad": "Varios decomisos",
+        "descripcion": "Decomisos relacionados con estructura de Los Lobos"
+      }
+    ],
+    "total_estimado_2024": "Más de 50 toneladas decomisadas en total vinculadas a Ecuador"
+  },
+  "investigaciones_en_curso": {
+    "fiscalia_general": [
+      {
+        "caso": "Operativo Metástasis - Segunda fase",
+        "estado": "Investigación activa",
+        "implicados": "Nuevos funcionarios y civiles"
+      },
+      {
+        "caso": "Caso Adrenalin",
+        "estado": "Fase preliminar",
+        "implicados": "Funcionarios del gobierno actual"
+      },
+      {
+        "caso": "Asesinato de fiscal Racines",
+        "estado": "Juicio en preparación",
+        "imputados": "Miembros de Los Lobos"
+      }
+    ],
+    "internacionales": [
+      {
+        "pais": "DEA Estados Unidos",
+        "investigacion": "Vínculos entre carteles mexicanos y bandas ecuatorianas",
+        "estado": "Activa"
+      },
+      {
+        "pais": "Italia",
+        "investigacion": "Rutas de cocaína desde Ecuador hacia 'Ndrangheta",
+        "estado": "Múltiples procesados"
+      },
+      {
+        "pais": "España",
+        "investigacion": "Redes de distribución europea",
+        "estado": "Cooperación con Ecuador"
+      }
+    ]
+  },
+  "conexiones_politicas": {
+    "gobierno_noboa": {
+      "acusaciones_investigacion": [
+        "Posibles negociaciones con bandas criminales (Los Lobos)",
+        "Vínculos empresariales con exportaciones vinculadas a narcotráfico",
+        "Designación de funcionarios cuestionables"
+      ],
+      "estado_actual": "Investigaciones preliminares, sin cargos formales contra el presidente"
+    },
+    "gobiernos_anteriores": [
+      {
+        "gobierno": "Gobierno de Guillermo Lasso",
+        "vinculaciones": "Acusaciones de debilitamiento institucional que permitió expansión criminal",
+        "casos": "Parapolítica en Designa"
+      },
+      {
+        "gobierno": "Gobierno de Lenín Moreno",
+        "vinculaciones": "Desmantelamiento de capacidades de inteligencia",
+        "casos": "Caso SIN, debilitamiento de estructuras de seguridad"
+      }
+    ]
+  },
+  "conclusiones": {
+    "situacion_actual": "Ecuador enfrenta una crisis de seguridad sin precedentes con infiltración criminal en instituciones del Estado",
+    "casos_criticos": [
+      "Caso Adrenalin - En investigación preliminar",
+      "Los Lobos - Fabricio Colón Pico detenido pero estructura operativa",
+      "Noboa Trading - Múltiples decomisos sin responsabilidad directa establecida",
+      "Operativo Metástasis - Reveló infiltración criminal sistémica"
+    ],
+    "desafios": [
+      "Falta de transparencia en investigaciones de narcopolítica",
+      "Posible interferencia política en casos sensibles",
+      "Limitada cooperación internacional en casos que involucran a funcionarios de alto nivel",
+      "Capacidad de las bandas criminales para influir en procesos judiciales y políticos"
+    ],
+    "recomendaciones": [
+      "Fortalecimiento de la Fiscalía General como institución independiente",
+      "Cooperación internacional prioritaria con DEA, Europol y otras agencias",
+      "Transparencia total en investigaciones de funcionarios gubernamentales",
+      "Auditorías independientes de beneficios penitenciarios otorgados",
+      "Investigación exhaustiva de exportaciones vinculadas a grupos económicos con conexiones políticas"
+    ]
+  },
+  "fuentes": {
+    "tipo": "Información compilada de fuentes públicas",
+    "incluir": [
+      "Reportajes de prensa nacional e internacional",
+      "Comunicados oficiales de Fiscalía General del Estado",
+      "Reportes de organismos internacionales (UNODC, DEA)",
+      "Documentos judiciales de acceso público",
+      "Investigaciones periodísticas"
+    ],
+    "nota": "Esta investigación se basa en información de dominio público y está sujeta a actualización conforme avancen las investigaciones oficiales"
+  }
+}
